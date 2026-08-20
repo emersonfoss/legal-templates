@@ -1,0 +1,2942 @@
+# Legal Form Catalog — canonical machine-readable entries
+# Schema: id, title, jurisdiction, practice_area, category, source_tier, publisher,
+#   source_page_url, document_url (null where research recorded "n.a."), form_number,
+#   edition_or_revision_date, access, copy_policy, quality_notes, last_verified
+# Source tiers: T1_OFFICIAL | T2_MARKET_STANDARD_PUBLIC | T3_PREMIUM_REFERENCE
+# copy_policy: link_only | copy_allowed_if_license_verified | commercial_purchase | reference_only
+# All values preserved verbatim from the Aug 2026 verified research files; "n.a." is rendered as null.
+
+# ============================================================================
+# JURISDICTION: NEW YORK
+# ============================================================================
+
+# --- NY Lane 1: Corporate / entity filings (NY Department of State) ---
+
+- id: ny-dos-1239-f-certificate-of-incorporation
+  title: "Certificate of Incorporation (Business Corporation), BCL §402"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State, Div. of Corporations"
+  source_page_url: "https://dos.ny.gov/certificate-incorporation-domestic-business-corporation"
+  document_url: "https://dos.ny.gov/system/files/documents/2023/01/1239-f.pdf"
+  form_number: "DOS-1239-f"
+  edition_or_revision_date: "Rev. 12/22"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched and text-verified: includes DOS Document & Certificate Cover Sheet DOS-2183-f (04/22) as page 1; $125 fee; DOS states use of the form is optional. Same content also served at https://dos.ny.gov/certificate-incorporation-0"
+  last_verified: "2026-08-20"
+
+- id: ny-dos-1554-f-certificate-of-amendment
+  title: "Certificate of Amendment of the Certificate of Incorporation, BCL §805"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: entity-amendment
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/certificate-amendment-domestic-business-corporations"
+  document_url: "https://dos.ny.gov/system/files/documents/2020/12/1554-f.pdf"
+  form_number: "DOS-1554-f"
+  edition_or_revision_date: "Rev. 03/17"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Verified statute line \"Under Section 805 of the Business Corporation Law\"; $60 filing fee stated on form."
+  last_verified: "2026-08-20"
+
+- id: ny-dos-1556-f-certificate-of-change-domestic
+  title: "Certificate of Change (domestic business corporation), BCL §805-A"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: entity-amendment
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/certificate-change-domestic-business-corporations"
+  document_url: "https://dos.ny.gov/system/files/documents/2023/01/1556-f.pdf"
+  form_number: "DOS-1556-f"
+  edition_or_revision_date: "Rev. 12/22"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "LLC-vs-corp trap. Correct corporate form. Caution: https://dos.ny.gov/system/files/documents/2023/01/1359-f.pdf is the LLC certificate of change (LLCL) and https://dos.ny.gov/system/files/documents/2019/01/1375-f.pdf is the LLC agent-filed version — easily mis-picked."
+  last_verified: "2026-08-20"
+
+- id: ny-dos-1557-f-certificate-of-change-foreign
+  title: "Certificate of Change (foreign business corporation), BCL §1309-A"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: entity-amendment
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/domestic-business-corporations"
+  document_url: "https://dos.ny.gov/system/files/documents/2023/01/1557-f.pdf"
+  form_number: "DOS-1557-f"
+  edition_or_revision_date: "n.a. (no revision code printed on the fetched PDF beyond \"DOS-1557-f\")"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Statute line verified as BCL §1309-A; $30 fee; signer capacity box (officer/director/authorized person)."
+  last_verified: "2026-08-20"
+
+- id: ny-dos-certificate-of-merger-sample-cover-sheet
+  title: "Certificate of Merger / Consolidation, BCL §§901, 904-a"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: merger-filing
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/certificate-merger-domestic-and-foreign-business-corporations"
+  document_url: "https://dos.ny.gov/certificate-merger-sample"
+  form_number: "n.a. (sample cover sheet; no numbered fillable form)"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "MERGER-FORM CAVEAT / important practice point: DOS publishes NO fillable business-corporation merger certificate — only a sample cover sheet; the certificate itself must be drafted. Sample cover sheet also at https://dos.ny.gov/system/files/documents/2018/10/busmergercoversheetsample.pdf. The DOS merger page cites BCL §§901 and 904-a. LLC merger forms do exist: https://dos.ny.gov/system/files/documents/2023/01/1371-f.pdf (domestic LLC survivor), https://dos.ny.gov/system/files/documents/2023/01/1372-f.pdf (domestic entity into domestic LLC), https://dos.ny.gov/system/files/documents/2023/01/1368-f.pdf (foreign LLC survivor)."
+  last_verified: "2026-08-20"
+
+- id: ny-dos-1337-f-certificate-of-dissolution
+  title: "Certificate of Dissolution (domestic business corporation), BCL §1003"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: entity-dissolution
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/certificate-dissolution-domestic-business-corporations"
+  document_url: "https://dos.ny.gov/system/files/documents/2023/08/1337-f.pdf"
+  form_number: "DOS-1337-f"
+  edition_or_revision_date: "Rev. 03/17"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Form notes require attached NYS Tax & Finance consent (and NYC Dept. of Finance consent if applicable); $60 fee. Do not confuse with https://dos.ny.gov/system/files/documents/2018/12/1561-f.pdf, the Not-for-Profit dissolution form (N-PCL §1003)."
+  last_verified: "2026-08-20"
+
+- id: ny-dos-1563-f-certificate-of-surrender-of-authority
+  title: "Certificate of Surrender of Authority (foreign business corporation), BCL §1310"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: foreign-qualification
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/certificate-surrender-authority-foreign-business-corporations"
+  document_url: "https://dos.ny.gov/system/files/documents/2023/01/1563-f.pdf"
+  form_number: "DOS-1563-f"
+  edition_or_revision_date: "Rev. 12/22"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Statute line BCL §1310 verified on fetched PDF. This is the \"exit New York\" counterpart to the Application for Authority."
+  last_verified: "2026-08-20"
+
+- id: ny-dos-1335-f-a-application-for-authority
+  title: "Application for Authority (foreign business corporation), BCL §1304"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: foreign-qualification
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/application-authority-foreign-business-corporation"
+  document_url: "https://dos.ny.gov/system/files/documents/2018/11/1335-f.pdf"
+  form_number: "DOS-1335-f-a"
+  edition_or_revision_date: "Rev. 03/17"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "$225 filing fee and possible NYS Tax Commission consent stated on the form. Professional-service foreign corporations use a different form, 1627-f (BCL §1530): https://dos.ny.gov/system/files/documents/2018/11/1627-f.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-dos-1338-f-certificate-of-assumed-name
+  title: "Certificate of Assumed Name (DBA), GBL §130"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: assumed-name
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/certificate-assumed-name-domestic-and-foreign-business-corporations"
+  document_url: "https://dos.ny.gov/system/files/documents/2018/10/1338-f.pdf"
+  form_number: "DOS-1338-f"
+  edition_or_revision_date: "Rev. 03/17"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Same content at https://dos.ny.gov/certificate-assumed-name. Corporate fee is $25 plus per-county fees ($100/county inside NYC, $25/county outside) — county checkboxes must be completed (source: https://dos.ny.gov/system/files/documents/2019/01/1338-f_0.pdf)."
+  last_verified: "2026-08-20"
+
+- id: ny-dos-1625-f-certificate-of-discontinuance-of-assumed-name
+  title: "Certificate of Discontinuance of Assumed Name, GBL §130"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: assumed-name
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/certificate-discontinuance-assumed-name-domestic-and-foreign-business-corporations"
+  document_url: "https://dos.ny.gov/certificate-discontinuance-assumed-name"
+  form_number: "DOS-1625-f"
+  edition_or_revision_date: "Rev. 03/17"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Form text (DOS-1625-f, GBL §130, $25 fee) fetched and verified at that URL; a stable /system/files/... PDF path for 1625-f could not be confirmed from any fetched official page, so the DOS-hosted form URL is given instead."
+  last_verified: "2026-08-20"
+
+- id: ny-dos-biennial-statement
+  title: "Biennial Statement (business corporations & LLCs), BCL §408"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: annual-biennial-report
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/biennial-statements-business-corporations-and-limited-liability-companies"
+  document_url: null
+  form_number: "n.a. (no paper form published; e-filed)"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "n.a. — filed through the e-Statement Filing Service https://filing.dos.ny.gov/eBiennialWeb/. The DOS biennial page cites BCL §408 and routes filers to the e-Statement Filing Service and the Email Address Submission/Update Service https://filing.dos.ny.gov/eBiennialWeb/emailUpdateHome; no downloadable DOS-numbered biennial form was linked from the fetched page."
+  last_verified: "2026-08-20"
+
+- id: ny-dos-2183-f-document-and-certificate-cover-sheet
+  title: "Document and Certificate Cover Sheet (filing/copies/status requests)"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: diligence-and-cover-sheets
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/certificate-incorporation-domestic-business-corporation"
+  document_url: "https://dos.ny.gov/system/files/documents/2023/01/1239-f.pdf"
+  form_number: "DOS-2183-f"
+  edition_or_revision_date: "04/22"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Embedded as page 1 of most DOS certificate PDFs, e.g. 1239-f.pdf. Useful for certified-copy ($10/doc), plain-copy ($5/doc) and long/short-form Certificate of Status ($25) requests — the standard PE/M&A due-diligence pull. Standalone stable URL for the cover sheet alone: n.a."
+  last_verified: "2026-08-20"
+
+- id: ny-dos-certificate-of-amendment-name-change-only
+  title: "Certificate of Amendment — name change only (domestic business corporation)"
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: entity-amendment
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Dept. of State"
+  source_page_url: "https://dos.ny.gov/certificate-amendment-name-change-only-domestic-business-corporations-0"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Listed on the fetched DOS domestic-business-corporation index (https://dos.ny.gov/domestic-business-corporations); a distinct numbered PDF was not confirmed from a fetched page. Use DOS-1554-f if in doubt."
+  last_verified: "2026-08-20"
+
+# --- NY Lane 2: Commercial litigation (Supreme Court civil, Commercial Division, NYSCEF) ---
+# Caveats: no statewide summons / Note of Issue / Notice of Entry form; filing the RJI without the
+# Commercial Division Addendum (UCS-840C) is the classic Commercial Division assignment error;
+# nycourts.gov blocks automated fetching, so several document URLs are hrefs read from archived
+# snapshots of the official pages (contents not independently read).
+
+- id: ny-ucs-840-request-for-judicial-intervention
+  title: "Request for Judicial Intervention (RJI)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: case-initiation-and-assignment
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Unified Court System"
+  source_page_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms.htm"
+  document_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/ucs840.pdf"
+  form_number: "UCS-840"
+  edition_or_revision_date: "rev. 07/29/2019"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched and text-verified (caption block, \"Commercial – Business Entity/Contract\" nature-of-action boxes). Fillable mirror on nycourts.gov: https://www.nycourts.gov/LegacyPDFS/forms/rji/UCS-840-fillable.pdf — that path is linked from the official 9th JD Supreme Court forms page https://ww2.nycourts.gov/courts/9jd/forms_supreme.shtml (archived snapshot) but nycourts.gov blocks direct fetching."
+  last_verified: "2026-08-20"
+
+- id: ny-ucs-840c-rji-commercial-division-addendum
+  title: "Request for Judicial Intervention — Commercial Division Addendum"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: case-initiation-and-assignment
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Unified Court System / Commercial Division"
+  source_page_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms.htm"
+  document_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/ucs840c.pdf"
+  form_number: "UCS-840C"
+  edition_or_revision_date: "03/2025"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "TRAP: filing the RJI without this addendum is the classic Commercial Division assignment error. Newest edition (03/2025) verified by fetch; cause-of-action checkboxes track Rule 202.70(b). The Commercial Division New York County page links the fillable copy as \"CD Addendum form - fillable\" at https://www.nycourts.gov/LegacyPDFS/forms/rji/UCS-840C-fillable.pdf (archived official page https://ww2.nycourts.gov/courts/comdiv/ny/newyork.shtml)."
+  last_verified: "2026-08-20"
+
+- id: ny-nyscef-notice-of-electronic-filing-mandatory
+  title: "Notice of Electronic Filing (Mandatory e-filed case), Uniform Rule §202.5-bb"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: e-filing
+  source_tier: T1_OFFICIAL
+  publisher: "NYS Unified Court System / NYSCEF"
+  source_page_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms.htm"
+  document_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/notice.of.commencement.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "n.a. (no revision code printed)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched: this is the NEF served with initiating papers in mandatory e-filing counties; caption and §202.5-bb reference verified."
+  last_verified: "2026-08-20"
+
+- id: ny-nyscef-notice-of-electronic-filing-consensual
+  title: "Notice of Electronic Filing (consensual/availability, Supreme Court civil)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: e-filing
+  source_tier: T1_OFFICIAL
+  publisher: "NYSCEF"
+  source_page_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms.htm"
+  document_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/notice.of.availability.civil.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "URL taken from the fetched NYSCEF index (Supreme Court civil section); a Spanish version is also listed. Verify mandatory vs. consensual status for the county before serving."
+  last_verified: "2026-08-20"
+
+- id: ny-nyscef-account-registration-existing-cases
+  title: "\"NYSCEF\" Account Registration Form for Existing Cases — Non-Attorney / Filing Agent / Pro Hac Vice"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: e-filing
+  source_tier: T1_OFFICIAL
+  publisher: "NYSCEF E-filing Resource Center"
+  source_page_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms.htm"
+  document_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/registration.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched; the form's option (b) covers out-of-state counsel admitted pro hac vice needing NYSCEF access."
+  last_verified: "2026-08-20"
+
+- id: ny-nyscef-statement-of-authorization-managing-attorney
+  title: "Statement of Authorization for Electronic Filing (Managing Attorney authorizing filing agent)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: e-filing
+  source_tier: T1_OFFICIAL
+  publisher: "NYSCEF"
+  source_page_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms.htm"
+  document_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/authorization.managing.attorney.agent.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Four variants exist (single vs. managing attorney; individual agent vs. agent entity), all listed on the fetched index; revocation forms are at https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/revocation.of.authorization.managing.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-nyscef-notice-of-hard-copy-submission
+  title: "Notice of Hard Copy Submission — E-Filed Cases / Notice of Hard Copy Exhibit Filing"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: e-filing
+  source_tier: T1_OFFICIAL
+  publisher: "NYSCEF"
+  source_page_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms.htm"
+  document_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/notice.hard.copy.submission.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Companion exhibit version: https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/notice.hard.copy.exhibit.pdf. Court-specific duplicates exist (City, District, Court of Claims, NYC Civil); the two URLs are the Supreme Court civil versions on the fetched index."
+  last_verified: "2026-08-20"
+
+- id: ny-nyscef-stipulation-consent-and-conversion-package
+  title: "Stipulation and Consent to E-Filing; Letter Application to Convert Pending Action to E-Filing; Notice of Conversion"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: e-filing
+  source_tier: T1_OFFICIAL
+  publisher: "NYSCEF"
+  source_page_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms.htm"
+  document_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/stipulation.and.consent.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "The standard package for moving a legacy paper commercial case into NYSCEF; all three URLs come from the fetched index: https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/stipulation.and.consent.pdf · https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/application.convert.pending.action.pdf · https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/notice.conversion.efiling.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-9jd-summons-supreme-court-civil
+  title: "Summons (Supreme Court civil)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: case-initiation-and-service
+  source_tier: T1_OFFICIAL
+  publisher: "UCS — 9th Judicial District (Supreme Court forms)"
+  source_page_url: "https://ww2.nycourts.gov/courts/9jd/forms_supreme.shtml"
+  document_url: "https://www.nycourts.gov/LegacyPDFS/courts/9jd/Forms/supreme/summons.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "URL extracted as a live href from an archived snapshot of the official 9th JD forms page; nycourts.gov blocks automated fetching, so contents were not independently read. UCS publishes no single statewide summons form — templates are judicial-district/county forms, so confirm the local part rules."
+  last_verified: "2026-08-20"
+
+- id: ny-9jd-summons-with-notice
+  title: "Summons with Notice (CPLR 305(b))"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: case-initiation-and-service
+  source_tier: T1_OFFICIAL
+  publisher: "UCS — 9th Judicial District"
+  source_page_url: "https://ww2.nycourts.gov/courts/9jd/forms_supreme.shtml"
+  document_url: "https://www.nycourts.gov/LegacyPDFS/courts/9jd/Forms/supreme/summons_with_notice.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Same verification method/caveat as the summons row (href from archived official page, unconfirmed). Commercial practitioners commonly commence by summons with notice to preserve the statute of limitations."
+  last_verified: "2026-08-20"
+
+- id: ny-9jd-notice-of-motion-civil-and-affidavit
+  title: "Notice of Motion for Civil Proceeding and Affidavit (in support)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: motion-practice
+  source_tier: T1_OFFICIAL
+  publisher: "UCS — 9th Judicial District"
+  source_page_url: "https://ww2.nycourts.gov/courts/9jd/forms_supreme.shtml"
+  document_url: "https://www.nycourts.gov/LegacyPDFS/courts/9jd/Forms/supreme/Notice_motion_civil_proceedings.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "href from archived official page. Companion forms on the same page: Affidavit in Opposition/Cross-Motion (cross_motion.pdf) and Reply Affidavit (reply_affidavit.pdf). Attorney affirmations in the Commercial Division must also satisfy the Rule 202.70(g) word-count/certification requirements."
+  last_verified: "2026-08-20"
+
+- id: ny-9jd-order-to-show-cause-and-tro
+  title: "Order to Show Cause and Affidavit in Support / OSC with Temporary Restraining Order"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: emergency-relief
+  source_tier: T1_OFFICIAL
+  publisher: "UCS — 9th Judicial District"
+  source_page_url: "https://ww2.nycourts.gov/courts/9jd/forms_supreme.shtml"
+  document_url: "https://www.nycourts.gov/LegacyPDFS/courts/9jd/Forms/supreme/OTSC.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "hrefs from archived official page; TRO version at https://www.nycourts.gov/LegacyPDFS/courts/9jd/Forms/supreme/OTSC_with_TRO_in_Civ_Action.pdf. For TROs in the Commercial Division, the individual part rules and Rule 202.70(g) Rule 20 (interim relief) control notice requirements."
+  last_verified: "2026-08-20"
+
+- id: ny-9jd-affidavit-of-service
+  title: "Affidavit of Service — Initiating Papers / After Commencement of Litigation"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: case-initiation-and-service
+  source_tier: T1_OFFICIAL
+  publisher: "UCS — 9th Judicial District"
+  source_page_url: "https://ww2.nycourts.gov/courts/9jd/forms_supreme.shtml"
+  document_url: "https://www.nycourts.gov/LegacyPDFS/courts/9jd/Forms/supreme/Affidavit_of_Service_Initiating_Papers.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "hrefs from archived official page; after-commencement version at https://www.nycourts.gov/LegacyPDFS/courts/9jd/Forms/supreme/Affidavit_of_Service_After_Commencement_of_Litigation.pdf. In e-filed cases, NYSCEF filing itself constitutes service on consenting parties (Rule 202.5-b/bb), so these are for non-participating parties and initiating papers."
+  last_verified: "2026-08-20"
+
+- id: ny-preliminary-conference-order-commercial-cases-ny-county
+  title: "Preliminary Conference Order — Commercial Cases (Supreme Court, NY County)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: case-management
+  source_tier: T1_OFFICIAL
+  publisher: "UCS — 1st JD, Supreme Court Civil Branch"
+  source_page_url: "https://ww2.nycourts.gov/courts/1jd/supctmanh/preliminary_conf_forms.shtml"
+  document_url: "https://www.nycourts.gov/LegacyPDFS/courts/1jd/supctmanh/PC-CD.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "href labelled \"Commercial Cases\" extracted from an archived snapshot of the official 1st JD preliminary-conference forms page. This is the closest thing to a model Commercial Division PC order; individual justices (e.g., Part 3, Part 54) post their own variants such as https://www.nycourts.gov/LegacyPDFS/courts/comdiv/NY/PDFs/Part3-Preliminary-Conference-Order.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-commercial-division-rule-10-adr-certification
+  title: "ADR Certification Form (Commercial Division Rule 10 — counsel certification re: ADR discussion)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: adr
+  source_tier: T1_OFFICIAL
+  publisher: "Commercial Division, Supreme Court, NY County"
+  source_page_url: "https://ww2.nycourts.gov/courts/comdiv/ny/newyork.shtml"
+  document_url: "https://www.nycourts.gov/LegacyPDFS/courts/comdiv/ny/PDFs/Rule10-Cert.pdf"
+  form_number: "n.a. (Commercial Division Rule 10)"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "href from archived official Commercial Division NY County page; the statewide version is also linked from the Commercial Division home page (https://ww2.nycourts.gov/courts/comdiv/index.shtml) as \"Alternative Dispute Resolution Attorney Certification (Commercial Division Rule 10)\" at https://www.nycourts.gov/LegacyPDFS/RULES/trialcourts/AO 202_ExhibitA.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-ao-270-20-commercial-division-rules-with-exhibits
+  title: "Commercial Division Rules (22 NYCRR 202.70) with Table of Contents and Exhibits/model appendices"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: rules-and-model-appendices
+  source_tier: T1_OFFICIAL
+  publisher: "Chief Administrative Judge / Commercial Division"
+  source_page_url: "https://ww2.nycourts.gov/courts/comdiv/index.shtml"
+  document_url: "https://www.nycourts.gov/LegacyPDFS/RULES/chiefadmin/AO-270-20with-ToC-and-Exhs.pdf"
+  form_number: "AO-270-20"
+  edition_or_revision_date: "Effective Feb. 1, 2021 per the Commercial Division page"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "href and effective date read from the archived official Commercial Division page. The exhibits are where the Commercial Division \"model\" appendices live (e.g., ESI/discovery appendices under Rule 11 series). The rules text itself is at https://ww2.nycourts.gov/rules/trialcourts/202.shtml#70"
+  last_verified: "2026-08-20"
+
+- id: ny-commercial-division-approved-confidentiality-stipulation
+  title: "Approved Confidentiality Stipulation / Order (Commercial Division model)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: protective-orders
+  source_tier: T1_OFFICIAL
+  publisher: "Commercial Division, Supreme Court"
+  source_page_url: "https://ww2.nycourts.gov/courts/comdiv/index.shtml"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "n.a. — path https://www.nycourts.gov/LegacyPDFS/courts/comdiv/PDFs/Approved-Confidentiality-Stipulation.pdf appears in indexed results but was NOT confirmed as an href on any page fetched in this session. Treated as unconfirmed on purpose. Use the model confidentiality order contained in the AO-270-20 exhibits, or the assigned justice's part rules, until the standalone PDF link is confirmed from the live page."
+  last_verified: "2026-08-20"
+
+- id: ny-ad2-subpoena-duces-tecum
+  title: "Subpoena Duces Tecum (Supreme Court caption; published by AD 2d Dept.)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: discovery
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, Second Judicial Department"
+  source_page_url: "https://www.nycourts.gov/courts/ad2/formsandpracticeaids.shtml"
+  document_url: "https://www.nycourts.gov/courts/AD2/forms/subpoenaducestecum.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "href from an archived snapshot of the official AD2 forms page (page existence re-confirmed by live screenshot). Note this is an appellate-department-published form; there is NO statewide UCS trial-level subpoena duces tecum form — CPLR 2301/2302 and 3120 practice usually means attorney-drafted subpoenas."
+  last_verified: "2026-08-20"
+
+- id: ny-note-of-issue-certificate-of-readiness-trial-level
+  title: "Note of Issue / Certificate of Readiness (trial level)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: trial-readiness
+  source_tier: T1_OFFICIAL
+  publisher: "UCS — county/district specific"
+  source_page_url: "https://www.nycourts.gov/forms/"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Deliberately marked n.a.: no statewide trial-level Note of Issue form URL could be confirmed from a fetched official page. County versions exist (Bronx, Nassau, Kings, Queens) but each is a local clerk form — pull it from the county Supreme Court civil page for the venue. Note that the Appellate Division First Department publishes its own separate appellate Note of Issue."
+  last_verified: "2026-08-20"
+
+- id: ny-notice-of-entry-of-judgment-or-order
+  title: "Notice of Entry of Judgment/Order (CPLR 5513)"
+  jurisdiction: NY
+  practice_area: commercial-litigation
+  category: judgments-and-appeal-triggers
+  source_tier: T1_OFFICIAL
+  publisher: "UCS — county/district specific"
+  source_page_url: "https://www.nycourts.gov/forms/"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "No statewide official Notice of Entry form confirmed from a fetched page; in NYSCEF cases the e-filed \"Notice of Entry\" is generated by attaching the entered order plus the NYSCEF confirmation. Confirm the local clerk practice."
+  last_verified: "2026-08-20"
+
+# --- NY Lane 3: Appellate (First Dept. vs. Second Dept.) ---
+# WARNING: AD1 and AD2 forms DIFFER and must never be cross-used. AD1 publishes a Note of Issue and
+# a Summary Statement (interim relief) and NO Notice of Appeal form; AD2 publishes a Notice of Appeal,
+# Notice of Motion, OSC, Informational Statement, CPLR 5531 statement, brief/record forms and its own
+# e-filing set. The "Informational Statement" name exists in both Departments as different documents.
+
+- id: ny-ad1-notice-of-appearance
+  title: "Notice of Appearance (First Dept.)"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: appearance
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 1st Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad1/Practice&Procedures/index.shtml"
+  document_url: "https://www.nycourts.gov/courts/AD1/pdfs/noticeofappearance.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "First Dept. only. href from archived snapshot of the official AD1 rules-and-forms page; page contents re-confirmed by live screenshot showing \"Notice of Appearance (PDF)\"."
+  last_verified: "2026-08-20"
+
+- id: ny-ad1-note-of-issue
+  title: "Note of Issue (First Dept. appellate note of issue)"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: perfection
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 1st Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad1/Practice&Procedures/index.shtml"
+  document_url: "https://www.nycourts.gov/courts/ad1/Practice&Procedures/forms/Note of Issue.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Relative href \"forms/Note of Issue.pdf\" read from the archived AD1 page and resolved against that page's directory; live screenshot shows \"Note of Issue (PDF)\" in the Forms list. FIRST DEPT. ONLY — the Second Dept. has no counterpart."
+  last_verified: "2026-08-20"
+
+- id: ny-ad1-informational-statement
+  title: "Informational Statement (First Dept.)"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: perfection
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 1st Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad1/Practice&Procedures/index.shtml"
+  document_url: "https://www.nycourts.gov/courts/ad1/Practice&Procedures/forms/Informational Statement.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "href from archived AD1 page. Note the same form NAME exists in the Second Dept. with a different document and different filing trigger — do not swap them."
+  last_verified: "2026-08-20"
+
+- id: ny-ad1-summary-statement-expedited-service-interim-relief
+  title: "Summary Statement on Application for Expedited Service and/or Interim Relief (First Dept.)"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: interim-relief
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 1st Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad1/Practice&Procedures/index.shtml"
+  document_url: "https://www.nycourts.gov/courts/ad1/Practice&Procedures/forms/Summary of Statement on Application 3.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "href from archived AD1 page; required for interim-relief/expedited applications in the First Dept. — a First-Department-specific requirement with no Second Dept. analogue."
+  last_verified: "2026-08-20"
+
+- id: ny-ad1-waiver-of-costs-fees-and-expenses
+  title: "Civil Supreme Court — Application for Waiver of Costs, Fees and Expenses (First Dept.)"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: fees-and-waivers
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 1st Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad1/Practice&Procedures/index.shtml"
+  document_url: "https://www.nycourts.gov/courts/ad1/Practice&Procedures/forms/Civil%20Supreme%20Court%20Waiver%20of%20Costs,%20Fees%20and%20Expenses%20Application.%20Revised1-3-2025.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Revised 1-3-2025 (per file name/href on the AD1 page)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "href from archived AD1 page."
+  last_verified: "2026-08-20"
+
+- id: ny-ad1-efiling-technical-requirements
+  title: "E-Filing rules and formatting specifications (First Dept.)"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: e-filing
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 1st Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad1/e-filing/efiling.shtml"
+  document_url: "https://www.nycourts.gov/courts/ad1/E-Filing/TechnicalRequirementsEfiling.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "AD1 e-filing page and technical-requirements PDF path identified from official-domain results; contents not fetched (site blocks bots). First Dept. appellate e-filing runs through NYSCEF appellate forms — see https://iappscontent.courts.state.ny.us/NYSCEF/live/forms.htm"
+  last_verified: "2026-08-20"
+
+- id: ny-ad2-notice-of-appeal
+  title: "Notice of Appeal (Second Dept.)"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: notice-of-appeal
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 2d Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad2/formsandpracticeaids.shtml"
+  document_url: "https://www.nycourts.gov/courts/AD2/forms/noticeofappeal.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "href from archived snapshot of the official AD2 forms page; page confirmed live by screenshot. The First Dept. publishes no such form — this asymmetry is the single most common cross-department error."
+  last_verified: "2026-08-20"
+
+- id: ny-ad2-notice-of-motion
+  title: "Notice of Motion (Second Dept.) + Instructions"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: motion-practice
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 2d Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad2/formsandpracticeaids.shtml"
+  document_url: "https://www.nycourts.gov/courts/AD2/forms/noticeofmotion-NEW.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "n.a. (\"NEW\" version per file name)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "hrefs from archived AD2 forms page; instructions at https://www.nycourts.gov/courts/AD2/forms/InstructionsforNoticeofMotion-NEW.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-ad2-order-to-show-cause
+  title: "Order to Show Cause (Second Dept.) + Instructions + Guide to Service/Filing/Fees"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: interim-relief
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 2d Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad2/formsandpracticeaids.shtml"
+  document_url: "https://www.nycourts.gov/courts/AD2/forms/ordertoshowcause-new.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "hrefs from archived AD2 forms page; instructions https://www.nycourts.gov/courts/AD2/forms/InstructionsforOSC-new.pdf and guide https://www.nycourts.gov/courts/AD2/pdf/GuidetoOTSCs-new.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-ad2-affidavit-affirmation-and-service-forms
+  title: "Affidavit / Affirmation / Affidavit of Service / Affirmation of Service (Second Dept.)"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: supporting-papers
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 2d Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad2/formsandpracticeaids.shtml"
+  document_url: "https://www.nycourts.gov/courts/AD2/forms/affidavit.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Affidavit of Service file name indicates a 09/2025 edition"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "hrefs from archived AD2 forms page: https://www.nycourts.gov/courts/AD2/forms/affidavit.pdf · https://www.nycourts.gov/courts/AD2/forms/affirmation.pdf · https://www.nycourts.gov/courts/AD2/forms/affidavitofservice092025.pdf · https://www.nycourts.gov/courts/AD2/forms/AffirmationofService.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-ad2-appellants-brief-and-record-on-appeal-forms
+  title: "Appellant's Brief form / Record on Appeal form (Second Dept.)"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: briefs-and-records
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 2d Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad2/formsandpracticeaids.shtml"
+  document_url: "https://www.nycourts.gov/courts/AD2/forms/appellantsbrief-new.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "hrefs from archived AD2 forms page; record form at https://www.nycourts.gov/courts/AD2/forms/recordonappeal-new.pdf. The First Dept. publishes no equivalent cover-form set; formatting there is governed by 22 NYCRR 1250.8 and the First Dept. technical requirements."
+  last_verified: "2026-08-20"
+
+- id: ny-ad2-informational-statement-civil
+  title: "Informational Statement — Civil Cases (Second Dept.) + Instructions"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: perfection
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 2d Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad2/formsandpracticeaids.shtml"
+  document_url: "https://www.nycourts.gov/courts/AD2/forms/InformationalStatement.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "hrefs from archived AD2 forms page (four separately downloadable parts also listed, p1–p4); instructions at https://www.nycourts.gov/courts/AD2/forms/InstructionsforInformationalStatement.pdf. Do not swap with the differently-scoped First Dept. Informational Statement."
+  last_verified: "2026-08-20"
+
+- id: ny-ad2-cplr-5531-and-certification-statements
+  title: "CPLR 5531 Statement; Printing Specifications Statement (22 NYCRR 1250.8[j]); Certification CPLR 2105; Certification 22 NYCRR Part 130 (Second Dept.)"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: certifications
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 2d Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad2/formsandpracticeaids.shtml"
+  document_url: "https://www.nycourts.gov/courts/AD2/forms/CPLR5531_statement.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "hrefs from archived AD2 forms page: https://www.nycourts.gov/courts/AD2/forms/CPLR5531_statement.pdf · https://www.nycourts.gov/courts/AD2/forms/PrintingSpecificationsStatement_1250_8_j.pdf · https://www.nycourts.gov/courts/AD2/forms/certification_CPLR2105.pdf · https://www.nycourts.gov/courts/AD2/forms/certification_22NYCRR_%20part130.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-ad2-local-rules-efiling-rules-guide-to-practice
+  title: "Second Dept. Local Rules of Practice; Electronic Filing Rules; Guide to Civil Practice"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: rules
+  source_tier: T1_OFFICIAL
+  publisher: "Appellate Division, 2d Dept."
+  source_page_url: "https://www.nycourts.gov/courts/ad2/formsandpracticeaids.shtml"
+  document_url: "https://www.nycourts.gov/courts/ad2/pdf/Local_Rules.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Local Rules effective 9/17/18 per the AD2 page label"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "hrefs and the effective-date label were read from the archived AD2 forms page: https://www.nycourts.gov/courts/ad2/pdf/Local_Rules.pdf · https://www.nycourts.gov/courts/ad2/pdf/efilingrules.pdf · https://www.nycourts.gov/courts/AD2/pdf/Guide to Practice.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-nyscef-appellate-efiling-form-set
+  title: "Appellate e-filing forms (both Departments): Notification of Case Number; Statement of Authorization; Attorney Exemption Certification; Notice of Hard Copy Submission; Notice of Intent to Cease E-Filing"
+  jurisdiction: NY
+  practice_area: appellate-litigation
+  category: e-filing
+  source_tier: T1_OFFICIAL
+  publisher: "NYSCEF (appellate module)"
+  source_page_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms.htm"
+  document_url: "https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/appellate/notice.of.case.number.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "All URLs fetched from the NYSCEF index: https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/appellate/notice.of.case.number.pdf · https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/appellate/statement.of.authorization.managing.pdf · https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/appellate/attorney.exemption.pdf · https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/appellate/notice.hardcopy.submission.pdf · https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/appellate/cease.efiling.pdf. Department-specific variants exist even here: the index separately lists a Statement of Voluntary/Consensual E-Filing for the 2d Dept. (https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/appellate/statement.of.efiling.2nd.dept.pdf) and a Statement of E-Filing for the 3d Dept. (https://iappscontent.courts.state.ny.us/NYSCEF/live/forms/appellate/statement.of.efiling.3rd.dept.pdf) — further proof that department matters."
+  last_verified: "2026-08-20"
+
+# --- NY Lane 4: Federal commercial litigation (S.D.N.Y. + E.D.N.Y.) ---
+# Caveats: SDNY pro hac vice is CM/ECF-only (no form); EDNY re-versions the JS-44 often (re-pull);
+# protective-order and ESI templates are judge-specific, not district-wide.
+
+- id: ny-fed-sdny-js44c-civil-cover-sheet
+  title: "Civil Cover Sheet (SDNY local version of JS-44)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: case-initiation
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, S.D.N.Y."
+  source_page_url: "https://nysd.uscourts.gov/forms/civil-cover-sheet"
+  document_url: "https://nysd.uscourts.gov/sites/default/files/2025-12/2025%20Civil%20Cover%20Sheet%202025-12_0.pdf"
+  form_number: "JS-44C/SDNY"
+  edition_or_revision_date: "REV. 12/2025"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched; header reads \"JS 44C/SDNY REV. 12/2025\". SDNY's version adds the local Related Case/Arbitration and division-of-business boxes, so the national JS-44 alone is not sufficient. Nature-of-suit code guide: https://nysd.uscourts.gov/sites/default/files/2020-10/Civil_Cover_Sheet_NOS_descriptions_10-01-2020.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-fed-edny-js44-civil-cover-sheet
+  title: "Civil Cover Sheet (EDNY)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: case-initiation
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.Y."
+  source_page_url: "https://www.nyed.uscourts.gov/forms-search"
+  document_url: "https://www.nyed.uscourts.gov/sites/default/files/uploads/js44-45.07162026.pdf"
+  form_number: "JS-44 (EDNY)"
+  edition_or_revision_date: "Revised 7.16.2026; effective 7.16.2026"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched and verified. CAVEAT: EDNY re-versions this file frequently (an earlier js44-45.03202026.pdf also exists), and the legacy path /sites/default/files/forms/js44-45.pdf now returns an error — always re-pull from the current forms page."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-sdny-summons-in-a-civil-action
+  title: "Summons in a Civil Action (SDNY)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: case-initiation-and-service
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, S.D.N.Y."
+  source_page_url: "https://nysd.uscourts.gov/forms/summons-civil-case"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Form page confirmed on the fetched SDNY forms index; SDNY renders the document in an embedded viewer and no stable \"Launch Document\" URL was exposed for this entry. Special-purpose variants do have stable URLs: FOIA summons https://nysd.uscourts.gov/sites/default/files/2019-11/summons-in-a-civil-action-foia-pdf.pdf; 28 U.S.C. §1608 (foreign state) https://nysd.uscourts.gov/sites/default/files/2018-06/summons-in-a-civil-case-28-usc-1608-pdf-1-pdf.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-fed-edny-summons-ao440-nyed
+  title: "Summons in a Civil Action (EDNY, AO440-NYED)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: case-initiation-and-service
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.Y."
+  source_page_url: "https://www.nyed.uscourts.gov/forms-search"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "n.a. — the EDNY document host img.nyed.uscourts.gov disallows automated fetching, so AO440-NYED.pdf could not be verified. Marked n.a. by design; request the current summons via the EDNY forms search or the clerk's office."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-sdny-pro-hac-vice-cmecf-only
+  title: "Motion to Admit Counsel Pro Hac Vice (SDNY)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: admissions
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, S.D.N.Y."
+  source_page_url: "https://nysd.uscourts.gov/attorney/prohac"
+  document_url: null
+  form_number: "n.a. (ECF-only motion practice)"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "CAVEAT: no downloadable form; filed via CM/ECF. Fetched page states that since Sept. 1, 2012 pro hac vice motions AND fees must be filed online via CM/ECF, a separate motion is required per applicant, and the admitted attorney must then obtain a PACER account and e-file a notice of appearance."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-edny-pro-hac-vice-motion
+  title: "Notice of Motion to Admit Counsel Pro Hac Vice + supporting affidavits (EDNY)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: admissions
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.Y."
+  source_page_url: "https://www.nyed.uscourts.gov/attorney-admissions"
+  document_url: "https://www.nyed.uscourts.gov/sites/default/files/uploads/ngprohacvicemotion.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Motion form fetched and text-verified (\"NOTICE OF MOTION TO ADMIT COUNSEL PRO HAC VICE\", requires Certificate(s) of Good Standing). The companion affidavit URL https://www.nyed.uscourts.gov/sites/default/files/uploads/ngprohacviceaffidavit.pdf is an href from the fetched admissions page but returned an error on direct fetch — retry from the admissions page. Unlike SDNY, EDNY does publish fillable PHV papers."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-sdny-petition-for-admission-ecf-registration
+  title: "Petition for Admission / ECF Registration (SDNY)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: admissions
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, S.D.N.Y."
+  source_page_url: "https://nysd.uscourts.gov/forms"
+  document_url: "https://nysd.uscourts.gov/sites/default/files/2020-10/SDNY%20Attorney%20Admission%20Application%20Form%281%29%284%29.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Revised 10/2018"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched; titled \"Petition for Admission/ECF Registration\" and keyed to Local Civil Rules 1.3(a) and 1.5(d)(1)."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-edny-admitted-attorneys-efiling-registration
+  title: "Admitted NYED Attorneys E-Filing Registration (NextGen CM/ECF)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: admissions
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.Y."
+  source_page_url: "https://www.nyed.uscourts.gov/attorney-admissions"
+  document_url: "https://www.nyed.uscourts.gov/sites/default/files/uploads/admitted_attorneys_e-filing-registrationnyed.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched; confirms EDNY is a NextGen CM/ECF court requiring an upgraded individual PACER account. Companions (hrefs from the same fetched page): Petition for Admission https://www.nyed.uscourts.gov/sites/default/files/uploads/ngpetitionforadmission.pdf; Sponsoring Affidavit https://www.nyed.uscourts.gov/sites/default/files/uploads/ngsponsoringaffidavit.pdf; PACER admission instructions https://www.nyed.uscourts.gov/sites/default/files/uploads/admission_to_practice_pacernyed.pdf"
+  last_verified: "2026-08-20"
+
+- id: ny-fed-ao-458-appearance-of-counsel-sdny
+  title: "Appearance of Counsel"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: appearance
+  source_tier: T1_OFFICIAL
+  publisher: "Administrative Office of the U.S. Courts (posted by SDNY)"
+  source_page_url: "https://nysd.uscourts.gov/forms/appearance-counsel"
+  document_url: "https://nysd.uscourts.gov/sites/default/files/2019-11/AO_458%20Appearance%20of%20Counsel.pdf"
+  form_number: "AO 458"
+  edition_or_revision_date: "Rev. 06/09"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched and verified."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-sdny-osc-preliminary-injunction-tro
+  title: "Order to Show Cause for Preliminary Injunction and Temporary Restraining Order (SDNY model)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: emergency-relief
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, S.D.N.Y."
+  source_page_url: "https://nysd.uscourts.gov/forms"
+  document_url: "https://nysd.uscourts.gov/sites/default/files/2018-06/osc_tro.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched and caption-verified — the standard SDNY emergency-relief template for commercial cases; pair with Part 1 / after-hours emergency application procedures https://nysd.uscourts.gov/judges/part1-schedule"
+  last_verified: "2026-08-20"
+
+- id: ny-fed-sdny-certificate-of-service
+  title: "Certificate of Service (SDNY)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: service
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, S.D.N.Y."
+  source_page_url: "https://nysd.uscourts.gov/forms/certificate-service"
+  document_url: "https://nysd.uscourts.gov/sites/default/files/2025-04/certificate-of-service-fillable-2025-05-21.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Rev. 5/21/25"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched; revision date printed on the form."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-sdny-rule-45-subpoena-forms
+  title: "Subpoena to Produce Documents / Subpoena to Testify at a Deposition (Rule 45 forms, SDNY-hosted)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: discovery
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, S.D.N.Y."
+  source_page_url: "https://nysd.uscourts.gov/forms/subpoena-produce-documents-information-or-objects-or-permit-inspection-premises"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Second source page: https://nysd.uscourts.gov/forms/subpoena-testify-deposition-civil-action. Form pages confirmed from the fetched SDNY forms index; documents render in an embedded viewer with no stable file URL exposed. These are the AO Rule 45 national forms as posted by SDNY."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-sdny-mediation-program-procedures
+  title: "Mediation Program Procedures + List of Mediators (SDNY ADR)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: adr
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, S.D.N.Y."
+  source_page_url: "https://nysd.uscourts.gov/programs/mediation-adr"
+  document_url: "https://nysd.uscourts.gov/sites/default/files/2026-07/Mediation%20Program%20Procedures.7.1.2026.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Effective 7/1/2026"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Both fetched: procedures and List of Mediators (8/1/25) https://nysd.uscourts.gov/sites/default/files/2025-08/ListOfMediators.8.1.25.pdf. Related SDNY ADR items on the forms index include the Final Mediator Report https://nysd.uscourts.gov/sites/default/files/2026-04/Final%20Mediator%20Report%2002.23.2024.pdf and mediation-practice tip sheets."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-edny-mediation-program-forms
+  title: "EDNY Mediation Program: Procedures, Confidentiality Stipulation, Mediator's Oath, MAP Notice of Limited Appearance"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: adr
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.Y."
+  source_page_url: "https://www.nyed.uscourts.gov/adr-mediation-forms"
+  document_url: "https://www.nyed.uscourts.gov/sites/default/files/uploads/disputeresolutionprocedures.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Last updated March 25, 2026"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Procedures fetched and date-verified. The 2026 confidentiality-stipulation URL https://www.nyed.uscourts.gov/sites/default/files/uploads/confidentiality%20stipulation%202026.web%20v.pdf is an href from the fetched ADR forms page but returned an error on direct fetch (likely renamed) — re-pull from the page. Mediator's Oath: https://www.nyed.uscourts.gov/sites/default/files/uploads/mediator%27s%20oath.pdf. Several EDNY mediation intake forms are now Microsoft Forms links rather than PDFs (https://www.nyed.uscourts.gov/adr-forms)."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-edny-model-confidentiality-protective-order
+  title: "Model Confidentiality / Protective Order (EDNY, magistrate-judge models)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: protective-orders
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.Y."
+  source_page_url: "https://www.nyed.uscourts.gov/forms-search"
+  document_url: "https://www.nyed.uscourts.gov/sites/default/files/uploads/formconfidentialityorder-rml.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Confidentiality order fetched and text-verified. STRUCTURAL CAVEAT: EDNY/SDNY protective-order and ESI templates are JUDGE-SPECIFIC, not district-wide — always take the assigned magistrate judge's model. The .docx protective order (Judge Dunst) https://www.nyed.uscourts.gov/sites/default/files/uploads/lgd_protectiveorder.docx is on the official domain but returned an error on direct fetch."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-edny-proposed-discovery-plan-dunst
+  title: "Proposed Discovery Plan / Scheduling Order (EDNY, Magistrate Judge Dunst)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: case-management
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.Y."
+  source_page_url: "https://www.nyed.uscourts.gov/forms-search"
+  document_url: "https://www.nyed.uscourts.gov/sites/default/files/uploads/lgd_discovplan.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Updated/effective November 3, 2025"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched and date-verified; includes the ESI/discovery-plan items federal commercial litigators need at the Rule 26(f) stage. Judge-specific, not district-wide."
+  last_verified: "2026-08-20"
+
+- id: ny-fed-sdny-edny-joint-local-rules
+  title: "Local Rules of the U.S. District Courts for the S.D.N.Y. and E.D.N.Y. (joint local rules, incl. local-form requirements)"
+  jurisdiction: NY
+  practice_area: federal-litigation
+  category: rules
+  source_tier: T1_OFFICIAL
+  publisher: "S.D.N.Y. & E.D.N.Y. Boards of Judges"
+  source_page_url: "https://www.nyed.uscourts.gov/attorney-admissions"
+  document_url: "https://www.nyed.uscourts.gov/sites/default/files/uploads/2026-01-02%20-%20edny%20and%20sdny%20joint%20local%20rules%20as%20amended.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Effective January 2, 2026"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Also linked from SDNY Local Rules https://nysd.uscourts.gov/rules. Fetched; title page confirms adoption by both Boards of Judges and the January 2, 2026 effective date. Both districts have also invited comment on further 2026 amendments (SDNY notice https://nysd.uscourts.gov/sites/default/files/2026-07/20260701%20Joint%20Notice%20to%20Bar%20-%202026%20Amendments%20FINAL_0.pdf). Related SDNY local-rule notice forms: https://nysd.uscourts.gov/sites/default/files/2018-06/Local%20Civil%20Rule%2012.1%20%26%20Notice.pdf and https://nysd.uscourts.gov/sites/default/files/2018-06/Local%20Civil%20Rule%2056.2%20%26%20Notice.pdf"
+  last_verified: "2026-08-20"
+
+# ============================================================================
+# JURISDICTION: NORTH CAROLINA
+# ============================================================================
+
+# --- NC Lane 1: Corporate / entity filings (NC Secretary of State) ---
+# Caveat: the Annual Report has no blank PDF — it is generated online from the entity profile.
+
+- id: nc-b-01-articles-of-incorporation-business
+  title: "Articles of Incorporation (business corporation)"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/forms/by_title/_Business_Registration_Business_Corporations"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/business_Corporations/articles_of_incorporation_for_business.pdf"
+  form_number: "B-01"
+  edition_or_revision_date: "Revised July 2017"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $125 printed on the form; fillable PDF; conversion variant is a separate form (Articles of Incorporation including Articles of Conversion, B-01A)"
+  last_verified: "2026-08-20"
+
+- id: nc-n-01-articles-of-incorporation-nonprofit
+  title: "Articles of Incorporation — Nonprofit Corporation"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/forms/by_title/_Business_Registration"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/nonprofit_corporations/articles_of_incorporation_for_nonprofit.pdf"
+  form_number: "N-01"
+  edition_or_revision_date: "Revised August 2017"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $60 printed on the form; separate tax-exempt-status information sheet is published on the same index https://www.sosnc.gov/forms/by_title/_Business_Registration_Business_Corporations"
+  last_verified: "2026-08-20"
+
+- id: nc-b-02-articles-of-amendment-business
+  title: "Articles of Amendment — Business Corporation"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: entity-amendment
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/forms/by_title/_Business_Registration_Business_Corporations"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/business_Corporations/articles_of_amendment_for_business.pdf"
+  form_number: "B-02"
+  edition_or_revision_date: "Revised July 2017"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $50; use B-03 (Articles of Restatement) to consolidate amendments, and B-11/B-13 for conversion-type amendments per the index descriptions https://www.sosnc.gov/forms/by_title/_Business_Registration"
+  last_verified: "2026-08-20"
+
+- id: nc-n-02-articles-of-amendment-nonprofit
+  title: "Articles of Amendment for Nonprofit"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: entity-amendment
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/forms/by_title/_Business_Registration_Business_Corporations"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/nonprofit_corporations/articles_of_amendment_for_Nonprofit..pdf"
+  form_number: "N-02 (nonprofit amendment)"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Link text and file confirmed on the fetched index page; the file name contains a double period, so copy the URL exactly. Form number not verified on the document itself — treat as \"nonprofit Articles of Amendment\""
+  last_verified: "2026-08-20"
+
+- id: nc-be-15-articles-of-merger
+  title: "Articles of Merger"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: merger-filing
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/forms/by_title/_Business_Registration_Business_Corporations"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/business_Entities_common/articles_of_merger.pdf"
+  form_number: "BE-15"
+  edition_or_revision_date: "Revised October 2018"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Cross-entity form: used when two or more entities merge and at least one is a NC entity; fee $50 for-profit / $25 if survivor is nonprofit. Nonprofit/hospital-authority mergers use a separate form https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/nonprofit_corporations/articles_of_merger_for_nonprofit_hospital_authority.pdf"
+  last_verified: "2026-08-20"
+
+- id: nc-b-06-articles-of-dissolution-board-and-shareholders
+  title: "Articles of Dissolution by Board of Directors and Shareholders"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: entity-dissolution
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/forms/by_title/_Business_Registration_Business_Corporations"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/business_Corporations/articles_of_dissolution_by_board_of_directors_and_shareholders.pdf"
+  form_number: "B-06"
+  edition_or_revision_date: "Revised April 2020"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $30. Pre-share-issuance dissolution uses B-05; B-07 revokes dissolution within 120 days (index descriptions https://www.sosnc.gov/forms/by_title/_Business_Registration)"
+  last_verified: "2026-08-20"
+
+- id: nc-n-06-articles-of-dissolution-nonprofit
+  title: "Articles of Dissolution by Directors, Members, and Third Persons (Nonprofit)"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: entity-dissolution
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/forms/by_title/_Business_Registration_Business_Corporations"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/nonprofit_corporations/articles_of_dissolution_by_directors_members_and_third_parties.pdf"
+  form_number: "N-06"
+  edition_or_revision_date: "Revised April 2020"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $15 printed on the form"
+  last_verified: "2026-08-20"
+
+- id: nc-l-01-llc-articles-of-organization
+  title: "Limited Liability Company Articles of Organization"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://sosnc.gov/forms/by_title/_Business_Registration_Limited_Liability_Companies"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/limited_liability_companies/articles_of_organization.pdf"
+  form_number: "L-01"
+  edition_or_revision_date: "Revised August 2017"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $125; the LLC index also promotes an online business-creation wizard as the preferred path"
+  last_verified: "2026-08-20"
+
+- id: nc-l-07-articles-of-dissolution-llc
+  title: "Articles of Dissolution of Limited Liability Company"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: entity-dissolution
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://sosnc.gov/forms/by_title/_Business_Registration_Limited_Liability_Companies"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/limited_liability_companies/articles_of_dissolution.pdf"
+  form_number: "L-07"
+  edition_or_revision_date: "Revised 2017"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $30; month of revision is not printed, only the year"
+  last_verified: "2026-08-20"
+
+- id: nc-l-17-amendment-of-articles-of-organization
+  title: "Amendment of Articles of Organization (LLC)"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: entity-amendment
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://sosnc.gov/forms/by_title/_Business_Registration_Limited_Liability_Companies"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/limited_liability_companies/amendment_of_articles_of_organization.pdf"
+  form_number: "L-17"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Form number L-17 and $50 fee come from the Business Registration index descriptions https://www.sosnc.gov/forms/by_title/_Business_Registration; the document's own revision date was not read"
+  last_verified: "2026-08-20"
+
+- id: nc-b-09-application-for-certificate-of-authority
+  title: "Application for Certificate of Authority (foreign business corporation — application to transact business)"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: foreign-qualification
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/forms/by_title/_Business_Registration_Business_Corporations"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/business_Corporations/application_of_certificate_of_authority.pdf"
+  form_number: "B-09"
+  edition_or_revision_date: "Revised July 2017"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $250. Post-revocation re-qualification uses B-09a ($275) and amended authority uses B-10 (index descriptions https://www.sosnc.gov/forms/by_title/_Business_Registration)"
+  last_verified: "2026-08-20"
+
+- id: nc-l-09-application-for-certificate-of-authority-llc
+  title: "Application for Certificate of Authority for Limited Liability Company (foreign LLC)"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: foreign-qualification
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://sosnc.gov/forms/by_title/_Business_Registration_Limited_Liability_Companies"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/limited_liability_companies/application_for_certificate_of_authority.pdf"
+  form_number: "L-09"
+  edition_or_revision_date: "Revised July 2017"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $250; companion withdrawal form is Application for Certificate of Withdrawal https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/limited_liability_companies/application_for_certificate_of_withdrawal.pdf"
+  last_verified: "2026-08-20"
+
+- id: nc-b-08-application-for-reinstatement-business
+  title: "Application for Reinstatement Following Administrative Dissolution (business corporation)"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: reinstatement
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/forms/by_title/_Business_Registration_Business_Corporations"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/business_Corporations/application_for_reinstatement_following_administrative_dissolution.pdf"
+  form_number: "B-08"
+  edition_or_revision_date: "Revised September 2017"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $100; typically filed with delinquent annual reports"
+  last_verified: "2026-08-20"
+
+- id: nc-l-08-application-for-reinstatement-llc
+  title: "Application for Reinstatement Following Administrative Dissolution of Limited Liability Company"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: reinstatement
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://sosnc.gov/forms/by_title/_Business_Registration_Limited_Liability_Companies"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/limited_liability_companies/application_for_reinstatement_following_administrative_dissolution.pdf"
+  form_number: "L-08"
+  edition_or_revision_date: "Revised July 2017"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fee $100"
+  last_verified: "2026-08-20"
+
+- id: nc-assumed-business-name-certificate
+  title: "Assumed Business Name Certificate (N.C.G.S. § 66-71.5)"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: assumed-name
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/divisions/business_registration/assumed_business_names"
+  document_url: "https://www.sosnc.gov/webfiles/documents/forms/Assumed_Business_Name/Assumed_Business_Name.pdf"
+  form_number: "(no form number printed)"
+  edition_or_revision_date: "10.03.17 (date printed on form)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Filed with the Register of Deeds; one certificate may designate multiple counties, no notarization required, and information changes must be updated within 60 days (division page https://www.sosnc.gov/divisions/business_registration/assumed_business_names)"
+  last_verified: "2026-08-20"
+
+- id: nc-annual-report-business-corporation-llc
+  title: "Annual Report (business corporation / LLC)"
+  jurisdiction: NC
+  practice_area: corporate-entity-filings
+  category: annual-biennial-report
+  source_tier: T1_OFFICIAL
+  publisher: "NC Secretary of State, Business Registration Division"
+  source_page_url: "https://www.sosnc.gov/frequently_asked_questions/by_title/_BRD_FAQ_Annual_Reports"
+  document_url: null
+  form_number: "n.a. (entity-specific, pre-populated)"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "CAVEAT: there is no static blank annual-report PDF. Per the official FAQ you search the entity, open its profile, click \"File an Annual Report,\" then print a pre-populated PDF to sign and mail — otherwise file online. Registered-agent/address changes on the report use Form BE-17 https://www.sosnc.gov/webfiles/documents/forms/Business_Registration/business_Entities_common/designation_statement_change_principal_office_registered_agent.pdf"
+  last_verified: "2026-08-20"
+
+# --- NC Lane 2: Civil litigation (NC Administrative Office of the Courts) ---
+# Caveats: NO AOC complaint / answer / notice-of-appearance / note-of-issue general civil pleading
+# forms (only summons, service, judgment enforcement, statutory actions); nccourts.gov asset
+# filenames are unstable (AOC-CV-405 = 251.pdf; AOC-CV-382 needs a VersionId query string) — always
+# re-resolve from the landing page; AOC-COA-81 is discontinued but still downloads.
+
+- id: nc-aoc-cv-100-civil-summons
+  title: "Civil Summons / Alias and Pluries Summons"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: case-initiation-and-service
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms/civil-summons"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv100.pdf"
+  form_number: "AOC-CV-100"
+  edition_or_revision_date: "Rev. 12/23"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Core service form for superior/district civil actions; Spanish and Vietnamese versions also offered on the landing page"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-751-general-civil-action-cover-sheet
+  title: "General Civil Action Cover Sheet"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: case-initiation
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms/general-civil-action-cover-sheet"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv751.pdf"
+  form_number: "AOC-CV-751"
+  edition_or_revision_date: "Rev. 3/19"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "The cover sheet required with new general civil filings; 216 KB PDF per the landing page"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-102-summons-with-order-extending-time
+  title: "Civil Summons To Be Served With Order Extending Time To File Complaint"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: case-initiation-and-service
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv102.pdf"
+  form_number: "AOC-CV-102"
+  edition_or_revision_date: "Rev. 3/19"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Used with the Rule 3 delayed-complaint procedure"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-103-delayed-service-of-complaint
+  title: "Delayed Service of Complaint"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: case-initiation-and-service
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv103-en.pdf"
+  form_number: "AOC-CV-103"
+  edition_or_revision_date: "Rev. 1/10"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Companion to AOC-CV-101/102 in the extend-time-to-file-complaint sequence"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-101-application-and-order-extending-time
+  title: "Application and Order Extending Time To File Complaint / Motion and Order Extending Statute of Limitations in Medical Malpractice Action"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: case-initiation
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv101-en.pdf"
+  form_number: "AOC-CV-101"
+  edition_or_revision_date: "Rev. 7/11"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Two-sided form; the fetched PDF page shows the medical-malpractice side title, and the AOC Forms Report index https://www.nccourts.gov/assets/documents/publications/CompleteIndex.pdf records Side One as the general application/order extending time to file complaint"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-105-affidavit-of-service-by-mail
+  title: "Affidavit of Service of Process by Registered Mail / Certified Mail / Designated Delivery Service"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: service
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv105-en.pdf"
+  form_number: "AOC-CV-105"
+  edition_or_revision_date: "New 8/17"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "The AOC's proof-of-service affidavit for mail/delivery-service service under Rule 4(j)"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-g-100-subpoena
+  title: "Subpoena"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: discovery
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms/subpoena"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/g100-en.pdf"
+  form_number: "AOC-G-100"
+  edition_or_revision_date: "Rev. 2/18 (per Side Two footer)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "General (G-series) subpoena used for both civil and criminal matters; return of service is on side two"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-g-180-notice-of-hearing
+  title: "Notice of Hearing"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: motion-practice
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms/notice-of-hearing"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/g180-en.pdf"
+  form_number: "AOC-G-180"
+  edition_or_revision_date: "Rev. 10/13"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Generic AOC notice of hearing; many districts publish their own local notice-of-hearing forms instead"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-221-motion-and-order-for-continuance
+  title: "Motion and Order for Continuance (Civil Superior Cases)"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: motion-practice
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv221.pdf"
+  form_number: "AOC-CV-221"
+  edition_or_revision_date: "Rev. 2/19"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Superior-court-specific continuance motion/order"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-405-notice-of-voluntary-dismissal
+  title: "Notice of Voluntary Dismissal (Complaint / Counterclaim / Other)"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: dismissal
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms/notice-of-voluntary-dismissal"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/251.pdf"
+  form_number: "AOC-CV-405"
+  edition_or_revision_date: "Rev. 4/18"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "UNSTABLE FILENAME TRAP: note the non-obvious asset filename (251.pdf) for AOC-CV-405; verified by opening the PDF. Re-resolve from the landing page before relying on the deep link."
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-220-continuation-memorandum-of-judgment
+  title: "Continuation Page — Memorandum of Judgment/Order"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: judgments
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv220_continuation-en.pdf"
+  form_number: "AOC-CV-220 (Continuation)"
+  edition_or_revision_date: "New 5/16"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "The base Memorandum of Judgment/Order (AOC-CV-220, New 4/97 per the AOC Forms Report https://www.nccourts.gov/assets/documents/publications/CompleteIndex.pdf) could not be opened at a stable direct URL in this session — direct URL n.a. for the base form; use the Forms index search https://www.nccourts.gov/documents/forms"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-382-civil-bill-of-costs
+  title: "Civil Bill of Costs"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: costs
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv382.pdf?VersionId=nKT5G.tPj08MRA44ZwDbBj2J8Cqq_UKH"
+  form_number: "AOC-CV-382"
+  edition_or_revision_date: "Rev. 7/22"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "VERSIONID TRAP: only the VersionId-qualified URL resolved in this session; the un-versioned path may be preferable long-term but was not confirmable. Re-resolve from the landing page."
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-400-writ-of-execution
+  title: "Writ of Execution"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: judgment-enforcement
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv400-en.pdf"
+  form_number: "AOC-CV-400"
+  edition_or_revision_date: "Rev. 9/03"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Post-judgment enforcement; pair with AOC-CV-406/415 exemption notices"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-404-certificate-of-payment-on-judgment
+  title: "Certificate of Payment on Judgment"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: judgment-enforcement
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv404-en.pdf"
+  form_number: "AOC-CV-404"
+  edition_or_revision_date: "Rev. 9/03"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Judgment-satisfaction record; AOC-CV-413 covers creditor-certified full/partial payment per the AOC Forms Report https://www.nccourts.gov/assets/documents/publications/CompleteIndex.pdf"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-416-transcript-request
+  title: "Transcript Request (Request To Issue Transcript of Judgment)"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: judgment-enforcement
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv416-en.pdf"
+  form_number: "AOC-CV-416"
+  edition_or_revision_date: "New 5/16"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Used to docket a judgment in another county"
+  last_verified: "2026-08-20"
+
+- id: nc-no-general-civil-pleading-forms
+  title: "Complaint, Answer, Notice of Appearance, Note of Issue (general civil)"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: pleadings-gap
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "KEY CAVEAT: No AOC form exists for a general civil complaint, answer, notice of appearance, or note of issue. The AOC's own Forms Report index https://www.nccourts.gov/assets/documents/publications/CompleteIndex.pdf lists complaint/answer-type forms only for specific statutory actions (domestic violence AOC-CV-303, stalking/no-contact AOC-CV-520, workplace violence AOC-CV-530, underage-marriage AOC-CV-120), and contains no \"Notice of Appearance\" or \"Note of Issue\" civil form — these are drafted pleadings. In Business Court, the Notice of Appearance is uploaded and then completed as an online fillable form (eFiling Quick-Reference Guide, May 16, 2025: https://www.nccourts.gov/assets/documents/publications/Business-Court-eFiling-Quick-Reference-Guide-20250516.pdf?VersionId=jNVz5DyxtDdm0_Up4AN_JdR18SsGU.iQ)"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cv-601-528-motion-and-order-to-show-cause
+  title: "Motion and Order to Show Cause (subject-matter specific: child support order; no-contact order)"
+  jurisdiction: NC
+  practice_area: commercial-litigation
+  category: contempt
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cv601-en.pdf"
+  form_number: "AOC-CV-601 / AOC-CV-528"
+  edition_or_revision_date: "AOC-CV-601, Rev. 3/09"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Caveat for a commercial litigator: NC has no general civil \"motion and order to show cause\" form. The existing show-cause forms are statute-specific (child support AOC-CV-601; stalking/no-contact AOC-CV-528, Rev. 10/14 per the AOC Forms Report https://www.nccourts.gov/assets/documents/publications/CompleteIndex.pdf); contempt in commercial cases is by drafted motion"
+  last_verified: "2026-08-20"
+
+# --- NC Lane 3: Business Court ---
+# Business Court Rules codified 2 September 2025 (no resolvable PDF — use the rules page).
+
+- id: nc-business-court-rules-current-codification
+  title: "North Carolina Business Court Rules — current codification"
+  jurisdiction: NC
+  practice_area: business-court
+  category: rules
+  source_tier: T1_OFFICIAL
+  publisher: "Supreme Court of North Carolina, Office of Administrative Counsel"
+  source_page_url: "https://www.nccourts.gov/courts/supreme-court/court-rules/north-carolina-business-court-rules"
+  document_url: null
+  form_number: "n.a. (rules)"
+  edition_or_revision_date: "Codified 2 September 2025"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "The rules page states the current set is codified 2 September 2025 following an order amending Rules 4 and 7 and Appendix 1 (adopted 20 August 2025, effective 2 September 2025); the direct PDF URL for that codification could not be resolved in this session, so use the rules page"
+  last_verified: "2026-08-20"
+
+- id: nc-business-court-rules-codified-16-february-2023
+  title: "North Carolina Business Court Rules — Codified 16 February 2023"
+  jurisdiction: NC
+  practice_area: business-court
+  category: rules
+  source_tier: T1_OFFICIAL
+  publisher: "Supreme Court of North Carolina, Office of Administrative Counsel"
+  source_page_url: "https://www.nccourts.gov/courts/supreme-court/court-rules/north-carolina-business-court-rules"
+  document_url: "https://www.nccourts.gov/assets/inline-files/Business-Court-Rules-Codified-16-February-2023.pdf?VersionId=OiJZZzkNAcIBTRtd9eUvXCmCivIIfULY"
+  form_number: "n.a. (rules, superseded)"
+  edition_or_revision_date: "Codified 16 February 2023"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched and verified; useful as a stable full-text copy but SUPERSEDED — its publication record lists prior effective dates of 1 Jan 2017, 1 July 2019, 1 March 2020, 13 Oct 2020, 1 July 2022"
+  last_verified: "2026-08-20"
+
+- id: nc-business-court-notice-of-designation-template
+  title: "Notice of Designation Template (mandatory complex business case)"
+  jurisdiction: NC
+  practice_area: business-court
+  category: designation
+  source_tier: T1_OFFICIAL
+  publisher: "North Carolina Business Court / NC Judicial Branch"
+  source_page_url: "https://www.nccourts.gov/courts/business-court/business-court-faqs"
+  document_url: "https://www.nccourts.gov/assets/inline-files/Notice%20of%20Designation%20Template.pdf?NGV96_wlwf_srY2vq4QzLpC9fnGx.a5S"
+  form_number: "Appendix 1 (BCR)"
+  edition_or_revision_date: "n.a. (no revision date printed)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "The official designation template, captioned \"Appendix 1: Notice of Designation Template,\" with the § 7A-45.4(a) category checkboxes (Chapters 55, 55A, 55B, 57D, 59; securities Ch. 78A; antitrust Ch. 75; trademark) and counsel's good-faith certification; verified by opening the PDF"
+  last_verified: "2026-08-20"
+
+- id: nc-business-court-faqs
+  title: "Business Court FAQs (designation, filing, appearance and appeal mechanics)"
+  jurisdiction: NC
+  practice_area: business-court
+  category: guidance
+  source_tier: T1_OFFICIAL
+  publisher: "North Carolina Business Court"
+  source_page_url: "https://www.nccourts.gov/courts/business-court/business-court-faqs"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "n.a. (web page). Explains designation under N.C. Gen. Stat. § 7A-45.4 and BCR 2, 2.1, 2.2, 3, BCR 3.11, plus Rules 5.0(f) and 5.1(b) of the General Rules of Practice, and the eFiling steps for Notice of Appearance, Add Parties, and Notice of Change of Address/Status"
+  last_verified: "2026-08-20"
+
+- id: nc-business-court-efiling-quick-reference-guide
+  title: "Quick-Reference Guide for the North Carolina Business Court's Electronic Filing System"
+  jurisdiction: NC
+  practice_area: business-court
+  category: e-filing
+  source_tier: T1_OFFICIAL
+  publisher: "North Carolina Business Court"
+  source_page_url: "https://www.nccourts.gov/courts/business-court"
+  document_url: "https://www.nccourts.gov/assets/documents/publications/Business-Court-eFiling-Quick-Reference-Guide-20250516.pdf?VersionId=jNVz5DyxtDdm0_Up4AN_JdR18SsGU.iQ"
+  form_number: "n.a."
+  edition_or_revision_date: "May 16, 2025"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Current eFiling guide; documents the fillable Notice of Appearance form for attorneys and Notice of Association for pro se users"
+  last_verified: "2026-08-20"
+
+- id: nc-business-court-home-page
+  title: "Business Court home page (dual-filing notice, judges, dockets, opinions/orders of significance)"
+  jurisdiction: NC
+  practice_area: business-court
+  category: guidance
+  source_tier: T1_OFFICIAL
+  publisher: "North Carolina Business Court"
+  source_page_url: "https://www.nccourts.gov/courts/business-court"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "n.a. (web page). Confirms parties still file in Business Court's eFlex system and must also file with the Clerk of Superior Court in the county of venue, referencing Rules 5.0 and 5.1 of the General Rules of Practice; also notes Judge A. Graham Shirley joined the court effective 4 March 2026"
+  last_verified: "2026-08-20"
+
+- id: nc-business-court-special-information-and-procedures
+  title: "Special Information and Procedures for Business Court"
+  jurisdiction: NC
+  practice_area: business-court
+  category: guidance
+  source_tier: T1_OFFICIAL
+  publisher: "North Carolina Business Court"
+  source_page_url: "https://www.nccourts.gov/courts/business-court/special-information-and-procedures-for-business-court"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Fetched; the page contained no downloadable forms or dated documents at time of review"
+  last_verified: "2026-08-20"
+
+- id: nc-business-court-orders-of-significance
+  title: "Case management orders / orders of significance (as models, not official forms)"
+  jurisdiction: NC
+  practice_area: business-court
+  category: case-management
+  source_tier: T1_OFFICIAL
+  publisher: "North Carolina Business Court"
+  source_page_url: "https://www.nccourts.gov/courts/business-court"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "The Business Court publishes case-specific Orders of Significance (e.g., \"HUGGINS v. BEGGEN, 2026 NCBC ORDER 37 — Order on Designation\") but no official blank case-management-order form; case management is governed by BCR 6-9 in the rules above"
+  last_verified: "2026-08-20"
+
+- id: nc-general-rules-of-practice-superior-and-district-courts
+  title: "General Rules of Practice for the Superior and District Courts (Rules 5.0/5.1 filing rules referenced by Business Court)"
+  jurisdiction: NC
+  practice_area: business-court
+  category: rules
+  source_tier: T1_OFFICIAL
+  publisher: "Supreme Court of North Carolina"
+  source_page_url: "https://www.nccourts.gov/courts/supreme-court/court-rules"
+  document_url: null
+  form_number: "n.a. (rules)"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "The Business Court's own pages point to Rules 5.0 and 5.1 for dual-filing mechanics (FAQs https://www.nccourts.gov/courts/business-court/business-court-faqs); the codified PDF did not resolve in this session, so use the Court Rules index"
+  last_verified: "2026-08-20"
+
+# --- NC Lane 4: Appellate (Court of Appeals and Supreme Court) ---
+# NO AOC-AP series: notice of appeal / PDR / certiorari / supersedeas exist only as Appendix D
+# formats inside the Rules of Appellate Procedure PDF (codified 1 April 2025).
+# AOC-COA-81 is discontinued (Jan. 1, 2019) but the legacy PDF still resolves — trap.
+
+- id: nc-rules-of-appellate-procedure-current-codification
+  title: "North Carolina Rules of Appellate Procedure — current codification"
+  jurisdiction: NC
+  practice_area: appellate-litigation
+  category: rules
+  source_tier: T1_OFFICIAL
+  publisher: "Supreme Court of North Carolina, Office of Administrative Counsel"
+  source_page_url: "https://www.nccourts.gov/courts/supreme-court/court-rules/north-carolina-rules-of-appellate-procedure"
+  document_url: null
+  form_number: "n.a. (rules)"
+  edition_or_revision_date: "Codified 2 September 2025"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Current codification follows the Order Amending Rule 36 (adopted 20 Aug 2025, effective 2 Sept 2025); its direct PDF URL was not resolvable in this session"
+  last_verified: "2026-08-20"
+
+- id: nc-rules-of-appellate-procedure-codified-1-april-2025
+  title: "North Carolina Rules of Appellate Procedure — Codified 1 April 2025 (superseded), containing Appendix D form notices/petitions"
+  jurisdiction: NC
+  practice_area: appellate-litigation
+  category: rules-and-appendix-d-formats
+  source_tier: T1_OFFICIAL
+  publisher: "Supreme Court of North Carolina"
+  source_page_url: "https://www.nccourts.gov/courts/supreme-court/court-rules/north-carolina-rules-of-appellate-procedure"
+  document_url: "https://www.nccourts.gov/assets/inline-files/North-Carolina-Rules-of-Appellate-Procedure-Codified-1-April-2025.pdf?VersionId=_Wv0RBJtFBvxPD0vVKvIU2c4LCdsycs"
+  form_number: "n.a. (rules)"
+  edition_or_revision_date: "Codified/effective 1 April 2025"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Verified by fetching: Appendix D supplies the model forms for Notices of Appeal (to COA from trial division; to Supreme Court from superior court judgment including death sentence; to Supreme Court from a COA judgment), Petition for Discretionary Review under N.C.G.S. § 7A-31, Petition for Writ of Certiorari, Petition for Writ of Supersedeas with Motion for Temporary Stay, and Motion for Stay of Execution"
+  last_verified: "2026-08-20"
+
+- id: nc-appendix-d-notices-and-petitions
+  title: "Notice of Appeal to the Court of Appeals; Petition for Discretionary Review; Petition for Writ of Certiorari; Petition for Writ of Supersedeas"
+  jurisdiction: NC
+  practice_area: appellate-litigation
+  category: notices-and-petitions
+  source_tier: T1_OFFICIAL
+  publisher: "Supreme Court of North Carolina (Appendix D to the Appellate Rules)"
+  source_page_url: "https://www.nccourts.gov/courts/supreme-court/court-rules/north-carolina-rules-of-appellate-procedure"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "n.a. (no standalone AOC-AP form files). THERE IS NO AOC-AP SERIES. These documents exist only as Appendix D model formats inside the appellate rules PDF https://www.nccourts.gov/assets/inline-files/North-Carolina-Rules-of-Appellate-Procedure-Codified-1-April-2025.pdf?VersionId=_Wv0RBJtFBvxPD0vVKvIU2c4LCdsycs; brief formatting requirements likewise come from the rules and appendixes, not a separate cover form"
+  last_verified: "2026-08-20"
+
+- id: nc-appellate-division-transcript-contract-form
+  title: "Appellate Division Transcript Contract Form"
+  jurisdiction: NC
+  practice_area: appellate-litigation
+  category: transcripts
+  source_tier: T1_OFFICIAL
+  publisher: "NC Judicial Branch / Appellate Division"
+  source_page_url: "https://www.nccourts.gov/courts/supreme-court/court-rules/north-carolina-rules-of-appellate-procedure"
+  document_url: "https://www.nccourts.gov/assets/inline-files/Appellate-Division-Transcript-Contract-Form-(17-November-2020)_0.pdf?chIrVcoW5yim_eDPNm8HRxzWU_Wcm6FN="
+  form_number: "n.a."
+  edition_or_revision_date: "Last Revised 11/17/2020"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "One of only two forms listed on the official appellate rules page; titled \"Appellate Division Transcript Contract Requestor Information\"; no form number"
+  last_verified: "2026-08-20"
+
+- id: nc-appellate-division-transcript-documentation-form
+  title: "Appellate Division Transcript Documentation Form"
+  jurisdiction: NC
+  practice_area: appellate-litigation
+  category: transcripts
+  source_tier: T1_OFFICIAL
+  publisher: "NC Judicial Branch / Appellate Division"
+  source_page_url: "https://www.nccourts.gov/courts/supreme-court/court-rules/north-carolina-rules-of-appellate-procedure"
+  document_url: "https://www.nccourts.gov/assets/inline-files/Appellate-Division-Transcript-Documentation-Form-(17-November-2020)_0.pdf?_wHd81_t57nG4ICLA6hJGCsv2VzOHCw6="
+  form_number: "n.a."
+  edition_or_revision_date: "Last Revised 11/17/2020"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Parts 1-2 (Transcripts for the Appeal; Issues on Appeal) implementing N.C. R. App. P. 7"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-coa-81-appeal-information-statement-discontinued
+  title: "North Carolina Court of Appeals Appeal Information Statement"
+  jurisdiction: NC
+  practice_area: appellate-litigation
+  category: discontinued-form-trap
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts / NC Court of Appeals"
+  source_page_url: "https://www.nccourts.gov/documents/forms/appeal-information-statement"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/coa81-en.pdf"
+  form_number: "AOC-COA-81"
+  edition_or_revision_date: "Rev. 10/12"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "DO NOT USE: the landing page states the form was discontinued as of January 1, 2019 and that Appeal Information Sheets must now be completed electronically at ncappellatecourts.org under Appellate Rule 41. The legacy PDF still resolves, which is a trap for catalog users"
+  last_verified: "2026-08-20"
+
+- id: nc-court-of-appeals-self-representation-packet
+  title: "North Carolina Court of Appeals Self-Representation Packet (includes appellate document models)"
+  jurisdiction: NC
+  practice_area: appellate-litigation
+  category: guidance
+  source_tier: T1_OFFICIAL
+  publisher: "North Carolina Court of Appeals / NC AOC"
+  source_page_url: "https://www.nccourts.gov/courts/court-of-appeals"
+  document_url: "https://www.nccourts.gov/assets/inline-files/Court-of-Appeals-Self-Representation-Guide.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "n.a. (no date printed)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Verified by fetching; no form number or revision date printed. Useful as an official checklist of appellate steps, though written for self-represented parties"
+  last_verified: "2026-08-20"
+
+- id: nc-supreme-court-self-representation-packet
+  title: "Supreme Court of North Carolina Self-Representation Packet (includes petition models, e.g. Petition for Writ of Certiorari)"
+  jurisdiction: NC
+  practice_area: appellate-litigation
+  category: guidance
+  source_tier: T1_OFFICIAL
+  publisher: "Supreme Court of North Carolina"
+  source_page_url: "https://www.nccourts.gov/courts/supreme-court/additional-resources"
+  document_url: "https://www.nccourts.gov/assets/inline-files/Supreme-Court-Self-Representation-Pro-Se-Packet-20250210.pdf?VersionId=L2DCfMtV6LTobQJuULCIViSIi2A3GGCf"
+  form_number: "n.a."
+  edition_or_revision_date: "File name dates the packet 2025-02-10; no revision date printed inside"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Contains a Self-Representation Guide, legal-resources list, court-system overview, and petition models"
+  last_verified: "2026-08-20"
+
+- id: nc-notice-of-appeal-to-coa-local-posting
+  title: "Notice of Appeal to the North Carolina Court of Appeals (local rules and forms posting)"
+  jurisdiction: NC
+  practice_area: appellate-litigation
+  category: notices-and-petitions
+  source_tier: T1_OFFICIAL
+  publisher: "NC Judicial Branch (local rules and forms)"
+  source_page_url: "https://www.nccourts.gov/documents/local-rules-and-forms/notice-of-appeal-to-the-north-carolina-court-of-appeals"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "The landing page offers a single 33 KB PDF but states no issuing authority, form number, or revision date; treat as a local/unnumbered template and prefer the Appendix D model in the appellate rules"
+  last_verified: "2026-08-20"
+
+- id: nc-aoc-cvm-303-notice-of-appeal-to-district-court
+  title: "Notice of Appeal to District Court (from magistrate/small claims judgment)"
+  jurisdiction: NC
+  practice_area: appellate-litigation
+  category: notices-and-petitions
+  source_tier: T1_OFFICIAL
+  publisher: "NC Administrative Office of the Courts"
+  source_page_url: "https://www.nccourts.gov/documents/forms"
+  document_url: "https://www.nccourts.gov/assets/documents/forms/cvm303-en.pdf"
+  form_number: "AOC-CVM-303"
+  edition_or_revision_date: "Rev. 8/17"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Intra-trial-division appeal (small claims to district court), not an appellate-division form; included because it is the only AOC \"notice of appeal\" civil form"
+  last_verified: "2026-08-20"
+
+# --- NC Lane 5: Federal litigation (EDNC, MDNC, WDNC) ---
+# Caveats: MDNC has no pro hac vice form (admission under the Local Civil Rules);
+# the EDNC Notice of Special Appearance is its pro hac vice equivalent.
+
+- id: nc-fed-wdnc-js44-civil-cover-sheet
+  title: "Civil Cover Sheet"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: case-initiation
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, W.D.N.C. (national AO form)"
+  source_page_url: "https://www.ncwd.uscourts.gov/forms/civil-cover-sheet"
+  document_url: "https://www.ncwd.uscourts.gov/sites/default/files/forms/JS044_1_0.pdf"
+  form_number: "JS 44"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "WDNC-hosted copy of the national JS 44. EDNC links the AO-hosted JS 44 from its forms page https://www.nced.uscourts.gov/forms/Default.aspx rather than hosting it"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-wdnc-pro-hac-vice-motion-and-affidavit
+  title: "Motion for Admission Pro Hac Vice and Affidavit"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: admissions
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, W.D.N.C."
+  source_page_url: "https://www.ncwd.uscourts.gov/local-forms/civil-forms"
+  document_url: "https://www.ncwd.uscourts.gov/sites/default/files/forms/Pro%20Hac%20Vice%20Form%208-17.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Listed as revised 03/01/2017 on the index"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Verified by fetching the PDF (title: \"MOTION FOR ADMISSION PRO HAC VICE and AFFIDAVIT\"); no revision date printed inside the document"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-wdnc-summons-in-a-civil-action
+  title: "Summons in a Civil Action (WDNC local version)"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: case-initiation-and-service
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, W.D.N.C."
+  source_page_url: "https://www.ncwd.uscourts.gov/local-forms/civil-forms"
+  document_url: "https://www.ncwd.uscourts.gov/sites/default/files/forms/Civil%20Summons%208-17.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "WDNC Rev. 01/17 (printed on form)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Index shows the posting date as 01/02/2017; third-party summons is https://www.ncwd.uscourts.gov/sites/default/files/forms/ao441_1.pdf per the same index"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-wdnc-designation-of-mediator
+  title: "Designation of Mediator"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: adr
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, W.D.N.C."
+  source_page_url: "https://www.ncwd.uscourts.gov/local-forms/civil-forms"
+  document_url: "https://www.ncwd.uscourts.gov/sites/default/files/forms/Designation%20of%20Mediator%208-17.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Index revision date 07/26/2017; no date printed on the form"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Companion Report of Mediation appears on page 2 of the index https://www.ncwd.uscourts.gov/local-forms/civil-forms?page=1 (revision date 09/06/2016)"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-wdnc-form-20-corporate-disclosure
+  title: "Corporate Disclosure Form For Litigation"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: disclosures
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, W.D.N.C."
+  source_page_url: "https://www.ncwd.uscourts.gov/local-forms/civil-forms"
+  document_url: "https://www.ncwd.uscourts.gov/sites/default/files/forms/FINAL%20Form%2020%20Corporate%20Disclosure%20Form%20FINAL%2011-30-22.pdf"
+  form_number: "Form 20"
+  edition_or_revision_date: "Index revision date 11/30/2022"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Paired with the Citizenship Disclosure Form https://www.ncwd.uscourts.gov/sites/default/files/forms/FINAL%20Citizenship%20Disclosure%20Form%2011-30-22.pdf (same 11/30/2022 date) — both are routine first-filing items for corporate parties in WDNC"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-wdnc-local-rules
+  title: "Local Rules — Practice and Procedure of the U.S. District Court for the Western District of North Carolina"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: rules
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, W.D.N.C."
+  source_page_url: "https://www.ncwd.uscourts.gov/court-info/local-rules-and-orders/local-rules"
+  document_url: "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf"
+  form_number: "n.a. (rules)"
+  edition_or_revision_date: "2017 Edition, as revised effective December 1, 2022"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Same page also posts the AI Standing Order updated 7/29/2026 and the Bill of Costs Handbook"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-ednc-notice-of-special-appearance
+  title: "Notice of Special Appearance (EDNC pro hac vice equivalent, civil)"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: admissions
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.C."
+  source_page_url: "https://www.nced.uscourts.gov/forms/Default.aspx"
+  document_url: "https://www.nced.uscourts.gov/pdfs/notice_of_special_appearance.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "n.a. (no date printed)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "CAVEAT: this is EDNC's pro hac vice equivalent. Verified by fetching: title \"NOTICE OF SPECIAL APPEARANCE,\" EDNC caption. EDNC also posts a criminal version and an Attorney Admission Application and Memo https://www.nced.uscourts.gov/pdfs/forms/attorneyAdmissionApplicationMemo.pdf; EDNC uses the national AO 458 Notice of Appearance https://www.nced.uscourts.gov/attorney/Default.aspx for appearances"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-ednc-selection-of-mediator
+  title: "Selection of Mediator (EDNC)"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: adr
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.C."
+  source_page_url: "https://www.nced.uscourts.gov/forms/Default.aspx"
+  document_url: "https://www.nced.uscourts.gov/pdfs/selection_of_mediator.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "n.a. (no date printed)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "EDNC ADR intake document, verified by fetching"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-ednc-report-of-mediator
+  title: "Report of Mediator (EDNC)"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: adr
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.C."
+  source_page_url: "https://www.nced.uscourts.gov/forms/Default.aspx"
+  document_url: "https://www.nced.uscourts.gov/pdfs/forms/reportOfMediator.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "n.a. (no date printed)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Verified by fetching; EDNC caption"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-ednc-local-adr-rules
+  title: "Local Alternative Dispute Resolution Rules of Practice and Procedure (EDNC)"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: rules
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.C."
+  source_page_url: "https://www.nced.uscourts.gov/rules/default.aspx"
+  document_url: "https://www.nced.uscourts.gov/pdfs/ADRrules.pdf"
+  form_number: "n.a. (rules)"
+  edition_or_revision_date: "August 2013"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Governs court-hosted mediation in EDNC; older edition than the civil rules, so check the rules page for updates"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-ednc-local-civil-rules-2023
+  title: "EDNC Local Civil Rules of Practice and Procedure (2023)"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: rules
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.C."
+  source_page_url: "https://www.nced.uscourts.gov/rules/default.aspx"
+  document_url: "https://www.nced.uscourts.gov/pdfs/Local%20Civil%20Rules%202023.pdf"
+  form_number: "n.a. (rules)"
+  edition_or_revision_date: "2023 edition, per the EDNC rules page listing"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "The rules page also offers a redlined version and an amendment-summary chart; EDNC posts separate Local Patent Rules (January 2019) and Local Admiralty Rules (2023)"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-ednc-supplemental-removal-cover-sheet
+  title: "Supplemental Removal Cover Sheet (EDNC)"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: removal
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, E.D.N.C."
+  source_page_url: "https://www.nced.uscourts.gov/forms/Default.aspx"
+  document_url: "https://www.nced.uscourts.gov/pdfs/supplemental_removal_cover_sheet.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "n.a. (no date printed)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "District-specific requirement on removal — easy to miss when removing a state-court commercial case to EDNC"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-mdnc-rule-7-7-corporate-disclosure
+  title: "Disclosure of Corporate Affiliations and Other Entities With a Direct Financial Interest in Litigation (MDNC Local Rule 7.7)"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: disclosures
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, M.D.N.C."
+  source_page_url: "https://www.ncmd.uscourts.gov/forms"
+  document_url: "https://www.ncmd.uscourts.gov/sites/ncmd/files/Rule%207.7%20disclosure%20statement%2020260326.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "MDNC rev. 3/2026 (printed on form)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Most recently updated of the three districts' corporate-disclosure forms; docketed as \"Corporate Disclosure Statement\""
+  last_verified: "2026-08-20"
+
+- id: nc-fed-mdnc-report-of-mediator
+  title: "Report of Mediator (For Placement on the CM/ECF Docket) — MDNC"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: adr
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, M.D.N.C."
+  source_page_url: "https://www.ncmd.uscourts.gov/forms"
+  document_url: "https://www.ncmd.uscourts.gov/sites/ncmd/files/forms/mediator.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "n.a. (no date printed)"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Verified by fetching; MDNC caption"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-mdnc-local-civil-rules
+  title: "Rules of Practice and Procedure of the U.S. District Court for the Middle District of North Carolina (Local Civil Rules)"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: rules
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, M.D.N.C."
+  source_page_url: "https://www.ncmd.uscourts.gov/local-rules-and-orders"
+  document_url: "https://www.ncmd.uscourts.gov/sites/ncmd/files/mdnc%20local%20civil%20rules%2020260601.pdf"
+  form_number: "n.a. (rules)"
+  edition_or_revision_date: "Current set dated 2026-06-01 per the rules page listing; cite as \"LR __\" per the document"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Same page posts the adopting order (20260528), a marked/redlined version, an amendment summary, and the Local Patent Rules (effective Feb 8, 2021)"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-mdnc-pro-hac-vice-none
+  title: "MDNC pro hac vice / special appearance form"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: admissions
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. District Court, M.D.N.C."
+  source_page_url: "https://www.ncmd.uscourts.gov/forms"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "CAVEAT: No pro hac vice or special-appearance form is posted on MDNC's forms page (it lists disclosure, mediator, magistrate-consent, name-search, USM-285, writ, bill of costs, and Fourth Circuit items); handle admission under the Local Civil Rules https://www.ncmd.uscourts.gov/sites/ncmd/files/mdnc%20local%20civil%20rules%2020260601.pdf"
+  last_verified: "2026-08-20"
+
+- id: nc-fed-ednc-ao-440-441-summons
+  title: "Summons in a Civil Action / Summons on Third-Party Complaint (national AO forms used in EDNC)"
+  jurisdiction: NC
+  practice_area: federal-litigation
+  category: case-initiation-and-service
+  source_tier: T1_OFFICIAL
+  publisher: "Administrative Office of the U.S. Courts, via E.D.N.C."
+  source_page_url: "https://www.nced.uscourts.gov/forms/Default.aspx"
+  document_url: null
+  form_number: "AO 440 / AO 441"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "n.a. (EDNC links AO-hosted copies). EDNC's forms page links AO-hosted AO 440/AO 441 rather than local copies, and those AO links were not separately fetched here; WDNC hosts its own local summons https://www.ncwd.uscourts.gov/sites/default/files/forms/Civil%20Summons%208-17.pdf and AO 441 copy https://www.ncwd.uscourts.gov/sites/default/files/forms/ao441_1.pdf"
+  last_verified: "2026-08-20"
+
+# ============================================================================
+# JURISDICTION: FEDERAL (SEC official forms, EDGAR deal precedent, market/premium models)
+# ============================================================================
+
+# --- Federal Lane 1: SEC official forms ---
+# Schedules (14A, 13D, 13G, TO), Form D and RW have no SEC PDF; primary CFR text + filed examples
+# are the source. Form AW could not be located on the forms index: n.a.
+
+- id: federal-sec-form-s-1
+  title: "Form S-1 — \"Registration statement under Securities Act of 1933\""
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC"
+  source_page_url: "https://www.sec.gov/submit-filings/forms-index"
+  document_url: "https://www.sec.gov/files/forms-1.pdf"
+  form_number: "S-1"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "HTTP 200. Official government form + instructions; blank form only — substantive prospectus drafting comes from Reg S-K/S-X and peer filings (EDGAR deal precedent)"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-form-s-3
+  title: "Form S-3 — \"Registration statement under Securities Act of 1933\""
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC"
+  source_page_url: "https://www.sec.gov/submit-filings/forms-index"
+  document_url: "https://www.sec.gov/files/forms-3.pdf"
+  form_number: "S-3"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Shelf/short-form registration. Eligibility conditions are on the form's General Instruction I; confirm current S-3 eligibility before use"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-form-s-4
+  title: "Form S-4 — \"Registration statement under Securities Act of 1933\""
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: ma-registration
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC"
+  source_page_url: "https://www.sec.gov/submit-filings/forms-index"
+  document_url: "https://www.sec.gov/files/forms-4.pdf"
+  form_number: "S-4"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Core stock-deal M&A registration form; pair with real S-4 precedent for merger proxy/prospectus drafting"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-form-8-k
+  title: "Form 8-K — \"Current report pursuant to Section 13 or 15(d)\""
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: periodic-and-current-reports
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC"
+  source_page_url: "https://www.sec.gov/submit-filings/forms-index"
+  document_url: "https://www.sec.gov/files/form8-k.pdf"
+  form_number: "8-K"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Item-by-item triggers (incl. Item 1.01 material agreements, Item 2.01 completion of acquisition)"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-form-10-k
+  title: "Form 10-K — \"Annual report pursuant to Section 13 or 15(d)\""
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: periodic-and-current-reports
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC"
+  source_page_url: "https://www.sec.gov/submit-filings/forms-index"
+  document_url: "https://www.sec.gov/files/form10-k.pdf"
+  form_number: "10-K"
+  edition_or_revision_date: "Forms index shows last updated Feb. 2025"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Forms index shows last updated Feb. 2025, SEC No. SEC1673"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-form-10-q
+  title: "Form 10-Q — \"General form for quarterly reports under Section 13 or 15(d)\""
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: periodic-and-current-reports
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC"
+  source_page_url: "https://www.sec.gov/submit-filings/forms-index"
+  document_url: "https://www.sec.gov/files/form10-q.pdf"
+  form_number: "10-Q"
+  edition_or_revision_date: "Forms index shows last updated Feb. 2025"
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Forms index shows last updated Feb. 2025, SEC No. SEC1296"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-schedule-14a
+  title: "Schedule 14A — \"Information required in proxy statement\""
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: proxy
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC / eCFR (17 CFR 240.14a-101)"
+  source_page_url: "https://www.ecfr.gov/current/title-17/section-240.14a-101"
+  document_url: "https://www.ecfr.gov/current/title-17/section-240.14a-101"
+  form_number: "Schedule 14A"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "No SEC PDF; not in forms index — same URL is both source page and document (fetched; title confirmed). Authoritative current text of the schedule; merger-proxy content is driven by Items 14/Note A plus Reg M-A"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-schedule-13d
+  title: "Schedule 13D"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: beneficial-ownership
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC / eCFR (17 CFR 240.13d-101)"
+  source_page_url: "https://www.sec.gov/submit-filings/forms-index"
+  document_url: "https://www.ecfr.gov/current/title-17/chapter-II/part-240/subpart-A/subject-group-ECFR7ce825ff9acf140/section-240.13d-101"
+  form_number: "Schedule 13D"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Beneficial ownership statement (>5%, active). SEC forms index links out to eCFR for schedules. URL taken verbatim from the SEC forms index HTML; eCFR intermittently rate-limits automated fetches, and this section was blocked on retry so the URL is reported as published rather than independently fetched. No PDF form; filed on EDGAR as submission type SC 13D"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-schedule-13g
+  title: "Schedule 13G"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: beneficial-ownership
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC / eCFR (17 CFR 240.13d-102)"
+  source_page_url: "https://www.sec.gov/submit-filings/forms-index"
+  document_url: "https://www.ecfr.gov/current/title-17/section-240.13d-102"
+  form_number: "Schedule 13G"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Beneficial ownership statement (passive/QII); fetched, title confirmed. Filed on EDGAR as SC 13G; eligibility/deadlines governed by Rule 13d-1(b)-(d)"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-schedule-to
+  title: "Schedule TO"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: tender-offers
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC / eCFR (17 CFR 240.14d-100)"
+  source_page_url: "https://www.ecfr.gov/current/title-17/section-240.14d-100"
+  document_url: "https://www.ecfr.gov/current/title-17/section-240.14d-100"
+  form_number: "Schedule TO"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Tender offer statement under §14(d)(1) or 13(e)(1). Same URL (no SEC PDF); fetched, title confirmed. EDGAR submission types SC TO-T (third-party), SC TO-I (issuer), SC TO-C; see the Horizon Global SC TO-T example in the EDGAR precedent file"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-form-d
+  title: "Form D"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: exempt-offerings
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC / eCFR (17 CFR 239.500)"
+  source_page_url: "https://www.sec.gov/education/smallbusiness/exemptofferings/formd"
+  document_url: "https://www.ecfr.gov/current/title-17/section-239.500"
+  form_number: "Form D"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "Notice of exempt offering (Reg D / §4(a)(5)). Both pages fetched; eCFR title confirmed. Online-only EDGAR submission; no fillable PDF on the forms index"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-form-4
+  title: "Form 4 — \"Statement of changes in beneficial ownership of securities\""
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: section-16-reports
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC"
+  source_page_url: "https://www.sec.gov/submit-filings/forms-index"
+  document_url: "https://www.sec.gov/files/form4.pdf"
+  form_number: "Form 4"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "HTTP 200. Companion forms: Form 3 https://www.sec.gov/files/form3.pdf, Form 5 https://www.sec.gov/files/form5.pdf"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-rw-registration-withdrawal
+  title: "RW — Registration withdrawal request"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: withdrawals
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC / eCFR (17 CFR 230.477)"
+  source_page_url: "https://www.ecfr.gov/current/title-17/section-230.477"
+  document_url: null
+  form_number: "RW"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "n.a. — no RW form PDF appears anywhere in the SEC forms index (all pages of https://www.sec.gov/submit-filings/forms-index were parsed); RW is an EDGAR submission type, i.e., an application letter under Rule 477. 17 CFR 230.477 \"Withdrawal of registration statement or amendment\" fetched and title confirmed. Draft as a letter-format application under Rule 477; also see Form AW — n.a., not present in index"
+  last_verified: "2026-08-20"
+
+- id: federal-sec-related-forms-144-8a-15-20f-f4-s8-t1-t3
+  title: "Related forms a securities lawyer also pulls: Form 144, Form 8-A, Form 15, Form 20-F, Form F-4, Form S-8, Forms T-1/T-3"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: related-sec-forms
+  source_tier: T1_OFFICIAL
+  publisher: "U.S. SEC"
+  source_page_url: "https://www.sec.gov/submit-filings/forms-index"
+  document_url: "https://www.sec.gov/files/form144.pdf"
+  form_number: "144 / 8-A / 15 / 20-F / F-4 / S-8 / T-1 / T-3"
+  edition_or_revision_date: null
+  access: "Free"
+  copy_policy: link_only
+  quality_notes: "All extracted from the forms-index HTML in this session: https://www.sec.gov/files/form144.pdf · https://www.sec.gov/files/form8a.pdf · https://www.sec.gov/files/form15.pdf · https://www.sec.gov/files/form20-f.pdf · https://www.sec.gov/files/formf-4.pdf · https://www.sec.gov/files/forms-8.pdf · https://www.sec.gov/files/formt-1.pdf · https://www.sec.gov/files/formt-3.pdf"
+  last_verified: "2026-08-20"
+
+# --- Federal Lane 2: SEC EDGAR deal precedent (market-standard public documents) ---
+# Label for the entire lane: market precedent — use as reference, not blank templates. These are
+# executed agreements between specific parties, tuned to a specific deal, governing law, and
+# negotiating posture; public record, but not fill-in-the-blank forms.
+
+- id: federal-edgar-activision-blizzard-8k-2022-merger-agreement
+  title: "Activision Blizzard, Inc. Form 8-K filed 2022-01-19 — Microsoft acquisition"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: merger-agreement-precedent
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "Filer: Activision Blizzard (CIK 0000718877), filed with SEC EDGAR"
+  source_page_url: "https://www.sec.gov/Archives/edgar/data/718877/000110465922005154/0001104659-22-005154-index.htm"
+  document_url: "https://www.sec.gov/Archives/edgar/data/718877/000110465922005154/tm223212d3_ex2-1.htm"
+  form_number: "Ex. 2.1 (Form 8-K)"
+  edition_or_revision_date: "Filed 2022-01-19"
+  access: "Free (EDGAR)"
+  copy_policy: link_only
+  quality_notes: "Market precedent — use as reference, not a blank template (verify current terms before reuse). Ex. 2.1 Agreement and Plan of Merger (public-company cash merger, one-step). Mega-cap strategic cash merger; useful for regulatory-efforts/\"hell-or-high-water\" covenants, ticking fee/outside date architecture. Exhibit type \"EX-2.1\" per EDGAR full-text index metadata"
+  last_verified: "2026-08-20"
+
+- id: federal-edgar-twitter-8k-2022-merger-agreement
+  title: "Twitter, Inc. Form 8-K filed 2022-04-26 — Musk/X Holdings take-private"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: merger-agreement-precedent
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "Filer: Twitter, Inc. (CIK 0001418091), SEC EDGAR"
+  source_page_url: "https://www.sec.gov/Archives/edgar/data/1418091/000119312522120461/0001193125-22-120461-index.htm"
+  document_url: "https://www.sec.gov/Archives/edgar/data/1418091/000119312522120461/d310843dex21.htm"
+  form_number: "Ex. 2.1 (Form 8-K); same filing also carries Ex. 4.2"
+  edition_or_revision_date: "Filed 2022-04-26"
+  access: "Free (EDGAR)"
+  copy_policy: link_only
+  quality_notes: "Market precedent — reference only (verify current terms before reuse). EX-4.2 also at https://www.sec.gov/Archives/edgar/data/1418091/000119312522120461/d310843dex42.htm. The canonical modern LBO/take-private with specific-performance and equity-financing structure; heavily litigated, so read alongside the Delaware record"
+  last_verified: "2026-08-20"
+
+- id: federal-edgar-twitter-schedule-13d-2022-musk
+  title: "Twitter, Inc. Schedule 13D filed 2022-04-05 (Elon Musk)"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: beneficial-ownership-precedent
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "Filed with SEC EDGAR (subject: Twitter, Inc., CIK 0001418091)"
+  source_page_url: "https://www.sec.gov/Archives/edgar/data/1418091/000110465922042863/0001104659-22-042863-index.htm"
+  document_url: "https://www.sec.gov/Archives/edgar/data/1418091/000110465922042863/tm2211757d1_sc13d.htm"
+  form_number: "SC 13D"
+  edition_or_revision_date: "Filed 2022-04-05"
+  access: "Free (EDGAR)"
+  copy_policy: link_only
+  quality_notes: "Market precedent — reference only (verify current terms before reuse). Best-known recent 13D; useful model for Item 4 \"Purpose of Transaction\" drafting and late-filing risk analysis"
+  last_verified: "2026-08-20"
+
+- id: federal-edgar-whole-foods-8k-2017-merger-agreement
+  title: "Whole Foods Market, Inc. Form 8-K filed 2017-06-16 — Amazon acquisition"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: merger-agreement-precedent
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "Filer: Whole Foods Market (CIK 0000865436), SEC EDGAR"
+  source_page_url: "https://www.sec.gov/Archives/edgar/data/865436/000104746917004058/0001047469-17-004058-index.htm"
+  document_url: "https://www.sec.gov/Archives/edgar/data/865436/000104746917004058/a2232461zex-2_1.htm"
+  form_number: "Ex. 2.1 (Form 8-K; also filed as DEFA14A soliciting material)"
+  edition_or_revision_date: "Filed 2017-06-16"
+  access: "Free (EDGAR)"
+  copy_policy: link_only
+  quality_notes: "Market precedent — reference only (verify current terms before reuse). Related Ex. 10.1 filed 2017-07-05 https://www.sec.gov/Archives/edgar/data/865436/000110465917043498/a17-16920_1ex10d1.htm (index https://www.sec.gov/Archives/edgar/data/865436/000110465917043498/0001104659-17-043498-index.htm) and DEFM14A merger proxy 2017-07-21 https://www.sec.gov/Archives/edgar/data/865436/000157104917006849/t1702075-defm14a.htm. Clean single-step cash merger plus a full merger-proxy (Schedule 14A) precedent chain: PREM14A → DEFM14A → DEFA14A"
+  last_verified: "2026-08-20"
+
+- id: federal-edgar-snap-s1a-2017-ipo
+  title: "Snap Inc. Form S-1/A filed 2017-02-16 (IPO)"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: ipo-precedent
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "Filer: Snap Inc. (CIK 0001564408), SEC EDGAR"
+  source_page_url: "https://www.sec.gov/Archives/edgar/data/1564408/000119312517045870/0001193125-17-045870-index.htm"
+  document_url: "https://www.sec.gov/Archives/edgar/data/1564408/000119312517045870/d270216dex51.htm"
+  form_number: "Ex. 5.1 opinion on legality; Ex. 1.1 underwriting agreement; Ex. 10.x material contracts in the original S-1"
+  edition_or_revision_date: "Filed 2017-02-16"
+  access: "Free (EDGAR)"
+  copy_policy: link_only
+  quality_notes: "Market precedent — reference only (verify current terms before reuse). EX-1.1 underwriting agreement https://www.sec.gov/Archives/edgar/data/1564408/000119312517045870/d270216dex11.htm; original S-1 (2017-02-02) https://www.sec.gov/Archives/edgar/data/1564408/000119312517029199/d270216ds1.htm (index https://www.sec.gov/Archives/edgar/data/1564408/000119312517029199/0001193125-17-029199-index.htm). Benchmark tech IPO (non-voting Class A structure); good Ex. 5.1 opinion form and Ex. 10 series for equity plans/investor agreements"
+  last_verified: "2026-08-20"
+
+- id: federal-edgar-apple-8k-2013-indenture
+  title: "Apple Inc. Form 8-K filed 2013-05-03 (inaugural bond offering)"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: debt-offering-precedent
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "Filer: Apple Inc. (CIK 0000320193), SEC EDGAR"
+  source_page_url: "https://www.sec.gov/Archives/edgar/data/320193/000119312513199324/0001193125-13-199324-index.htm"
+  document_url: "https://www.sec.gov/Archives/edgar/data/320193/000119312513199324/d529124dex41.htm"
+  form_number: "Ex. 4.1 indenture; Ex. 5.1 opinion; Ex. 1.1 underwriting agreement"
+  edition_or_revision_date: "Filed 2013-05-03"
+  access: "Free (EDGAR)"
+  copy_policy: link_only
+  quality_notes: "Market precedent — reference only (verify current terms before reuse). EX-5.1 https://www.sec.gov/Archives/edgar/data/320193/000119312513199324/d529124dex51.htm; EX-1.1 https://www.sec.gov/Archives/edgar/data/320193/000119312513199324/d529124dex11.htm. Investment-grade base indenture + covenant package; classic Ex. 4.1 / Ex. 5.1 pairing for a shelf takedown"
+  last_verified: "2026-08-20"
+
+- id: federal-edgar-horizon-global-sc-to-t-2023
+  title: "Horizon Global Corp. Schedule TO-T filed 2023-01-10 (third-party cash tender offer)"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: tender-offer-precedent
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "Filed with SEC EDGAR (subject: Horizon Global Corp., CIK 0001637655)"
+  source_page_url: "https://www.sec.gov/Archives/edgar/data/1637655/000119312523004962/0001193125-23-004962-index.htm"
+  document_url: "https://www.sec.gov/Archives/edgar/data/1637655/000119312523004962/d433995dsctot.htm"
+  form_number: "SC TO-T with Ex. 99(a)(1)(A) Offer to Purchase and related offer documents; later SC TO-T/A amendments"
+  edition_or_revision_date: "Filed 2023-01-10"
+  access: "Free (EDGAR)"
+  copy_policy: link_only
+  quality_notes: "Market precedent — reference only (verify current terms before reuse). EX-99.(A)(1)(A) Offer to Purchase https://www.sec.gov/Archives/edgar/data/1637655/000119312523004962/d433995dex99a1a.htm; SC TO-T/A 2023-02-07 https://www.sec.gov/Archives/edgar/data/1637655/000119312523027109/d449122dsctota.htm. Shows the Reg M-A exhibit lettering convention for tender offers ((a)(1)(A)-(a)(5), (b), (d)) rather than Item 601 numbering"
+  last_verified: "2026-08-20"
+
+# --- Federal Lane 3: NVCA model legal documents ---
+# Caveat for all rows: verify the current posted version and terms before use — NVCA revises these
+# documents frequently, and the docs contain drafting notes that assume a Delaware C-corp Series A.
+
+- id: federal-nvca-term-sheet-series-a
+  title: "Term Sheet (Series A Preferred Stock Financing)"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: vc-financing-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/model-legal-documents/"
+  document_url: "https://nvca.org/wp-content/uploads/2020/07/NVCA-2020-Term-Sheet.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "2020 edition per file name/hub page"
+  access: "Free download (.docx)"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. Fetched; document opens \"TERM SHEET / FOR SERIES A PREFERRED STOCK FINANCING OF\". An alternative, analytics-annotated version exists: Enhanced Model Term Sheet v3.0 (© Aumni 2022) https://nvca.org/wp-content/uploads/2023/10/Aumni_Enhanced_Model_Term_Sheet___V3.0___06142022.docx — fetched; contains market-frequency data (CY2021 vs 2016-2020)"
+  last_verified: "2026-08-20"
+
+- id: federal-nvca-stock-purchase-agreement
+  title: "Stock Purchase Agreement"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: vc-financing-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/model-legal-documents/"
+  document_url: "https://nvca.org/wp-content/uploads/2025/10/NVCA-Model-SPA-10-28-2025-1.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "Dated October 28, 2025; version markers \"New October 2025\"/\"Revised October 2025\""
+  access: "Free download (.docx)"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. Fetched; \"Series [___] Preferred Stock Purchase Agreement\". Most-current SPA found. An earlier October 2025 posting also exists (https://nvca.org/wp-content/uploads/2025/10/NVCA-Model-SPA-10-1-2025.docx); prefer the 10-28-2025 file"
+  last_verified: "2026-08-20"
+
+- id: federal-nvca-certificate-of-incorporation
+  title: "Certificate of Incorporation"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: vc-financing-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/document/nvca-model-certificate-of-incorporation-updated-oct-2025/"
+  document_url: "https://nvca.org/wp-content/uploads/2025/10/NVCA-Model-COI-10-1-2025.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "Dated October 1, 2025 (hub: Updated October 2025)"
+  access: "Free download (.docx)"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. Amended & restated charter (Delaware); fetched, \"AMENDED AND RESTATED CERTIFICATE OF INCORPORATION\". Includes preliminary notes and \"New/Revised October 2025\" flags; reflects recent DGCL developments"
+  last_verified: "2026-08-20"
+
+- id: federal-nvca-voting-agreement
+  title: "Voting Agreement"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: vc-financing-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/document/nvca-model-voting-agreement-updated-oct-2025/"
+  document_url: "https://nvca.org/wp-content/uploads/2024/10/NVCA-Model-VA-10-1-2025.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "Marker \"Revised October 2025\""
+  access: "Free download (.docx)"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. CAVEAT: the hub page lists the Voting Agreement as \"Updated June 2026\" but a June 2026 file URL could not be confirmed — treat the October 2025 file as the latest verified copy and re-pull from the hub page before use. Fetched; \"[AMENDED AND RESTATED] VOTING AGREEMENT\""
+  last_verified: "2026-08-20"
+
+- id: federal-nvca-investors-rights-agreement
+  title: "Investors' Rights Agreement"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: vc-financing-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/model-legal-documents/"
+  document_url: "https://nvca.org/wp-content/uploads/2025/10/NVCA-Model-IRA-10-1-2025-2-1.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "Markers \"Revised/New October 2025\""
+  access: "Free download (.docx)"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. Earlier landing page: https://nvca.org/document/investors-rights-agreement-updated-october-2024/. Fetched; \"[Amended and Restated] Investors' Rights Agreement\"; includes a QSBS checklist stated to reflect law in effect through September 8, 2025 — the checklist is date-limited, so re-check against post-2025 tax changes"
+  last_verified: "2026-08-20"
+
+- id: federal-nvca-rofr-and-co-sale-agreement
+  title: "Right of First Refusal and Co-Sale Agreement"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: vc-financing-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/model-legal-documents/"
+  document_url: "https://nvca.org/wp-content/uploads/2026/04/NVCA-Model-ROFRA.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "Posted under 2026/04 (hub: Updated April 2026)"
+  access: "Free download (.docx)"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. Fetched; \"[AMENDED AND RESTATED] RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT\". Matches the hub page's \"Updated April 2026\" listing"
+  last_verified: "2026-08-20"
+
+- id: federal-nvca-management-rights-letter
+  title: "Management Rights Letter"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: vc-financing-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/document/nvca-2020-management-rights-letter-2/"
+  document_url: "https://nvca.org/wp-content/uploads/2025/12/NVCA-2020-Management-Rights-Letter-1-1.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "2020 edition per hub page (July 2020)"
+  access: "Free download (.docx)"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. ERISA VCOC management rights letter; fetched, \"MANAGEMENT RIGHTS LETTER / Preliminary Notes\". Short-form; content still the 2020 edition per hub page"
+  last_verified: "2026-08-20"
+
+- id: federal-nvca-model-legal-opinion
+  title: "Model Legal Opinion"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: vc-financing-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/document/model-legal-opinion/"
+  document_url: "https://nvca.org/wp-content/uploads/2019/06/NVCA_Model_Legal-Opinion.doc"
+  form_number: "n.a."
+  edition_or_revision_date: "2019 upload, no version stamp"
+  access: "Free download (.doc)"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. Closing opinion of company counsel (VC financing); fetched, \"FORM OF LEGAL OPINION,\" described as a starting point for a typical venture-backed preferred stock financing. Oldest item in the set — verify against current TriBar/ABA opinion practice"
+  last_verified: "2026-08-20"
+
+- id: federal-nvca-indemnification-agreement
+  title: "Indemnification Agreement"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: vc-financing-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/document/nvca-2020-indemnification-agreement-2/"
+  document_url: "https://nvca.org/wp-content/uploads/2021/12/NVCA-2020-Indemnification-Agreement.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "2020 edition (Updated July 2020 per hub page)"
+  access: "Free download (.docx)"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. Director/officer indemnification; fetched, \"MODEL INDEMNIFICATION AGREEMENT,\" references the 2020 DGCL amendments. Pre-dates later DGCL amendments; confirm §145 analysis"
+  last_verified: "2026-08-20"
+
+- id: federal-nvca-model-pipe-package
+  title: "Model PIPE package (Securities Purchase Agreement, Registration Rights Agreement, pre-funded and common warrants; US issuer and FPI versions)"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: pipe-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/model-legal-documents/"
+  document_url: "https://nvca.org/wp-content/uploads/2024/07/Model-PIPE-Securities-Purchase-Agreement-US-Issuer.docx"
+  form_number: "n.a."
+  edition_or_revision_date: "Hub lists US-issuer set last updated June 2025 and FPI set August 2025"
+  access: "Free download (.docx)"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. FPI SPA (updated 8.11.25) https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Securities-Purchase-Agreement-FPI-updated-8.11.25.docx; FPI Registration Rights Agreement (updated 8.11.25) https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Registration-Rights-Agreement-FPI-updated-8.11.25.docx. URLs surfaced from nvca.org indexing; the two FPI files and the US-issuer SPA were not individually opened in this session — confirm currency on the hub page. Warrant forms: n.a. (direct URLs not confirmed)"
+  last_verified: "2026-08-20"
+
+- id: federal-nvca-diligence-questionnaires
+  title: "Diligence questionnaires (Directors & Executive Officers; 5% holders in connection with a public offering)"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: diligence-questionnaires
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: "NVCA"
+  source_page_url: "https://nvca.org/model-legal-documents/"
+  document_url: "https://nvca.org/wp-content/uploads/2021/09/NVCA-Form-of-5-Questionnaire-for-IPO-Direct-Listing-or-DeSPAC.docx"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Free download"
+  copy_policy: link_only
+  quality_notes: "Verify current version and terms before use. URL surfaced from nvca.org indexing; not opened. D&O questionnaire direct URL: n.a. Useful IPO-readiness diligence forms"
+  last_verified: "2026-08-20"
+
+# --- Federal Lane 4: ABA M&A model agreements (premium reference) ---
+# Label for the entire lane: reference only — copyrighted ABA publications. Do not copy text into a
+# repository or product; cite and consult. Access on every fetched product page: paid purchase, with
+# a discounted rate for ABA members.
+
+- id: federal-aba-model-stock-purchase-agreement-2d
+  title: "Model Stock Purchase Agreement with Commentary, Second Edition"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: aba-model-agreements
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "ABA Book Publishing (Business Law Section; co-sponsored by the Mergers and Acquisitions Committee)"
+  source_page_url: "https://www.americanbar.org/products/inv/book/213974/"
+  document_url: "https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/213974/5070636_SamCh.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: "Second Edition; published July 1, 2010"
+  access: "Paid purchase / ABA member discount"
+  copy_policy: commercial_purchase
+  quality_notes: "Reference only — copyrighted ABA publication; never copied into this repo. Document URL is the sample chapter PDF (surfaced via americanbar.org indexing). Page data: ISBN 9781604429985, product code 5070636, 648 pages; built around a hypothetical acquisition with buyer- and seller-side commentary. The market benchmark for private-target SPA drafting"
+  last_verified: "2026-08-20"
+
+- id: federal-aba-model-asset-purchase-agreement
+  title: "Model Asset Purchase Agreement with Commentary"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: aba-model-agreements
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "ABA Book Publishing (Business Law Section)"
+  source_page_url: "https://www.americanbar.org/products/inv/book/213895/"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paid purchase / ABA member discount"
+  copy_policy: commercial_purchase
+  quality_notes: "Reference only — copyrighted. Includes the agreement plus exhibits, ancillary documents and appendices with substantive explanation. Sample chapter: Chapter 7 \"Conditions Precedent to Buyer's Obligation to Close\" (linked from product page) — direct PDF URL: n.a."
+  last_verified: "2026-08-20"
+
+- id: federal-aba-model-merger-agreement-public-company
+  title: "Model Merger Agreement for the Acquisition of a Public Company"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: aba-model-agreements
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "ABA Book Publishing"
+  source_page_url: "https://www.americanbar.org/products/inv/book/213997/"
+  document_url: "https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/213996/MMA%20Agreement%20TOC.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paid purchase / ABA member discount; page advertises a 40% saving on the book + e-book package"
+  copy_policy: commercial_purchase
+  quality_notes: "Reference only — copyrighted. Document URL is the related table-of-contents PDF under product 213996; intro PDF at https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/213996/5070650%20intro_abs.pdf (surfaced via americanbar.org indexing; product page 213996 itself was robots-blocked to the fetcher, so treat 213997 as the confirmed page). Provisions plus extensive commentary on public-deal issues and negotiating alternatives"
+  last_verified: "2026-08-20"
+
+- id: federal-aba-model-tender-offer-agreement
+  title: "Model Tender Offer Agreement"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: aba-model-agreements
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "ABA Publishing"
+  source_page_url: "https://www.americanbar.org/products/inv/book/381487815/"
+  document_url: "https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/381487815/Introduction.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paid purchase / ABA member discount"
+  copy_policy: commercial_purchase
+  quality_notes: "Reference only — copyrighted. Preface PDF: https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/381487815/Preface.pdf. Covers acquisition of a public company for cash via negotiated tender offer, with alternative drafts and negotiating positions — pair with the SC TO-T market precedent"
+  last_verified: "2026-08-20"
+
+- id: federal-aba-model-apa-for-bankruptcy-sales
+  title: "Model Asset Purchase Agreement for Bankruptcy Sales"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: aba-model-agreements
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "ABA Publishing (Business Bankruptcy Committee)"
+  source_page_url: "https://www.americanbar.org/products/inv/book/264483903/"
+  document_url: "https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/264483903/Definitions%20and%20Usage.pdf"
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paid purchase / ABA member discount"
+  copy_policy: commercial_purchase
+  quality_notes: "Reference only — copyrighted. Model §363 asset purchase agreement + commentary; designed to be used alongside the Model Asset Purchase Agreement; highlights bankruptcy vs. non-bankruptcy sale differences"
+  last_verified: "2026-08-20"
+
+- id: federal-aba-ma-committee-deal-points-studies
+  title: "M&A Committee resources — Deal Points Studies, M&A Market Check video series"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: market-terms-studies
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "ABA Business Law Section, Mergers and Acquisitions Committee"
+  source_page_url: "https://www.americanbar.org/groups/business_law/about/committees/mergers-and-acquisitions/"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Membership-gated: page states Deal Points Studies are available only to M&A Committee members; the Market Check video series is free to Section members"
+  copy_policy: reference_only
+  quality_notes: "Reference only. The Deal Points Studies are the standard citation for \"what's market\" on indemnity, MAE and other terms. Direct document URL: n.a."
+  last_verified: "2026-08-20"
+
+- id: federal-aba-related-ma-titles
+  title: "Related ABA M&A titles: The M&A Process: A Practical Guide for the Business Lawyer; Manual on Acquisition Review; International Stock Purchase Acquisitions"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: aba-model-agreements
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "ABA Book Publishing"
+  source_page_url: "https://www.americanbar.org/products/inv/book/213910/"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paid purchase / ABA member discount (assumed same model; not individually confirmed)"
+  copy_policy: commercial_purchase
+  quality_notes: "Reference only — copyrighted. Additional product pages: https://www.americanbar.org/products/inv/book/213883/ and https://www.americanbar.org/products/inv/book/213916/ (URLs surfaced from americanbar.org indexing; product pages not individually opened). Direct document URL: n.a."
+  last_verified: "2026-08-20"
+
+# --- Federal Lane 5: Premium commercial references (paywalled; reference, never copy) ---
+
+- id: federal-practical-law-thomson-reuters
+  title: "Practical Law"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: premium-know-how-platform
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "Thomson Reuters"
+  source_page_url: "https://legal.thomsonreuters.com/en/products/practical-law"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paywalled — subscription; M&A page offers a free trial. No price stated on either page"
+  copy_policy: reference_only
+  quality_notes: "Reference only — never copy paywalled content into this repo. Subscription know-how library: practice notes, standard documents/templates, checklists, clause banks (incl. a dedicated Corporate M&A collection at https://legal.thomsonreuters.com/en/products/practical-law/corporate-mergers-and-acquisitions). Direct document URL: n.a. (content behind login). Product pages describe \"expertly created and maintained how-to guidance, templates\" with AI features, and U.S.-licensed attorney-editors averaging 12-14 years' experience. Highest-value source of maintained, annotated deal templates; licence terms restrict redistribution"
+  last_verified: "2026-08-20"
+
+- id: federal-pli-plus
+  title: "PLI PLUS (Practising Law Institute)"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: premium-know-how-platform
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "Practising Law Institute"
+  source_page_url: "https://www.pli.edu/publications/pliplus"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paywalled — member/institutional access (\"PLUS Members\", sign-in required); price not stated"
+  copy_policy: reference_only
+  quality_notes: "Reference only. Treatises, answer books, course handbooks, forms, CLE transcripts; organization site https://www.pli.edu/. Page states more than 130,000 documents across 33 practice areas, including treatises cited by courts. Strongest for securities-law treatises and transactional CLE handbooks. Direct document URL: n.a."
+  last_verified: "2026-08-20"
+
+- id: federal-bloomberg-law
+  title: "Bloomberg Law"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: premium-know-how-platform
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "Bloomberg Law"
+  source_page_url: "https://pro.bloomberglaw.com/"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paywalled — \"flat, all-inclusive pricing,\" access via demo request; price not stated"
+  copy_policy: reference_only
+  quality_notes: "Reference only. Integrated legal research/intelligence platform: primary law, secondary sources, news, transactional tools. Useful for combined deal analytics + primary law + Bloomberg news in one subscription. Direct document URL: n.a."
+  last_verified: "2026-08-20"
+
+- id: federal-intelligize-plus-ai-lexisnexis
+  title: "Intelligize+ AI (LexisNexis)"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: premium-know-how-platform
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "Intelligize / LexisNexis"
+  source_page_url: "https://www.intelligize.com/"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paywalled — access model not stated on the page fetched"
+  copy_policy: reference_only
+  quality_notes: "Reference only. SEC filings research, precedent/comparison analytics, AI drafting on EDGAR content. Related URLs: https://www.intelligize.com/solution/strategy/sec-company-filings-search/ (surfaced via indexing) and LexisNexis product page https://www.lexisnexis.com/en-ca/products/intelligize (surfaced via indexing; the en-us variant returned a client error). Describes conversational SEC research with \"transparent and verifiable citations\" over authoritative SEC content — the premium layer on top of free EDGAR full-text search. Direct document URL: n.a."
+  last_verified: "2026-08-20"
+
+- id: federal-deal-point-data
+  title: "Deal Point Data"
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: deal-terms-database
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "Deal Point Data"
+  source_page_url: "https://www.dealpointdata.com/"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paywalled — pricing/access terms not stated on the page"
+  copy_policy: reference_only
+  quality_notes: "Reference only. Deal-terms database and market studies (M&A, SPAC/de-SPAC, tender offers, proxy/annual-meeting data). Homepage \"Latest Spotlights\" shows the house output: SPAC and de-SPAC market activity, Maryland Unsolicited Takeover Act adoption, IPO filer geography, annual-meeting practice. Go-to for empirical \"what's market\" support in negotiations. Direct document URL: n.a."
+  last_verified: "2026-08-20"
+
+- id: federal-blumberg-legal-forms
+  title: "Blumberg (Blumberg Legal Forms / Blumberg Excelsior)"
+  jurisdiction: Federal
+  practice_area: corporate-entity-filings
+  category: commercial-forms-publisher
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: "Blumberg"
+  source_page_url: "https://www.blumberg.com/"
+  document_url: null
+  form_number: "n.a."
+  edition_or_revision_date: null
+  access: "Paid per-form purchase; the online-forms page states forms are not printable without purchase and subscription access is not offered"
+  copy_policy: commercial_purchase
+  quality_notes: "Reference only — never copy commercial content into this repo. Official-style New York legal forms publisher; corporate kits, formation and filing services, online fillable forms. Related URLs: https://www.blumberg.com/kits/legal-forms/blumberg-legal-forms-online (fetched); catalog PDFs https://www.blumberg.com/downloads/Blumberg-Law-Forms-Catalog.pdf and https://www.blumberg.com/downloads/Blumberg-NY-Corporate-Service-and-Supply-Catalog.pdf (URLs surfaced via indexing). Direct document URL: n.a. (forms are purchase-gated). The traditional NY stationer's forms (leases, POAs, DBA certificates, corporate kits) plus Blumberg Legal Automation. Relevant for New York filing/formation mechanics rather than negotiated M&A drafting"
+  last_verified: "2026-08-20"

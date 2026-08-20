@@ -19,24 +19,18 @@ collection with `git submodule update --remote sources/<name>`.
 | `sources/ugovor-contract-template` | [neuralab/ugovor-contract-template](https://github.com/neuralab/ugovor-contract-template) | MIT | Service-based production contract templates. |
 | `sources/latexlaw` | [anoduck/LatexLaw](https://github.com/anoduck/LatexLaw) | **None (unlicensed)** | LaTeX legal/brief templates. Included as a submodule reference only — no license file means default copyright reserves all rights; do **not** copy code out of this submodule without upstream permission. |
 
-## Jurisdiction-specific forms (NY / NC) — index, don't copy
+## Jurisdiction-specific forms (NY / NC / Federal) — curated catalog
 
-Court and government forms for New York and North Carolina are **not** vendored here.
-They are publicly available on official catalogs but redistribution terms vary by
-source and the forms are revised frequently. The intended approach is a pointer/index
-layer (form number, jurisdiction, category, edition/revision date, official URL)
-rather than copying PDFs that go stale.
+Court and government forms for New York, North Carolina, and the federal courts/agencies are **not** copied here. They live in a curated, source-linked catalog under [`catalog/`](catalog/README.md) — 179 entries across NY, NC, and Federal, every URL fetched/HTTP-verified in Aug 2026. The catalog enforces a quality bar with explicit source tiers:
 
-- **New York** — [NYSCEF forms](https://iappscontent.courts.state.ny.us/nyscef/live/forms.htm),
-  [CourtHelp DIY forms](https://ww2.nycourts.gov/courts/11jd/supreme/civilterm/court_help_forms.shtml),
-  [Civil Court forms](https://ww2.nycourts.gov/courts/nyc/civil/forms.shtml),
-  [Appellate Division forms](https://www.nycourts.gov/courts/ad2/appellateterm_forms.shtml),
-  [Justia NY](https://forms.justia.com/new-york/),
-  [Clio NY templates](https://www.clio.com/legal-templates/new-york/).
-- **North Carolina** — [NC Judicial Branch AOC forms](https://www.nccourts.gov/documents/forms)
-  (1,120+ fillable PDFs: AOC-CV civil, AOC-CR criminal, AOC-E estate/probate, family),
-  [LawHelpNC](https://www.lawhelpnc.org/online-legal-forms),
-  [Middle District of NC federal forms](https://www.ncmd.uscourts.gov/forms).
+- **T1_OFFICIAL** — court/government/agency forms (authoritative, free)
+- **T2_MARKET_STANDARD_PUBLIC** — SEC EDGAR filed deal exhibits, NVCA model docs, official model orders
+- **T3_PREMIUM_REFERENCE** — Blumberg, ABA model agreements, Practical Law, PLI, Bloomberg Law, Lexis/Intelligize, Deal Point Data (linked only, never copied)
+- **EXCLUDED** — LegalZoom, RocketLawyer, AI template generators, SEO PDF mirrors (see [catalog/excluded-sources.md](catalog/excluded-sources.md))
+
+Start at [`catalog/README.md`](catalog/README.md) for the full schema and directory map. The canonical machine-readable catalog is [`catalog/forms.yaml`](catalog/forms.yaml). Lanes: NY (DOS entity filings, Commercial Division/NYSCEF litigation, AD1/AD2 appellate, SDNY/EDNY federal), NC (SOS entity filings, AOC civil litigation, Business Court, appellate, EDNC/MDNC/WDNC federal), Federal (SEC official forms, EDGAR deal precedent, NVCA models).
+
+Rationale: official forms are revised frequently and redistribution terms vary by source, so the catalog indexes (form number + jurisdiction + edition/revision + official URL) rather than copying PDFs that go stale. Re-verify before filing.
 
 > Templates are not legal advice and are not a substitute for review by a licensed
 > attorney in the relevant jurisdiction.
