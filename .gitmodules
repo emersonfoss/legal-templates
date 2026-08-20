@@ -1,0 +1,12 @@
+[submodule "sources/open-source-legal-engineering"]
+	path = sources/open-source-legal-engineering
+	url = https://github.com/ErichDylus/Open-Source-Legal-Engineering.git
+[submodule "sources/easylegaldocs-templates"]
+	path = sources/easylegaldocs-templates
+	url = https://github.com/EasyLegalDocs/legal-templates.git
+[submodule "sources/ugovor-contract-template"]
+	path = sources/ugovor-contract-template
+	url = https://github.com/neuralab/ugovor-contract-template.git
+[submodule "sources/latexlaw"]
+	path = sources/latexlaw
+	url = https://github.com/anoduck/LatexLaw.git
