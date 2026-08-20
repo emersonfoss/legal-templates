@@ -21,7 +21,7 @@ collection with `git submodule update --remote sources/<name>`.
 
 ## Jurisdiction-specific forms (NY / NC / Federal) — curated catalog
 
-Court and government forms for New York, North Carolina, and the federal courts/agencies are **not** copied here. They live in a curated, source-linked catalog under [`catalog/`](catalog/README.md) — 179 entries across NY, NC, and Federal, every URL fetched/HTTP-verified in Aug 2026. The catalog enforces a quality bar with explicit source tiers:
+Court and government forms for New York, North Carolina, and the federal courts/agencies are **not** copied here. They live in a curated, source-linked catalog under [`catalog/`](catalog/README.md) — 179 entries across NY, NC, and Federal, every URL fetched or HTTP-verified where possible (NY court pages behind bot protection are snapshot/live-page-confirmed; unconfirmable direct URLs marked `n.a.`). The catalog enforces a quality bar with explicit source tiers:
 
 - **T1_OFFICIAL** — court/government/agency forms (authoritative, free)
 - **T2_MARKET_STANDARD_PUBLIC** — SEC EDGAR filed deal exhibits, NVCA model docs, official model orders

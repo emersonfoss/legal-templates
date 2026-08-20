@@ -61,7 +61,7 @@ Every entry in [forms.yaml](forms.yaml) carries these fields:
 
 ## Verification methodology
 
-Every URL in this catalog was fetched or HTTP-verified during the August 2026 research session that produced the underlying research files, and edition/revision dates were read off the fetched document or its official landing page wherever possible. **`n.a.` means the value was not confirmable from a fetched official page — it is never a guess.** Where a direct document URL could not be confirmed, the stable official index page is given instead.
+Every catalog entry is source-linked to an official or premium-reference publisher. URLs were fetched or HTTP-verified where possible; New York court pages behind bot protection are documented with their verification method (snapshot-confirmed or live-page-confirmed) in the relevant lane files, and unconfirmable direct document URLs are marked `n.a.` or preserved as official-page `href` values with caveats. **`n.a.` means the value was not confirmable from a fetched official page — it is never a guess.** Where a direct document URL could not be confirmed, the stable official index page is given instead.
 
 Two access constraints shaped the New York rows: `www.nycourts.gov` and `ww2.nycourts.gov` sit behind Cloudflare bot protection and robots restrictions, so several court URLs were verified either by fetching the open NYSCEF/UCS document host `iappscontent.courts.state.ny.us` or by extracting live `href` values from archived snapshots of the official nycourts.gov pages plus a live screenshot confirming the current page still exists. Those rows say so in their quality notes. On the federal side, eCFR intermittently rate-limits automated requests, and `efts.sec.gov` is robots-blocked to automated HTML fetchers.
 
