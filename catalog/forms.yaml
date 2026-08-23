@@ -3493,3 +3493,1099 @@
   copy_policy: link_only
   quality_notes: 'robots.txt / search-index corroboration: filtered category page was blocked to automated fetch and confirmed through current search-index listing. Individual forms have their own revision stamps; nccourts.gov asset filenames are unstable, so re-verify before filing.'
   last_verified: '2026-08-23'
+
+# Commercial real estate catalog lanes — assembled 2026-08-23
+- id: federal-cre-aba-practical-guide-transactions
+  title: 'A Practical Guide to Commercial Real Estate Transactions: From Contract to Closing, Third Edition'
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: purchase-sale-agreement-and-closing-checklist
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: American Bar Association, Section of Real Property, Trust and Estate Law
+  source_page_url: https://www.americanbar.org/products/inv/book/257973140/
+  document_url: https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/248972047/Chapter%202%20-%20Extract.pdf
+  form_number: n.a.
+  edition_or_revision_date: Third edition; published 2016
+  access: Paid; ABA price login-gated
+  copy_policy: reference_only
+  quality_notes: 'Premium ABA formbook with PSA, letter-of-intent, due-diligence and closing-checklist forms. The full forms
+    are n.a.; the linked file is a free chapter extract. 2016 vintage: update tax, CFIUS/FinCEN and title references.'
+  last_verified: '2026-08-23'
+- id: federal-cre-aba-ground-lease-criteria
+  title: Model Ground Lease Criteria for CMBS and Other Lenders
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: ground-lease-criteria
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ABA Section of Real Property, Trust and Estate Law
+  source_page_url: https://www.americanbar.org/groups/real_property_trust_estate/resources/ereport/2024-summer/model-ground-lease-criteria-cmbs/
+  document_url: https://www.americanbar.org/content/dam/aba/publications/rpte_ereport/issues/rpte-ereport-2024-summer.pdf
+  form_number: n.a.
+  edition_or_revision_date: Summer 2024; article dated 2024-08-23
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Three-part transactional, closing and leasehold-mortgagee-protection criteria set; not a negotiable model
+    ground-lease instrument. Use as diligence criteria.
+  last_verified: '2026-08-23'
+- id: federal-cre-alta-2021-title-policy-suite
+  title: ALTA 2021 Title Policy Suite — Owner’s Policy, Loan Policy and endorsements
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: title-insurance-policy-suite
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: American Land Title Association
+  source_page_url: https://www.alta.org/policies-and-standards/policy-forms/
+  document_url: https://www.alta.org/policies-and-standards/policy-forms/downloadSub?formSubID=2154&type=pdf
+  form_number: 2021 v. 01.00
+  edition_or_revision_date: Effective 07-01-2021; publication 07-30-2021
+  access: Mixed; many forms available only to members or policy-forms license holders
+  copy_policy: reference_only
+  quality_notes: Operative national title-policy jackets. The linked Owner’s Policy file is a redline; ALTA states policy
+    forms are for properly licensed users and republication requires permission. The Loan Policy and endorsements are on the
+    same licensed forms index.
+  last_verified: '2026-08-23'
+- id: federal-cre-alta-2021-title-commitment
+  title: ALTA Commitment for Title Insurance
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: title-commitment
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: American Land Title Association
+  source_page_url: https://www.alta.org/policies-and-standards/policy-forms/
+  document_url: https://www.alta.org/policies-and-standards/policy-forms/downloadSub?formSubID=2159&type=pdf
+  form_number: 2021 v. 01.00
+  edition_or_revision_date: Effective 07-01-2021; publication 07-30-2021
+  access: Publicly reachable PDF; use restricted to ALTA licensees and members
+  copy_policy: reference_only
+  quality_notes: The diligence spine for Schedule A/B requirements and exceptions. The served file is a redline against the
+    2016 form, not a clean issuing form; the form itself restricts use to ALTA licensees and members.
+  last_verified: '2026-08-23'
+- id: federal-cre-alta-settlement-statements
+  title: ALTA Settlement Statements — Combined, Seller, Borrower-Buyer and Cash
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: closing-statement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: American Land Title Association
+  source_page_url: https://www.alta.org/policies-and-standards/policy-forms/settlement-statements
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: n.a.
+  access: Free page downloads; static direct file URL n.a.
+  copy_policy: link_only
+  quality_notes: The four-variant national closing-statement set. ALTA presents DOC/XLS/PDF downloads, but no static direct
+    file URL was confirmed; no affirmative open license was found.
+  last_verified: '2026-08-23'
+- id: federal-cre-alta-nsps-land-survey-2021
+  title: 2021 Minimum Standard Detail Requirements for ALTA/NSPS Land Title Surveys
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: land-title-survey-standard
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: American Land Title Association and National Society of Professional Surveyors
+  source_page_url: https://nsps.us.com/page/2021ALTA
+  document_url: https://cdn.ymaws.com/nsps.us.com/resource/resmgr/alta_standards/2021_ALTA-NSPS_Standards_Art.pdf
+  form_number: n.a.
+  edition_or_revision_date: Adopted October 2020; effective February 23, 2021
+  access: Free public PDF
+  copy_policy: link_only
+  quality_notes: Legacy survey standard only. It was superseded by ALTA/NSPS v. 11.25.2025 effective February 23, 2026; retain
+    for surveys certified before the changeover.
+  last_verified: '2026-08-23'
+- id: federal-cre-alta-nsps-land-survey-2026
+  title: Minimum Standard Detail Requirements for ALTA/NSPS Land Title Surveys
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: land-title-survey-standard
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: American Land Title Association and National Society of Professional Surveyors
+  source_page_url: https://www.alta.org/topics/topic-land-survey-standards
+  document_url: https://www.alta.org/policies-and-standards/policy-forms/download?formID=721&type=pdf
+  form_number: v. 11.25.2025
+  edition_or_revision_date: Effective February 23, 2026
+  access: Free public download
+  copy_policy: reference_only
+  quality_notes: Current governing standard for commercial acquisition closings after February 23, 2026. Copyright 2026, all
+    rights reserved; re-map Table A optional-item references from the superseded 2021 numbering.
+  last_verified: '2026-08-23'
+- id: federal-cre-ulc-environmental-covenants-act
+  title: Uniform Environmental Covenants Act
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: uniform-model-act
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Uniform Law Commission
+  source_page_url: https://www.uniformlaws.org/committees/community-home?CommunityKey=ce3a1f73-4bc5-4de2-82a9-f4f54ce70294
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: 2018 final act; attachment filenames dated 2018-09-27
+  access: Free; attachments listed on library page
+  copy_policy: reference_only
+  quality_notes: Relevant to brownfield and industrial acquisitions. Stable direct attachment URL was not exposed; enacted
+    state versions control. ULC asserts an all-rights-reserved posture.
+  last_verified: '2026-08-23'
+- id: federal-cre-ulc-common-interest-ownership-act
+  title: Uniform Common Interest Ownership Act
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: uniform-model-act
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Uniform Law Commission
+  source_page_url: https://www.uniformlaws.org/viewdocument/final-act-12?CommunityKey=66a8afd1-326a-4525-ad0f-accf961ed0b6&tab=librarydocuments
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: 2021 act referenced in ULC archive; final-act page date n.a.
+  access: Free
+  copy_policy: reference_only
+  quality_notes: Model for condominium and mixed-use diligence. Direct document URL and current-version metadata are n.a.
+    on the final-act page; state condominium acts remain operative.
+  last_verified: '2026-08-23'
+- id: federal-cre-ulc-urpera
+  title: Uniform Real Property Electronic Recording Act (URPERA)
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: uniform-model-act-and-recording
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Uniform Law Commission
+  source_page_url: https://www.uniformlaws.org/acts/catalog/current/r
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: 2004 Annual Meeting approved text referenced in archive
+  access: Free
+  copy_policy: reference_only
+  quality_notes: E-recording enabling model relevant to deed and deed-of-trust closing mechanics. Direct act file URL is n.a.;
+    use state implementation requirements for practice.
+  last_verified: '2026-08-23'
+- id: federal-cre-first-american-closing-security
+  title: Closing Security Checklist / Wire Fraud Protection Guide
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: closing-security-checklist
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: First American Title Insurance Company
+  source_page_url: https://www.firstam.com/fraud-protection/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: n.a.
+  access: Free
+  copy_policy: link_only
+  quality_notes: Public wire-fraud and closing-security control guidance. The checklist download’s direct file URL, edition
+    and version are n.a.; consumer/residential framing and title-company marketing provenance limit its use.
+  last_verified: '2026-08-23'
+- id: federal-cre-old-republic-commercial-services
+  title: National Commercial Services Guide and Commercial Title Endorsements Guide
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: commercial-title-closing-guide
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Old Republic Title
+  source_page_url: https://www.oldrepublictitle.com/commercial/
+  document_url: https://media.oldrepublictitle.com/commercial/national/OR4151-Commercial-Services-Guide-CM.pdf
+  form_number: OR4151-CM
+  edition_or_revision_date: 10/2025
+  access: Free public PDF
+  copy_policy: reference_only
+  quality_notes: Current commercial title/closing and endorsement checklist material. Marketing collateral, not a form; underwriting
+    FAQ resources are separately gated.
+  last_verified: '2026-08-23'
+- id: federal-cre-boma-z651-2024
+  title: 'BOMA 2024 for Office Buildings: Standard Methods of Measurement (ANSI/BOMA Z65.1-2024)'
+  jurisdiction: Federal
+  practice_area: cre-leasing
+  category: office-measurement-standard
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: BOMA International
+  source_page_url: https://boma.org/boma-standards/floor-measurement-standards/
+  document_url: null
+  form_number: ANSI/BOMA Z65.1-2024
+  edition_or_revision_date: 2024 edition
+  access: Paid purchase; member/non-member pricing
+  copy_policy: reference_only
+  quality_notes: 'Controlling rentable-area convention for office leases. Price sheet: member $87.99 digital / $129.99 print;
+    non-member $105.99 digital / $155.99 print. Name the edition in every lease because older editions remain sold.'
+  last_verified: '2026-08-23'
+- id: federal-cre-boma-green-lease-guide
+  title: 'Green Lease Guide: A Guide for Landlords and Tenants to Collaborate on Energy Efficiency and Sustainable Practices'
+  jurisdiction: Federal
+  practice_area: cre-leasing
+  category: green-lease-clause-guide
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: BOMA International
+  source_page_url: https://boma.org/resource/green-lease-guide-a-guide-for-landlords-and-tenants-to-collaborate-on-energy-efficiency-and-sustainable-practices/
+  document_url: https://boma.org/wp-content/uploads/2024/11/BOMAgreenLeaseGuide-hr.pdf
+  form_number: n.a.
+  edition_or_revision_date: Page date n.a.; hosted PDF copyright 2018
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Free BOMA clause guide for cost recovery, submetering and sustainability covenants; it is a rider/clauses
+    source, not a full lease form.
+  last_verified: '2026-08-23'
+- id: federal-cre-icsc-shopping-center-study-lease
+  title: Shopping Center Study Lease, Third Edition
+  jurisdiction: Federal
+  practice_area: cre-leasing
+  category: retail-lease-reference
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: ICSC
+  source_page_url: https://www.icsc.com/news-and-views/newsstand/shopping-center-study-lease-third-edition
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Third edition; publication year n.a.
+  access: ICSC publication; price and format not displayed publicly
+  copy_policy: reference_only
+  quality_notes: Retail lease reference form. Public product page is price-opaque; ICSC membership pricing is distinct from
+    the publication price.
+  last_verified: '2026-08-23'
+- id: federal-cre-icsc-model-retail-lease-provisions
+  title: ICSC’s New Model Retail Lease — 2022 Seminar Materials
+  jurisdiction: Federal
+  practice_area: cre-leasing
+  category: retail-lease-provisions
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ICSC
+  source_page_url: https://www.icsc.com/news-and-views/newsstand
+  document_url: https://www.icsc.com/uploads/event_documents/Seminar_16_New_Model_Retail_Lease_Materials.pdf
+  form_number: n.a.
+  edition_or_revision_date: October 2022
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Conference handout reproducing selected model provisions for percentage rent, operating expenses, radius
+    restrictions, maintenance and force majeure. Excerpt-level material, not the complete maintained model lease.
+  last_verified: '2026-08-23'
+- id: federal-cre-naiop-terms-definitions-2024
+  title: Commercial Real Estate Terms and Definitions
+  jurisdiction: Federal
+  practice_area: cre-leasing
+  category: leasing-terms-glossary
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: NAIOP Research Foundation
+  source_page_url: https://www.naiop.org/education-and-career/industry-terms-and-definitions/
+  document_url: https://www.naiop.org/globalassets/research-and-publications/report/terms-and-definitions-/naiop-2024-terms-and-definitions.pdf
+  form_number: n.a.
+  edition_or_revision_date: April 2024
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Nearly 250 terms, including leasing terminology and a common-lease-types matrix. No NAIOP model industrial
+    or office lease form was confirmed; use this as a definitions benchmark.
+  last_verified: '2026-08-23'
+- id: federal-cre-aba-commercial-lease-formbooks
+  title: ABA Commercial Lease Formbooks and Commercial Office Lease Handbook, Second Edition
+  jurisdiction: Federal
+  practice_area: cre-leasing
+  category: commercial-lease-formbook
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: ABA Book Publishing
+  source_page_url: https://www.americanbar.org/products/inv/book/215323/
+  document_url: https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/215323/The%20Commercial%20Lease%20Formbook.pdf
+  form_number: n.a.
+  edition_or_revision_date: Commercial Lease Formbook 2d 2010; Retail Leases 2014; Office Lease Handbook 2d 2022
+  access: Paid; prices login-gated
+  copy_policy: reference_only
+  quality_notes: 'Closest confirmed ABA equivalents to a model office/retail lease: formbooks with model forms and commentary,
+    rather than a single promulgated lease. Linked file is front matter/TOC only.'
+  last_verified: '2026-08-23'
+- id: federal-cre-air-contract-suite
+  title: AIR CRE Standard Lease Contract Suite
+  jurisdiction: Federal
+  practice_area: cre-leasing
+  category: commercial-lease-suite
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: AIR CRE
+  source_page_url: https://www.aircre.com/air-cre-contracts/list-of-contracts/
+  document_url: https://www.aircre.com/site/wp-content/uploads/2024/12/AIRCREContractCreditValueList12312024.pdf
+  form_number: n.a.
+  edition_or_revision_date: Credit list as of 12/31/2024; most lease forms revised 10/2020
+  access: Membership / paid credits
+  copy_policy: reference_only
+  quality_notes: West Coast market-standard suite (single- and multi-tenant gross/net and shopping-center forms). $300 registration
+    with 100 credits; $600 first office registration with 199 credits; leases cost 6 credits. Historical revisions are separately
+    archived.
+  last_verified: '2026-08-23'
+- id: federal-cre-alta-leasehold-endorsements
+  title: ALTA Leasehold and Mortgage-Modification Endorsements — 13-06, 13.1-06 and 11.1
+  jurisdiction: Federal
+  practice_area: cre-leasing
+  category: title-endorsement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: American Land Title Association
+  source_page_url: https://www.alta.org/policies-and-standards/policy-forms/
+  document_url: null
+  form_number: 13-06; 13.1-06; 11.1
+  edition_or_revision_date: 13-06 / 13.1-06 dated 04-02-2012; 11.1 is 2021 v. 01.00
+  access: Member/licensee-gated
+  copy_policy: reference_only
+  quality_notes: ALTA publishes no SNDA agreement form. These are title endorsements, not an attornment form; use is licensed
+    and direct individual document URLs are n.a.
+  last_verified: '2026-08-23'
+- id: federal-cre-grounded-solutions-clt-ground-lease
+  title: 2011 CLT Network Model Ground Lease and Commentary
+  jurisdiction: Federal
+  practice_area: cre-leasing
+  category: specialty-ground-lease
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Grounded Solutions Network
+  source_page_url: https://groundedsolutions.org/resources/model-ground-leases/
+  document_url: https://groundedsolutions.org/wp-content/uploads/2018-10/2011%20Model%20Ground%20Lease%20and%20Commentary.pdf
+  form_number: n.a.
+  edition_or_revision_date: Model lease 01/2011; commentary 09/2011
+  access: Free PDF; Word version available to members on request
+  copy_policy: link_only
+  quality_notes: 'Corrected source: Grounded Solutions—not Lincoln Institute—publishes the CLT model ground lease. Residential/CLT-oriented;
+    adapt rather than lift for commercial use. Grounded Solutions says the older ICE model is archival and new programs should
+    use this 2011 model.'
+  last_verified: '2026-08-23'
+- id: federal-cre-fannie-multifamily-loan-documents
+  title: Multifamily Loan Documents — Form 6000 Series
+  jurisdiction: Federal
+  practice_area: cre-finance
+  category: agency-multifamily-loan-documents
+  source_tier: T1_OFFICIAL
+  publisher: Fannie Mae Multifamily
+  source_page_url: https://multifamily.fanniemae.com/doing-business-us/loan-documents
+  document_url: https://multifamily.fanniemae.com/media/document/docx/form-6001nr
+  form_number: Forms 6000, 6001.NR, 6010
+  edition_or_revision_date: Loan Documentation Requirements published 7-28-2026
+  access: Free browser download
+  copy_policy: link_only
+  quality_notes: 'Agency lender-use license caveat: free availability does not authorize general reuse; use only under the
+    publisher’s lender/program terms and re-check current forms before closing. Fannie permits multifamily lenders to reproduce
+    forms verbatim solely in regular lending business activities; changes generally require Fannie approval. Includes 6001.NR
+    MLSA, 6010 Note and 6000 requirements.'
+  last_verified: '2026-08-23'
+- id: ny-cre-fannie-6025-ny-cema-gap-documents
+  title: Fannie Mae New York Multifamily Security Instrument, CEMA and Gap-Note Modifications
+  jurisdiction: NY
+  practice_area: cre-finance
+  category: agency-multifamily-state-loan-documents
+  source_tier: T1_OFFICIAL
+  publisher: Fannie Mae Multifamily
+  source_page_url: https://multifamily.fanniemae.com/doing-business-us/loan-documents?field_states_target_id%5B%5D=631
+  document_url: https://multifamily.fanniemae.com/media/document/docx/form-6025ny
+  form_number: Forms 6025.NY; 6025.NY.CEMA; 6234; 6102.19.FR
+  edition_or_revision_date: n.a.
+  access: Free browser download; scripted direct-file access may be blocked
+  copy_policy: link_only
+  quality_notes: 'Agency lender-use license caveat: free availability does not authorize general reuse; use only under the
+    publisher’s lender/program terms and re-check current forms before closing. NY filtered index confirms 6025.NY mortgage,
+    6025.NY.CEMA, 6234 gap-note modifications and 6102.19.FR. Pair these for a New York consolidation closing set.'
+  last_verified: '2026-08-23'
+- id: nc-cre-fannie-6025-nc
+  title: Fannie Mae Multifamily Security Instrument (North Carolina Deed of Trust)
+  jurisdiction: NC
+  practice_area: cre-finance
+  category: agency-multifamily-state-loan-document
+  source_tier: T1_OFFICIAL
+  publisher: Fannie Mae Multifamily
+  source_page_url: https://multifamily.fanniemae.com/doing-business-us/loan-documents?field_states_target_id%5B%5D=636
+  document_url: https://multifamily.fanniemae.com/media/document/docx/form-6025nc
+  form_number: Form 6025.NC
+  edition_or_revision_date: n.a.
+  access: Free browser download; scripted direct-file access may be blocked
+  copy_policy: link_only
+  quality_notes: 'Agency lender-use license caveat: free availability does not authorize general reuse; use only under the
+    publisher’s lender/program terms and re-check current forms before closing. NC deed-of-trust form; the multistate Note
+    and MLSA are in the Fannie master set.'
+  last_verified: '2026-08-23'
+- id: federal-cre-freddie-multifamily-master-and-loan-agreement
+  title: Freddie Mac Currently Acceptable Multifamily Loan Documents and Multistate Loan Agreement
+  jurisdiction: Federal
+  practice_area: cre-finance
+  category: agency-multifamily-loan-documents
+  source_tier: T1_OFFICIAL
+  publisher: Freddie Mac Multifamily
+  source_page_url: https://mf.freddiemac.com/lenders/legal/loan-documents
+  document_url: https://mf.freddiemac.com/docs/loan_agreement.docx
+  form_number: n.a.
+  edition_or_revision_date: Multistate Loan Agreement v. 4-20-2026
+  access: Free download
+  copy_policy: link_only
+  quality_notes: 'Agency lender-use license caveat: free availability does not authorize general reuse; use only under the
+    publisher’s lender/program terms and re-check current forms before closing. The master list controls accepted form versions;
+    the linked Loan Agreement is multistate. No NY- or NC-specific Note was identified (only FL/MD/VA amended-and-restated
+    notes).'
+  last_verified: '2026-08-23'
+- id: ny-cre-freddie-security-instrument
+  title: Freddie Mac Multifamily Mortgage, Assignment of Rents and Security Agreement — New York
+  jurisdiction: NY
+  practice_area: cre-finance
+  category: agency-multifamily-state-security-instrument
+  source_tier: T1_OFFICIAL
+  publisher: Freddie Mac Multifamily
+  source_page_url: https://mf.freddiemac.com/lenders/legal/loan-documents
+  document_url: https://mf.freddiemac.com/docs/new_york_security_instrument.doc
+  form_number: n.a.
+  edition_or_revision_date: Revised 3-1-2014
+  access: Free Word download
+  copy_policy: link_only
+  quality_notes: 'Agency lender-use license caveat: free availability does not authorize general reuse; use only under the
+    publisher’s lender/program terms and re-check current forms before closing. Confirm against Freddie’s currently acceptable
+    master list before use; 2014 revision date is not a substitute for current list review.'
+  last_verified: '2026-08-23'
+- id: nc-cre-freddie-security-instrument
+  title: Freddie Mac Multifamily Deed of Trust, Assignment of Rents, Security Agreement and Fixture Filing — North Carolina
+  jurisdiction: NC
+  practice_area: cre-finance
+  category: agency-multifamily-state-security-instrument
+  source_tier: T1_OFFICIAL
+  publisher: Freddie Mac Multifamily
+  source_page_url: https://mf.freddiemac.com/lenders/legal/loan-documents
+  document_url: https://mf.freddiemac.com/docs/north_carolina_security_instrument.doc
+  form_number: n.a.
+  edition_or_revision_date: Revised 3-1-2014
+  access: Free Word download
+  copy_policy: link_only
+  quality_notes: 'Agency lender-use license caveat: free availability does not authorize general reuse; use only under the
+    publisher’s lender/program terms and re-check current forms before closing. Confirm against Freddie’s currently acceptable
+    master list before use; 2014 revision date is not a substitute for current list review.'
+  last_verified: '2026-08-23'
+- id: federal-cre-hud-94001m-note
+  title: HUD-94001M Note (Multistate)
+  jurisdiction: Federal
+  practice_area: cre-finance
+  category: fha-multifamily-note
+  source_tier: T1_OFFICIAL
+  publisher: U.S. Department of Housing and Urban Development
+  source_page_url: https://www.hud.gov/hudclips/forms
+  document_url: https://www.hud.gov/sites/dfiles/OCHCO/documents/94001M.pdf
+  form_number: HUD-94001M
+  edition_or_revision_date: Current for firm commitments issued on or after April 1, 2026; OMB exp. 12/31/2027
+  access: Free PDF and DOCX
+  copy_policy: link_only
+  quality_notes: 'Agency lender-use license caveat: free availability does not authorize general reuse; use only under the
+    publisher’s lender/program terms and re-check current forms before closing. FHA multifamily closing document. Editable
+    counterpart: https://www.hud.gov/sites/dfiles/OCHCO/documents/94001M.docx. The earlier generation is archived; use program-current
+    closing documents.'
+  last_verified: '2026-08-23'
+- id: federal-cre-hud-94000m-security-instrument
+  title: HUD-94000M Multifamily Security Instrument, Assignment of Leases and Rents and Security Agreement
+  jurisdiction: Federal
+  practice_area: cre-finance
+  category: fha-multifamily-security-instrument
+  source_tier: T1_OFFICIAL
+  publisher: U.S. Department of Housing and Urban Development
+  source_page_url: https://www.hud.gov/hudclips/forms
+  document_url: https://www.hud.gov/sites/dfiles/OCHCO/documents/94000M.pdf
+  form_number: HUD-94000M
+  edition_or_revision_date: Current for firm commitments issued on or after April 1, 2026
+  access: Free PDF and DOCX
+  copy_policy: link_only
+  quality_notes: 'Agency lender-use license caveat: free availability does not authorize general reuse; use only under the
+    publisher’s lender/program terms and re-check current forms before closing. FHA multistate instrument; state-specific
+    riders/addenda remain necessary. Editable counterpart: https://www.hud.gov/sites/dfiles/OCHCO/documents/94000M.docx.'
+  last_verified: '2026-08-23'
+- id: federal-cre-hud-92466m-regulatory-agreement
+  title: HUD-92466M Regulatory Agreement for Multifamily Projects
+  jurisdiction: Federal
+  practice_area: cre-finance
+  category: fha-multifamily-regulatory-agreement
+  source_tier: T1_OFFICIAL
+  publisher: U.S. Department of Housing and Urban Development
+  source_page_url: https://www.hud.gov/hudclips/forms
+  document_url: https://www.hud.gov/sites/dfiles/OCHCO/documents/92466M.pdf
+  form_number: HUD-92466M
+  edition_or_revision_date: Current for firm commitments issued on or after April 1, 2026
+  access: Free PDF and DOCX
+  copy_policy: link_only
+  quality_notes: 'Agency lender-use license caveat: free availability does not authorize general reuse; use only under the
+    publisher’s lender/program terms and re-check current forms before closing. FHA recorded regulatory agreement. Editable
+    counterpart: https://www.hud.gov/sites/dfiles/OCHCO/documents/92466M.docx; use program-current closing documents.'
+  last_verified: '2026-08-23'
+- id: federal-cre-crefc-irp-84
+  title: CREFC Investor Reporting Package (CREFC IRP) Version 8.4
+  jurisdiction: Federal
+  practice_area: cre-finance
+  category: cmbs-reporting-standard
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: CRE Finance Council
+  source_page_url: https://www.crefc.org/cre/cre/content/learn/irp/archives/crefc-irp-8-4.aspx
+  document_url: https://www.crefc.org/common/Uploaded%20files/CREFC%20IRP%20v8.4_Final.pdf
+  form_number: CREFC IRP v8.4
+  edition_or_revision_date: Adopted and effective March 13, 2024
+  access: PDF free; Excel data files member-gated
+  copy_policy: link_only
+  quality_notes: Market standard for CMBS/servicer reporting definitions and report templates. The PDF is the official IRP
+    version; reusable spreadsheet data files are member-gated.
+  last_verified: '2026-08-23'
+- id: federal-cre-sba-form-2287
+  title: Third Party Lender Agreement
+  jurisdiction: Federal
+  practice_area: cre-finance
+  category: sba-504-interlender-agreement
+  source_tier: T1_OFFICIAL
+  publisher: U.S. Small Business Administration
+  source_page_url: https://legacy.sba.gov/document/sba-form-2287-third-party-lender-agreement
+  document_url: https://caweb.sba.gov/library/pdf/Form_2287.pdf
+  form_number: SBA Form 2287
+  edition_or_revision_date: Source page last updated May 24, 2018
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Required inter-lender agreement for SBA 504 real-estate closings. Companion 504/7(a) form URLs were not individually
+    verified and are not included.
+  last_verified: '2026-08-23'
+- id: federal-cre-alta-2021-loan-policy
+  title: ALTA Loan Policy of Title Insurance
+  jurisdiction: Federal
+  practice_area: cre-finance
+  category: lender-title-policy
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: American Land Title Association
+  source_page_url: https://www.alta.org/policies-and-standards/policy-forms/
+  document_url: https://www.alta.org/policies-and-standards/policy-forms/downloadSub?formSubID=2153&type=pdf
+  form_number: 2021 v. 01.00
+  edition_or_revision_date: Effective 07-01-2021; published 07-30-2021
+  access: Free download; license required for use/republication
+  copy_policy: link_only
+  quality_notes: Lender-side title baseline. Linked file is a comparison/redline publication; ALTA limits policy-form use
+    to properly licensed users and republication requires permission.
+  last_verified: '2026-08-23'
+- id: federal-cre-aia-construction-documents
+  title: AIA Contract Documents — A101, A102, A201, B101 and G-Series Payment/Lien Forms
+  jurisdiction: Federal
+  practice_area: cre-construction
+  category: construction-contract-suite
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: The American Institute of Architects
+  source_page_url: https://aiacontracts.com/documents/a101-owner-contractor-agreement-stipulated-sum
+  document_url: null
+  form_number: A101; A102; A201; B101; G702; G703; G706; G706A
+  edition_or_revision_date: 'Current editions cited by AIA learning material: A101–2017 / A102–2017'
+  access: Paid one-time-use license or annual subscription
+  copy_policy: reference_only
+  quality_notes: 'Private-development baseline. One-time-use digital prices: $179.99 for A101/A102/A201/B101 and $59.99 for
+    G702/G703/G706/G706A; edition date is n.a. on storefront pages. Use A101↔A201, B101↔A201 and G702/G703 payment chains
+    together.'
+  last_verified: '2026-08-23'
+- id: federal-cre-consensusdocs-construction-series
+  title: ConsensusDocs Construction Contract Series
+  jurisdiction: Federal
+  practice_area: cre-construction
+  category: construction-contract-suite
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: ConsensusDocs LLC
+  source_page_url: https://www.consensusdocs.org/contract/
+  document_url: https://www.consensusdocs.org/wp-content/uploads/2026/04/ConsensusDocs-Contract-Catalog-April-2026.pdf
+  form_number: 200 / 300 / 400 / 500 / 700 / 800 / 900 series
+  edition_or_revision_date: Catalog April 2026
+  access: Paid annual subscription
+  copy_policy: reference_only
+  quality_notes: 'Correct series map: 200 general contracting; 300 integrated project delivery; 400 design-build; 500 CM at
+    risk; 700 subcontracting; 800 program management; 900 public-private partnership. First-license annual packages run $230–$1,400.'
+  last_verified: '2026-08-23'
+- id: federal-cre-ejcdc-c-series
+  title: EJCDC Construction-Related Documents (C-Series)
+  jurisdiction: Federal
+  practice_area: cre-construction
+  category: engineered-construction-contract-suite
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: Engineers Joint Contract Documents Committee
+  source_page_url: https://ejcdc.org/product-category/construction-related-documents/
+  document_url: https://ejcdc.org/wp-content/uploads/2019/02/EJCDC-License-Agreement-2018-C-series.pdf
+  form_number: C-Series; C-700; C-990
+  edition_or_revision_date: 2018 C-Series; pricing effective January 12, 2026
+  access: Paid; some commentary/guidance free
+  copy_policy: reference_only
+  quality_notes: Infrastructure/engineered-work suite. C-700 is the keystone; price examples $290/$300 for C-700, $160/$176
+    for C-520, $82/$114 for C-620. Resale and uncontrolled public-website posting are expressly prohibited.
+  last_verified: '2026-08-23'
+- id: federal-cre-dbia-contracts-and-primers
+  title: DBIA Design-Build Contracts and Free Primers
+  jurisdiction: Federal
+  practice_area: cre-construction
+  category: design-build-contract-suite
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: Design-Build Institute of America
+  source_page_url: https://dbia.org/contracts/
+  document_url: null
+  form_number: DBIA 544; DBIA 410; DBIA 530
+  edition_or_revision_date: n.a.; Universal Best Practices 2023
+  access: Contracts paid; primers and selected samples free
+  copy_policy: reference_only
+  quality_notes: Progressive design-build benchmark. DBIA 544 costs $150; complete set costs $1,150; members receive 50% discount.
+    Free primers/sample PDFs are useful references but this record is maintained as a premium contracts cross-reference.
+  last_verified: '2026-08-23'
+- id: ny-cre-rpl-258
+  title: Real Property Law § 258 — Statutory Short Forms of Deeds and Mortgages
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: statutory-deed-forms
+  source_tier: T1_OFFICIAL
+  publisher: New York State Senate / NYS Open Legislation
+  source_page_url: https://www.nysenate.gov/legislation/laws/RPP/258
+  document_url: null
+  form_number: RPL § 258
+  edition_or_revision_date: n.a.
+  access: Free in-page statutory text
+  copy_policy: link_only
+  quality_notes: Statutory schedules include deed, lease-assignment, mortgage and satisfaction forms. The section permits,
+    but does not require, its short forms; institutional practice often departs from them. Separate document URL is n.a.
+  last_verified: '2026-08-23'
+- id: ny-cre-rp-5217nyc
+  title: RP-5217NYC — State of New York Real Property Transfer Report
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: real-property-transfer-report
+  source_tier: T1_OFFICIAL
+  publisher: NYC Department of Finance / City Register
+  source_page_url: https://www.nyc.gov/site/finance/property/acris.page
+  document_url: https://www.nyc.gov/assets/finance/downloads/pdf/02pdf/rp5217nyc_fill_in.pdf
+  form_number: RP-5217NYC
+  edition_or_revision_date: Rev. 11/2002
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: 'Mandatory NYC transfer report companion to recording package. Re-check the live ACRIS-generated version:
+    the publicly served fill-in copy is dated 2002.'
+  last_verified: '2026-08-23'
+- id: ny-cre-nyc-rpt
+  title: NYC-RPT — Real Property Transfer Tax Return
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: real-property-transfer-tax-return
+  source_tier: T1_OFFICIAL
+  publisher: NYC Department of Finance
+  source_page_url: https://www.nyc.gov/site/finance/property/property-real-property-transfer-tax-rptt.page
+  document_url: null
+  form_number: NYC-RPT
+  edition_or_revision_date: Revised effective March 24, 2017
+  access: Free; prepare online through ACRIS
+  copy_policy: link_only
+  quality_notes: 'Workflow entry: NYC-RPTT packet must be created online in ACRIS. No standalone official NYC-RPT PDF was
+    confirmed; document URL is n.a. Do not use third-party title-agency mirrors.'
+  last_verified: '2026-08-23'
+- id: ny-cre-tp-584-transfer-tax-family
+  title: TP-584 — Combined Real Estate Transfer Tax Return and Related Transfer-Tax Forms
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: real-property-transfer-tax-return
+  source_tier: T1_OFFICIAL
+  publisher: New York State Department of Taxation and Finance
+  source_page_url: https://www.tax.ny.gov/forms/real_prop_tran_cur_forms.htm
+  document_url: https://www.tax.ny.gov/pdf/current_forms/property/tp584_fill_in.pdf
+  form_number: TP-584
+  edition_or_revision_date: TP-584 (6/25); IT-2663 (2026)
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Primary NY transfer-tax form family. Index also covers TP-584.1, TP-584-NYC, TP-584.6-NYC, TP-584-REIT and
+    annually scoped IT-2663; re-pull year-specific forms.
+  last_verified: '2026-08-23'
+- id: ny-cre-rp-5217-pdf
+  title: RP-5217-PDF — Statewide Real Property Transfer Report (Non-NYC)
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: real-property-transfer-report
+  source_tier: T1_OFFICIAL
+  publisher: New York State Department of Taxation and Finance, Office of Real Property Tax Services
+  source_page_url: https://www.tax.ny.gov/research/property/assess/rp5217/faqs_pdf.htm
+  document_url: null
+  form_number: RP-5217-PDF
+  edition_or_revision_date: n.a.
+  access: Free; generated/printed through prescribed DTF process
+  copy_policy: link_only
+  quality_notes: Required outside NYC; NYC uses RP-5217NYC. Barcoded form is not distributed through a stable static URL;
+    only instructions were confirmed, so document URL is n.a.
+  last_verified: '2026-08-23'
+- id: ny-cre-nyc-bar-commercial-psa-ground-lease
+  title: NYC Bar Model Commercial Contract of Sale and Model Ground Lease
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: commercial-psa-and-ground-lease
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: New York City Bar Association
+  source_page_url: https://www.nycbar.org/serving-the-community/legal-forms-resources/real-estate-forms/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: n.a.
+  access: Free Word/PDF downloads from forms page
+  copy_policy: link_only
+  quality_notes: Committee-drafted commercial/multi-family contract and ground lease with commentary. The forms page renders
+    Word/PDF links but static direct file URLs for this acquisition pair were not confirmed in this research; document URL
+    is n.a. Use with commentary and transaction-specific review.
+  last_verified: '2026-08-23'
+- id: ny-cre-nyc-recording-checklist
+  title: Checklist for Document Recording
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: recording-checklist
+  source_tier: T1_OFFICIAL
+  publisher: NYC Department of Finance, City Register
+  source_page_url: https://www.nyc.gov/site/finance/property/acris.page
+  document_url: https://www.nyc.gov/assets/finance/downloads/pdf/land_records/doc_recording_checklist.pdf
+  form_number: LR-0729
+  edition_or_revision_date: Rev. 07.29.13
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Official deed-recording mechanics checklist. It is 2013-vintage; reconcile against current ACRIS e-recording
+    and cover-page guidance.
+  last_verified: '2026-08-23'
+- id: ny-cre-nysba-real-property-section
+  title: NYSBA Real Property Law Section Publications and Forms
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: premium-real-property-forms-reference
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: New York State Bar Association
+  source_page_url: https://nysba.org/committees/real-property-law-section/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Journal Vol. 54 No. 1 (2026); other editions vary
+  access: Member-gated / purchase-gated
+  copy_policy: reference_only
+  quality_notes: Premium NY real-property commentary and forms. No ungated form file URL was confirmed; use NYC Bar models
+    for free commercial acquisition documents.
+  last_verified: '2026-08-23'
+- id: ny-cre-rebny-office-loft-lease
+  title: REBNY Standard Form of Office Lease / Loft Lease
+  jurisdiction: NY
+  practice_area: cre-leasing
+  category: commercial-office-lease
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: The Real Estate Board of New York, Inc.
+  source_page_url: https://www.nyclease.com/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Current edition n.a.; public EDGAR specimen bears 2/94
+  access: Paid per lease through NYC Lease
+  copy_policy: reference_only
+  quality_notes: REBNY’s paid market form. $7 per lease for members / $9 non-members. Current office/loft SKU and edition
+    are n.a.; an old public EDGAR specimen is not a current licensed copy.
+  last_verified: '2026-08-23'
+- id: ny-cre-nyc-bar-commercial-lease-suite
+  title: NYC Bar Commercial Lease Suite — Office, Retail, Ground, Sublease/Consent, Renewal Option and Intercreditor/Subordination
+  jurisdiction: NY
+  practice_area: cre-leasing
+  category: commercial-lease-suite
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: New York City Bar Association
+  source_page_url: https://www.nycbar.org/serving-the-community/legal-forms-resources/real-estate-forms/
+  document_url: https://www2.nycbar.org/RealEstate/Forms/lease.pdf
+  form_number: n.a.
+  edition_or_revision_date: Retail 2009, modified 2010; Ground Lease 2009; office date n.a.
+  access: Free Word/PDF downloads
+  copy_policy: link_only
+  quality_notes: 'Free committee-drafted Word/PDF suite with paired commentary. Direct examples: retail lease https://www2.nycbar.org/RealEstate/Forms/Retail%20Lease%20form%20-%20FINAL%20_5-17-10_.pdf
+    ; ground lease https://www2.nycbar.org/RealEstate/Forms/Ground%20Lease%20form%20_6-16-09_.pdf . Verify vintage/current
+    law before use.'
+  last_verified: '2026-08-23'
+- id: ny-cre-ag-refb-offering-plan-forms
+  title: Real Estate Finance Bureau Forms and Templates
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: offering-plan-and-condominium-regulatory-forms
+  source_tier: T1_OFFICIAL
+  publisher: Office of the New York State Attorney General
+  source_page_url: https://ag.ny.gov/resources/organizations/real-estate-regulation/ref-forms-templates
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: n.a.
+  access: Free public government forms page
+  copy_policy: link_only
+  quality_notes: Offering-plan/CPS, leasehold-cooperative, price-increase, filing, amendment, purchase-agreement and escrow-language
+    inventory. Individual form-file URLs were not exposed; document URL is n.a.
+  last_verified: '2026-08-23'
+- id: ny-cre-dhcr-hm-59
+  title: Certification of Commercial Lease
+  jurisdiction: NY
+  practice_area: cre-leasing
+  category: regulated-commercial-lease-certification
+  source_tier: T1_OFFICIAL
+  publisher: NYS Division of Housing and Community Renewal
+  source_page_url: https://hcr.ny.gov/forms-applications
+  document_url: https://hcr.ny.gov/system/files/documents/2018/11/2009b08.pdf
+  form_number: HM-59
+  edition_or_revision_date: 5/09; memorandum dated June 8, 2009
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Mitchell-Lama / state-supervised housing-company commercial-lease certification. This is not general commercial
+    rent regulation. The form must be filed for proposed commercial/professional leases and related assignments, amendments
+    and extensions; re-verify program requirements.
+  last_verified: '2026-08-23'
+- id: ny-cre-dob-pw1-pw3-tr1
+  title: NYC DOB Core Development Forms — PW1, PW3 and TR1
+  jurisdiction: NY
+  practice_area: cre-construction
+  category: building-permit-and-inspection-forms
+  source_tier: T1_OFFICIAL
+  publisher: NYC Department of Buildings
+  source_page_url: https://www.nyc.gov/site/buildings/dob/forms.page
+  document_url: https://www.nyc.gov/assets/buildings/pdf/pw1.pdf
+  form_number: PW1; PW3; TR1
+  edition_or_revision_date: PW1 Rev. 11/22; PW3 Rev. 12/14; TR1 Rev. 8/16
+  access: Free PDFs; many filings now use DOB NOW
+  copy_policy: link_only
+  quality_notes: 'Core permitting/diligence set. PW3: https://www.nyc.gov/assets/buildings/pdf/pw3.pdf ; TR1: https://www.nyc.gov/assets/buildings/pdf/tr1_2014.pdf.
+    TR1 filename reflects the 2014 code-cycle form; DOB lists older variants for pre-2015 jobs.'
+  last_verified: '2026-08-23'
+- id: ny-cre-lien-law-section-9
+  title: Lien Law Article 2 / § 9 — Contents of Notice of Lien
+  jurisdiction: NY
+  practice_area: cre-construction
+  category: mechanics-lien-statutory-requirements
+  source_tier: T1_OFFICIAL
+  publisher: New York State Senate / NYS Open Legislation
+  source_page_url: https://www.nysenate.gov/legislation/laws/LIE/A2
+  document_url: null
+  form_number: Lien Law § 9
+  edition_or_revision_date: Current consolidated law; no version stamp
+  access: Free in-page statutory text
+  copy_policy: link_only
+  quality_notes: 'Critical correction: New York prescribes contents only, not a fill-in-the-blank statutory notice-of-lien
+    form. Section 9 requires eight content elements plus verification; apply §§ 10–12, service rules and § 34 waiver limits.
+    Document URL is n.a.'
+  last_verified: '2026-08-23'
+- id: ny-cre-hpd-421a
+  title: NYC HPD 421-a Forms and Restrictive Declarations
+  jurisdiction: NY
+  practice_area: cre-finance
+  category: affordable-housing-tax-incentive-documents
+  source_tier: T1_OFFICIAL
+  publisher: NYC Department of Housing Preservation and Development
+  source_page_url: https://www.nyc.gov/site/hpd/services-and-information/tax-incentives-421-a.page
+  document_url: https://www.nyc.gov/assets/hpd/downloads/pdfs/services/421a-forms.pdf
+  form_number: 421-a
+  edition_or_revision_date: 421-a(16) application updated 2/27/2018; declarations updated 2/1/2023
+  access: Free
+  copy_policy: link_only
+  quality_notes: Includes application package, units workbook and rental/homeownership restrictive-declaration templates.
+    Recorded restrictive declarations are the principal finance/title diligence documents.
+  last_verified: '2026-08-23'
+- id: ny-cre-hpd-485x
+  title: NYC HPD 485-x Applications and Restrictive Declarations
+  jurisdiction: NY
+  practice_area: cre-finance
+  category: affordable-housing-tax-incentive-documents
+  source_tier: T1_OFFICIAL
+  publisher: NYC Department of Housing Preservation and Development
+  source_page_url: https://www.nyc.gov/site/hpd/services-and-information/tax-incentives-485-x.page
+  document_url: https://www.nyc.gov/assets/hpd/downloads/word/services/affordability-option-a-b-485x-restrictive-declaration.docx
+  form_number: 485-x
+  edition_or_revision_date: Option A/B/C/D restrictive declarations updated 1/8/2025
+  access: Free; editable Word declarations
+  copy_policy: link_only
+  quality_notes: 'Live post-421-a incentive document set for projects commencing on/after 4/20/2024. Option C declaration:
+    https://www.nyc.gov/assets/hpd/downloads/word/services/affordability-option-c-485x-restrictive-declaration.docx ; Option
+    D: https://www.nyc.gov/assets/hpd/downloads/word/services/affordability-option-d-485x-restrictive-declaration.docx .'
+  last_verified: '2026-08-23'
+- id: ny-cre-hcr-9pct-lihtc-regulatory-agreement
+  title: DHCR 9% LIHTC Regulatory Agreement Boilerplate
+  jurisdiction: NY
+  practice_area: cre-finance
+  category: lihtc-regulatory-agreement
+  source_tier: T1_OFFICIAL
+  publisher: New York State Homes and Community Renewal / DHCR
+  source_page_url: https://hcr.ny.gov/low-income-housing-credit-program-9pct
+  document_url: https://hcr.ny.gov/system/files/documents/2026/03/dhcr-9-lihtc-regulatory-agreement-boilerplate-march-2026.pdf
+  form_number: n.a.
+  edition_or_revision_date: March 2026
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Actual state-published recorded-covenant transaction document. Related document-submission list is May 2025;
+    re-check the program page for the live closing package.
+  last_verified: '2026-08-23'
+- id: nc-cre-ncar-580t-commercial-psa
+  title: NCAR / NC Bar Standard Form 580-T — Agreement for Purchase and Sale of Improved Real Property
+  jurisdiction: NC
+  practice_area: cre-acquisitions
+  category: commercial-purchase-sale-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: North Carolina Association of REALTORS® / North Carolina Bar Association
+  source_page_url: https://www.ncrealtors.org/wp-content/uploads/formslist.pdf
+  document_url: https://www.ncrealtors.org/wp-content/uploads/580-T-Agreement-for-Purchase-and-Sale-of-Real-Property-REV-7.2020-c.-7.2020.pdf
+  form_number: 580-T
+  edition_or_revision_date: Public copy revised 7/2020; current forms list as of 7/1/2026
+  access: Current clean form member-gated; legacy PDF and current redline public
+  copy_policy: reference_only
+  quality_notes: Market-standard commercial PSA. The freely downloadable clean copy is 7/2020; the current forms list and
+    a 7/2026 redline confirm a currency gap. Current clean member version is n.a.; do not treat the legacy copy as current.
+  last_verified: '2026-08-23'
+- id: nc-cre-ncar-forms-list
+  title: NC REALTORS® Forms List
+  jurisdiction: NC
+  practice_area: cre-acquisitions
+  category: commercial-forms-index
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: North Carolina Association of REALTORS®
+  source_page_url: https://www.ncrealtors.org/wp-content/uploads/formslist.pdf
+  document_url: https://www.ncrealtors.org/wp-content/uploads/formslist.pdf
+  form_number: n.a.
+  edition_or_revision_date: Revised 07/01/2026
+  access: Free PDF
+  copy_policy: reference_only
+  quality_notes: Master index for current form numbers/revisions, including commercial forms. Underlying forms are member-gated
+    and carry NCAR copyright; rely on this index rather than cached form copies for currency.
+  last_verified: '2026-08-23'
+- id: nc-cre-ncba-real-property-forms-book
+  title: North Carolina Real Property Forms Book, Third Edition
+  jurisdiction: NC
+  practice_area: cre-acquisitions
+  category: premium-real-property-forms-reference
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: North Carolina Bar Association Continuing Legal Education
+  source_page_url: https://cle.ncbar.org/courses/59296
+  document_url: https://cdn.fs.pathlms.com/fnTJailZRVqcJLGT1Naa?cache=false&dl=true
+  form_number: n.a.
+  edition_or_revision_date: Third edition, published October 5, 2023; Chapter XXIII samples current as of September 2023
+  access: Paid; public TOC/preview only; price n.a.
+  copy_policy: reference_only
+  quality_notes: Premium source with commercial closing and due-diligence checklists plus lease forms. Linked document is
+    the public TOC/preview, not the full forms.
+  last_verified: '2026-08-23'
+- id: nc-cre-ncba-deed-guide
+  title: How to Draft and Record a Deed
+  jurisdiction: NC
+  practice_area: cre-acquisitions
+  category: deed-drafting-and-recording-guide
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: North Carolina Bar Association, Young Lawyers Division
+  source_page_url: https://www.ncbar.org/wp-content/uploads/2021/12/How-To-Draft-and-Record-A-Deed-1.pdf
+  document_url: https://www.ncbar.org/wp-content/uploads/2021/12/How-To-Draft-and-Record-A-Deed-1.pdf
+  form_number: n.a.
+  edition_or_revision_date: Updated 2021
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Free NCBA primer on deed drafting/recording mechanics; not a form set. Re-check recording-fee and conveyance-tax
+    figures against live sources.
+  last_verified: '2026-08-23'
+- id: nc-cre-ncard-recording-standards
+  title: NCARD Recording Standards and Electronic Recording Best Practices
+  jurisdiction: NC
+  practice_area: cre-acquisitions
+  category: recording-standards
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: North Carolina Association of Registers of Deeds
+  source_page_url: https://www.ncard.us/recording-standards/
+  document_url: http://ncard.us/wp-content/uploads/2016/04/DocumentStandards2002.pdf
+  form_number: n.a.
+  edition_or_revision_date: Document Standards effective July 1, 2002; ERC best practices approved 2018
+  access: Free public PDFs
+  copy_policy: link_only
+  quality_notes: County-level recording-formatting baseline for deeds, deeds of trust and memoranda. Statewide deed-cover-sheet
+    form does not exist; county requirements vary. Some publisher documents are served over HTTP.
+  last_verified: '2026-08-23'
+- id: nc-cre-conveyance-tax-article-8e
+  title: North Carolina Conveyance Tax — Article 8E
+  jurisdiction: NC
+  practice_area: cre-acquisitions
+  category: conveyance-tax-closing-requirement
+  source_tier: T1_OFFICIAL
+  publisher: North Carolina Department of Revenue / North Carolina General Assembly
+  source_page_url: https://www.ncdor.gov/taxes-forms/other-taxes-and-fees/conveyance-tax
+  document_url: null
+  form_number: Article 8E; G.S. 105-228.28 et seq.
+  edition_or_revision_date: n.a.
+  access: Free statutory/agency guidance
+  copy_policy: link_only
+  quality_notes: 'Critical correction: NC has no statewide real-estate excise-tax return form. Tax is collected per instrument
+    at recording—$1 per $500 or fractional part of consideration/value—under Article 8E. Document URL is n.a.'
+  last_verified: '2026-08-23'
+- id: nc-cre-aoc-partition-summons
+  title: Partition Proceedings Summons
+  jurisdiction: NC
+  practice_area: cre-acquisitions
+  category: real-property-special-proceeding-form
+  source_tier: T1_OFFICIAL
+  publisher: North Carolina Administrative Office of the Courts
+  source_page_url: https://www.nccourts.gov/documents/forms/partition-proceedings-summons
+  document_url: https://www.nccourts.gov/assets/documents/forms/sp101-en.pdf
+  form_number: AOC-SP-101
+  edition_or_revision_date: New 5/10
+  access: Free PDF
+  copy_policy: reference_only
+  quality_notes: Real-property special-proceeding form relevant to distressed acquisition/title-clearing work. Other AOC special-proceeding
+    forms revise independently; re-verify page links before filing.
+  last_verified: '2026-08-23'
+- id: nc-cre-ncar-592t-593t-commercial-leases
+  title: NCAR / NC Bar Standard Forms 592-T and 593-T — Commercial Lease Agreements
+  jurisdiction: NC
+  practice_area: cre-leasing
+  category: commercial-lease-forms
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: North Carolina Association of REALTORS® / North Carolina Bar Association
+  source_page_url: https://www.ncrealtors.org/legal-ethics/forms-contracts/document-library/
+  document_url: https://www.ncrealtors.org/wp-content/uploads/markedup0724-592-T.pdf
+  form_number: 592-T; 593-T
+  edition_or_revision_date: 592-T public marked-up revision 7/2024; further revision released 05/27/2026
+  access: Production forms member-gated; marked-up revision PDFs public
+  copy_policy: reference_only
+  quality_notes: 'Critical correction: Form 592-T is single-tenant and 593-T multi-tenant; Form 570 is a listing agreement,
+    not a lease. Current production forms are member-library materials; agents may not draft lease provisions and 592-T is
+    not for subleases.'
+  last_verified: '2026-08-23'
+- id: nc-cre-unc-sog-local-government-leases
+  title: Lease — Local Government Property Disposal Procedures
+  jurisdiction: NC
+  practice_area: cre-leasing
+  category: public-entity-lease-procedures
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: UNC School of Government
+  source_page_url: https://www.sog.unc.edu/resources/microsites/local-government-purchasing-and-contracting/lease
+  document_url: https://www.sog.unc.edu/sites/default/files/general_media/Procedures%20-%20Lease.pdf
+  form_number: n.a.
+  edition_or_revision_date: n.a.
+  access: Free public materials
+  copy_policy: link_only
+  quality_notes: NC public-entity lease procedures under G.S. 160A-272. Sample-form file URLs are n.a.; use for transaction
+    process, including renewal-option term calculation and notice requirements.
+  last_verified: '2026-08-23'
+- id: nc-cre-gs-44a-12-claim-of-lien
+  title: Claim of Lien on Real Property
+  jurisdiction: NC
+  practice_area: cre-construction
+  category: mechanics-lien-statutory-form
+  source_tier: T1_OFFICIAL
+  publisher: North Carolina General Assembly
+  source_page_url: https://www.ncleg.net/enactedlegislation/statutes/pdf/bysection/chapter_44a/gs_44a-12.pdf
+  document_url: https://www.ncleg.net/enactedlegislation/statutes/pdf/bysection/chapter_44a/gs_44a-12.pdf
+  form_number: G.S. 44A-12
+  edition_or_revision_date: Current statute
+  access: Free statutory PDF
+  copy_policy: link_only
+  quality_notes: Unlike NY, NC prints a substantially-as-follows statutory lien form. No AOC-issued mechanic’s-lien form was
+    corroborated; file in the clerk of superior court office for each county where property is located.
+  last_verified: '2026-08-23'
+- id: nc-cre-gs-44a-23-notice-contract-subcontract
+  title: Notice of Contract and Notice of Subcontract
+  jurisdiction: NC
+  practice_area: cre-construction
+  category: mechanics-lien-statutory-forms
+  source_tier: T1_OFFICIAL
+  publisher: North Carolina General Assembly
+  source_page_url: https://www.ncleg.net/EnactedLegislation/Statutes/HTML/BySection/Chapter_44A/GS_44A-23.html
+  document_url: https://www.ncleg.net/EnactedLegislation/Statutes/HTML/BySection/Chapter_44A/GS_44A-23.html
+  form_number: G.S. 44A-23
+  edition_or_revision_date: Current statute
+  access: Free in-page statutory text
+  copy_policy: link_only
+  quality_notes: Statute supplies both fill-in forms. They preserve/cut off specified subrogation lien rights and are essential
+    companions to the G.S. 44A-12 claim-of-lien form.
+  last_verified: '2026-08-23'
+- id: nc-cre-ucc1-ucc3-2023
+  title: UCC1 Financing Statement and UCC3 Financing Statement Amendment
+  jurisdiction: NC
+  practice_area: cre-finance
+  category: ucc-collateral-filing-forms
+  source_tier: T1_OFFICIAL
+  publisher: North Carolina Department of the Secretary of State, UCC Section
+  source_page_url: https://www.sosnc.gov/forms/by_title/_uniform_commercial_code
+  document_url: https://www.sosnc.gov/webfiles/documents/forms/uniform_commercial_code/ucc_1_financing_statement_2023.pdf
+  form_number: UCC1; UCC3
+  edition_or_revision_date: '2023'
+  access: Free PDFs; e-filing available
+  copy_policy: link_only
+  quality_notes: 'NC collateral package filing forms, including fixture-filing support. UCC3: https://www.sosnc.gov/webfiles/documents/forms/uniform_commercial_code/ucc_3_financing_statement_amendment_2023.pdf.
+    Public-record status is not an affirmative form-reuse license.'
+  last_verified: '2026-08-23'
+- id: nc-cre-nchfa-2026-qap
+  title: 2026 Qualified Allocation Plan
+  jurisdiction: NC
+  practice_area: cre-finance
+  category: lihtc-program-requirements
+  source_tier: T1_OFFICIAL
+  publisher: North Carolina Housing Finance Agency
+  source_page_url: https://www.nchfa.com/rental-housing-partners/rental-developers/rental-development-financing-options/low-income-housing-tax-credits
+  document_url: https://nchfa.com/sites/default/files/forms_resources/2025-12/2026FinalQAP.pdf
+  form_number: n.a.
+  edition_or_revision_date: 2026 QAP
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: Controlling scoring/underwriting rulebook for NC LIHTC deals. NCHFA public pages did not provide a full closing-loan/regulatory-agreement
+    set; public transaction-document coverage is thinner than NY HCR’s.
+  last_verified: '2026-08-23'

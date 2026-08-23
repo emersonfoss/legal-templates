@@ -18,7 +18,7 @@ Every entry in [forms.yaml](forms.yaml) carries these fields:
 - `id`
 - `title`
 - `jurisdiction` — `NY`, `NC`, or `Federal`
-- `practice_area` — `corporate-entity-filings`, `commercial-litigation`, `appellate-litigation`, `securities-ma`, `federal-litigation`, `business-court`, `fund-formation`, `credit-financing`, `ma-transactions`, `shareholder-governance`, `captive-insurance`, `digital-assets`, `trusts-estates`
+- `practice_area` — `corporate-entity-filings`, `commercial-litigation`, `appellate-litigation`, `securities-ma`, `federal-litigation`, `business-court`, `fund-formation`, `credit-financing`, `ma-transactions`, `shareholder-governance`, `captive-insurance`, `digital-assets`, `trusts-estates`, `cre-acquisitions`, `cre-leasing`, `cre-finance`, `cre-construction`
 - `category`
 - `source_tier` — `T1_OFFICIAL`, `T2_MARKET_STANDARD_PUBLIC`, `T3_PREMIUM_REFERENCE`
 - `publisher`
@@ -46,6 +46,12 @@ Every entry in [forms.yaml](forms.yaml) carries these fields:
 | [forms.yaml](forms.yaml) | Canonical machine-readable catalog: every entry across all jurisdictions and lanes. |
 | [premium-reference-sources.md](premium-reference-sources.md) | Blumberg, ABA M&A model agreements, Practical Law, PLI PLUS, Bloomberg Law, Intelligize+ AI, Deal Point Data — reference only. |
 | [excluded-sources.md](excluded-sources.md) | Exclusion policy: consumer template mills, AI template generators, SEO PDF mirrors. |
+| [federal/cre-acquisitions.md](federal/cre-acquisitions.md) | National CRE acquisitions, title, survey, recording and closing sources. |
+| [federal/cre-leasing.md](federal/cre-leasing.md) | National and specialty CRE leasing standards, forms and references. |
+| [federal/cre-finance-construction.md](federal/cre-finance-construction.md) | Agency lending, CMBS, title, construction and development sources. |
+| [ny/cre-real-property.md](ny/cre-real-property.md) | NY commercial acquisition, transfer/recording and leasing sources. |
+| [ny/cre-finance-construction.md](ny/cre-finance-construction.md) | NY construction, development, affordable-housing and finance sources. |
+| [nc/cre-real-property-finance.md](nc/cre-real-property-finance.md) | NC commercial real-property, leasing, finance and construction sources. |
 | [ny/corporate-entity-filings.md](ny/corporate-entity-filings.md) | NY Department of State entity-filing instruments (incorporation, amendment, merger, dissolution, authority, assumed name). |
 | [ny/commercial-division-litigation.md](ny/commercial-division-litigation.md) | NY Supreme Court civil / Commercial Division / NYSCEF forms and model rules exhibits. |
 | [ny/appellate-litigation.md](ny/appellate-litigation.md) | Appellate Division First and Second Department forms, with department-specific traps. |
