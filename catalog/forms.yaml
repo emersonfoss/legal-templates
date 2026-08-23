@@ -2567,21 +2567,20 @@
   last_verified: "2026-08-20"
 
 - id: federal-nvca-stock-purchase-agreement
-  title: "Stock Purchase Agreement"
+  title: Stock Purchase Agreement
   jurisdiction: Federal
   practice_area: securities-ma
   category: vc-financing-model-documents
   source_tier: T2_MARKET_STANDARD_PUBLIC
-  publisher: "NVCA"
-  source_page_url: "https://nvca.org/model-legal-documents/"
-  document_url: "https://nvca.org/wp-content/uploads/2025/10/NVCA-Model-SPA-10-28-2025-1.docx"
-  form_number: "n.a."
-  edition_or_revision_date: "Dated October 28, 2025; version markers \"New October 2025\"/\"Revised October 2025\""
-  access: "Free download (.docx)"
+  publisher: NVCA
+  source_page_url: https://nvca.org/model-legal-documents/
+  document_url: https://nvca.org/wp-content/uploads/2025/10/NVCA-Model-SPA-10-28-2025-1.docx
+  form_number: n.a.
+  edition_or_revision_date: Dated October 28, 2025; version markers "New October 2025"/"Revised October 2025"
+  access: Free download (.docx)
   copy_policy: link_only
-  quality_notes: "Verify current version and terms before use. Fetched; \"Series [___] Preferred Stock Purchase Agreement\". Most-current SPA found. An earlier October 2025 posting also exists (https://nvca.org/wp-content/uploads/2025/10/NVCA-Model-SPA-10-1-2025.docx); prefer the 10-28-2025 file"
-  last_verified: "2026-08-20"
-
+  quality_notes: Verify current version and terms before use. Fetched; "Series [___] Preferred Stock Purchase Agreement". Most-current SPA found. An earlier October 2025 posting also exists (https://nvca.org/wp-content/uploads/2025/10/NVCA-Model-SPA-10-1-2025.docx); prefer the 10-28-2025 file
+  last_verified: '2026-08-23'
 - id: federal-nvca-certificate-of-incorporation
   title: "Certificate of Incorporation"
   jurisdiction: Federal
@@ -2599,21 +2598,20 @@
   last_verified: "2026-08-20"
 
 - id: federal-nvca-voting-agreement
-  title: "Voting Agreement"
+  title: Voting Agreement
   jurisdiction: Federal
   practice_area: securities-ma
   category: vc-financing-model-documents
   source_tier: T2_MARKET_STANDARD_PUBLIC
-  publisher: "NVCA"
-  source_page_url: "https://nvca.org/document/nvca-model-voting-agreement-updated-oct-2025/"
-  document_url: "https://nvca.org/wp-content/uploads/2024/10/NVCA-Model-VA-10-1-2025.docx"
-  form_number: "n.a."
-  edition_or_revision_date: "Marker \"Revised October 2025\""
-  access: "Free download (.docx)"
+  publisher: NVCA
+  source_page_url: https://nvca.org/document/nvca-model-voting-agreement-updated-oct-2025/
+  document_url: https://nvca.org/wp-content/uploads/2026/06/Voting-Agreement-Updated-June-2026.docx
+  form_number: n.a.
+  edition_or_revision_date: Updated June 2026
+  access: Free download (.docx)
   copy_policy: link_only
-  quality_notes: "Verify current version and terms before use. CAVEAT: the hub page lists the Voting Agreement as \"Updated June 2026\" but a June 2026 file URL could not be confirmed — treat the October 2025 file as the latest verified copy and re-pull from the hub page before use. Fetched; \"[AMENDED AND RESTATED] VOTING AGREEMENT\""
-  last_verified: "2026-08-20"
-
+  quality_notes: Verify current version and terms before use. Current June 2026 document URL confirmed. The detail page retains its October 2025 label; re-pull from the hub at time of use.
+  last_verified: '2026-08-23'
 - id: federal-nvca-investors-rights-agreement
   title: "Investors' Rights Agreement"
   jurisdiction: Federal
@@ -2631,21 +2629,20 @@
   last_verified: "2026-08-20"
 
 - id: federal-nvca-rofr-and-co-sale-agreement
-  title: "Right of First Refusal and Co-Sale Agreement"
+  title: Right of First Refusal and Co-Sale Agreement
   jurisdiction: Federal
   practice_area: securities-ma
   category: vc-financing-model-documents
   source_tier: T2_MARKET_STANDARD_PUBLIC
-  publisher: "NVCA"
-  source_page_url: "https://nvca.org/model-legal-documents/"
-  document_url: "https://nvca.org/wp-content/uploads/2026/04/NVCA-Model-ROFRA.docx"
-  form_number: "n.a."
-  edition_or_revision_date: "Posted under 2026/04 (hub: Updated April 2026)"
-  access: "Free download (.docx)"
+  publisher: NVCA
+  source_page_url: https://nvca.org/model-legal-documents/
+  document_url: https://nvca.org/wp-content/uploads/2026/06/Right-of-First-Refusal-and-Co-Sale-Agreement-Updated-April-2026.docx
+  form_number: n.a.
+  edition_or_revision_date: Updated April 2026
+  access: Free download (.docx)
   copy_policy: link_only
-  quality_notes: "Verify current version and terms before use. Fetched; \"[AMENDED AND RESTATED] RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT\". Matches the hub page's \"Updated April 2026\" listing"
-  last_verified: "2026-08-20"
-
+  quality_notes: Verify current version and terms before use. Current April 2026 document URL confirmed; re-pull from the hub at time of use.
+  last_verified: '2026-08-23'
 - id: federal-nvca-management-rights-letter
   title: "Management Rights Letter"
   jurisdiction: Federal
@@ -2695,21 +2692,20 @@
   last_verified: "2026-08-20"
 
 - id: federal-nvca-model-pipe-package
-  title: "Model PIPE package (Securities Purchase Agreement, Registration Rights Agreement, pre-funded and common warrants; US issuer and FPI versions)"
+  title: Model PIPE package (Securities Purchase Agreement, Registration Rights Agreement, pre-funded and common warrants; US issuer and FPI versions)
   jurisdiction: Federal
   practice_area: securities-ma
   category: pipe-model-documents
   source_tier: T2_MARKET_STANDARD_PUBLIC
-  publisher: "NVCA"
-  source_page_url: "https://nvca.org/model-legal-documents/"
-  document_url: "https://nvca.org/wp-content/uploads/2024/07/Model-PIPE-Securities-Purchase-Agreement-US-Issuer.docx"
-  form_number: "n.a."
-  edition_or_revision_date: "Hub lists US-issuer set last updated June 2025 and FPI set August 2025"
-  access: "Free download (.docx)"
+  publisher: NVCA
+  source_page_url: https://nvca.org/model-legal-documents/
+  document_url: https://nvca.org/wp-content/uploads/2025/06/2.-Model-PIPE-Securities-Purchase-Agreement-US-Issuer-Jun-2025-Rev.-CORRECTED.docx
+  form_number: n.a.
+  edition_or_revision_date: US issuer suite updated June 2025; FPI suite updated August 2025
+  access: Free download (.docx)
   copy_policy: link_only
-  quality_notes: "Verify current version and terms before use. FPI SPA (updated 8.11.25) https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Securities-Purchase-Agreement-FPI-updated-8.11.25.docx; FPI Registration Rights Agreement (updated 8.11.25) https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Registration-Rights-Agreement-FPI-updated-8.11.25.docx. URLs surfaced from nvca.org indexing; the two FPI files and the US-issuer SPA were not individually opened in this session — confirm currency on the hub page. Warrant forms: n.a. (direct URLs not confirmed)"
-  last_verified: "2026-08-20"
-
+  quality_notes: 'Verify current version and terms before use. Complete US-issuer suite: SPA https://nvca.org/wp-content/uploads/2025/06/2.-Model-PIPE-Securities-Purchase-Agreement-US-Issuer-Jun-2025-Rev.-CORRECTED.docx; RRA https://nvca.org/wp-content/uploads/2024/07/Model-PIPE-Registration-Rights-Agreement-US-Issuer-.docx; pre-funded warrant https://nvca.org/wp-content/uploads/2024/07/Model-PIPE-Form-of-Pre-Funded-Warrant-US-Issuer.docx; common warrant https://nvca.org/wp-content/uploads/2024/07/Model-PIPE-Form-of-Common-Warrant-US-Issuer.docx (search-index confirmed; spot-check). Complete FPI suite: SPA https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Securities-Purchase-Agreement-FPI-updated-8.11.25.docx; RRA https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Registration-Rights-Agreement-FPI-updated-8.11.25.docx; ordinary warrant https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Ordinary-Warrant-FPI-updated-8.11.25.docx; pre-funded warrant https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Pre-Funded-Warrant-FPI-Final.docx.'
+  last_verified: '2026-08-23'
 - id: federal-nvca-diligence-questionnaires
   title: "Diligence questionnaires (Directors & Executive Officers; 5% holders in connection with a public offering)"
   jurisdiction: Federal
@@ -2732,117 +2728,110 @@
 # a discounted rate for ABA members.
 
 - id: federal-aba-model-stock-purchase-agreement-2d
-  title: "Model Stock Purchase Agreement with Commentary, Second Edition"
+  title: Model Stock Purchase Agreement with Commentary, Second Edition
   jurisdiction: Federal
   practice_area: securities-ma
   category: aba-model-agreements
   source_tier: T3_PREMIUM_REFERENCE
-  publisher: "ABA Book Publishing (Business Law Section; co-sponsored by the Mergers and Acquisitions Committee)"
-  source_page_url: "https://www.americanbar.org/products/inv/book/213974/"
-  document_url: "https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/213974/5070636_SamCh.pdf"
-  form_number: "n.a."
-  edition_or_revision_date: "Second Edition; published July 1, 2010"
-  access: "Paid purchase / ABA member discount"
-  copy_policy: commercial_purchase
-  quality_notes: "Reference only — copyrighted ABA publication; never copied into this repo. Document URL is the sample chapter PDF (surfaced via americanbar.org indexing). Page data: ISBN 9781604429985, product code 5070636, 648 pages; built around a hypothetical acquisition with buyer- and seller-side commentary. The market benchmark for private-target SPA drafting"
-  last_verified: "2026-08-20"
-
+  publisher: ABA Book Publishing (Business Law Section; co-sponsored by the Mergers and Acquisitions Committee)
+  source_page_url: https://www.americanbar.org/products/inv/book/213974/
+  document_url: https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/213974/5070636_SamCh.pdf
+  form_number: n.a.
+  edition_or_revision_date: Second Edition; published July 1, 2010
+  access: Paid purchase / ABA member discount
+  copy_policy: reference_only
+  quality_notes: 'Reference only — copyrighted ABA publication; never copied into this repo. Document URL is the sample chapter PDF (surfaced via americanbar.org indexing). Page data: ISBN 9781604429985, product code 5070636, 648 pages; built around a hypothetical acquisition with buyer- and seller-side commentary. The market benchmark for private-target SPA drafting'
+  last_verified: '2026-08-20'
 - id: federal-aba-model-asset-purchase-agreement
-  title: "Model Asset Purchase Agreement with Commentary"
+  title: Model Asset Purchase Agreement with Commentary
   jurisdiction: Federal
   practice_area: securities-ma
   category: aba-model-agreements
   source_tier: T3_PREMIUM_REFERENCE
-  publisher: "ABA Book Publishing (Business Law Section)"
-  source_page_url: "https://www.americanbar.org/products/inv/book/213895/"
+  publisher: ABA Book Publishing (Business Law Section)
+  source_page_url: https://www.americanbar.org/products/inv/book/213895/
   document_url: null
-  form_number: "n.a."
+  form_number: n.a.
   edition_or_revision_date: null
-  access: "Paid purchase / ABA member discount"
-  copy_policy: commercial_purchase
-  quality_notes: "Reference only — copyrighted. Includes the agreement plus exhibits, ancillary documents and appendices with substantive explanation. Sample chapter: Chapter 7 \"Conditions Precedent to Buyer's Obligation to Close\" (linked from product page) — direct PDF URL: n.a."
-  last_verified: "2026-08-20"
-
+  access: Paid purchase / ABA member discount
+  copy_policy: reference_only
+  quality_notes: 'Reference only — copyrighted. Includes the agreement plus exhibits, ancillary documents and appendices with substantive explanation. Sample chapter: Chapter 7 "Conditions Precedent to Buyer''s Obligation to Close" (linked from product page) — direct PDF URL: n.a.'
+  last_verified: '2026-08-20'
 - id: federal-aba-model-merger-agreement-public-company
-  title: "Model Merger Agreement for the Acquisition of a Public Company"
+  title: Model Merger Agreement for the Acquisition of a Public Company
   jurisdiction: Federal
   practice_area: securities-ma
   category: aba-model-agreements
   source_tier: T3_PREMIUM_REFERENCE
-  publisher: "ABA Book Publishing"
-  source_page_url: "https://www.americanbar.org/products/inv/book/213997/"
-  document_url: "https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/213996/MMA%20Agreement%20TOC.pdf"
-  form_number: "n.a."
+  publisher: ABA Book Publishing
+  source_page_url: https://www.americanbar.org/products/inv/book/213997/
+  document_url: https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/213996/MMA%20Agreement%20TOC.pdf
+  form_number: n.a.
   edition_or_revision_date: null
-  access: "Paid purchase / ABA member discount; page advertises a 40% saving on the book + e-book package"
-  copy_policy: commercial_purchase
-  quality_notes: "Reference only — copyrighted. Document URL is the related table-of-contents PDF under product 213996; intro PDF at https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/213996/5070650%20intro_abs.pdf (surfaced via americanbar.org indexing; product page 213996 itself was robots-blocked to the fetcher, so treat 213997 as the confirmed page). Provisions plus extensive commentary on public-deal issues and negotiating alternatives"
-  last_verified: "2026-08-20"
-
+  access: Paid purchase / ABA member discount; page advertises a 40% saving on the book + e-book package
+  copy_policy: reference_only
+  quality_notes: Reference only — copyrighted. Document URL is the related table-of-contents PDF under product 213996; intro PDF at https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/213996/5070650%20intro_abs.pdf (surfaced via americanbar.org indexing; product page 213996 itself was robots-blocked to the fetcher, so treat 213997 as the confirmed page). Provisions plus extensive commentary on public-deal issues and negotiating alternatives
+  last_verified: '2026-08-20'
 - id: federal-aba-model-tender-offer-agreement
-  title: "Model Tender Offer Agreement"
+  title: Model Tender Offer Agreement
   jurisdiction: Federal
   practice_area: securities-ma
   category: aba-model-agreements
   source_tier: T3_PREMIUM_REFERENCE
-  publisher: "ABA Publishing"
-  source_page_url: "https://www.americanbar.org/products/inv/book/381487815/"
-  document_url: "https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/381487815/Introduction.pdf"
-  form_number: "n.a."
+  publisher: ABA Publishing
+  source_page_url: https://www.americanbar.org/products/inv/book/381487815/
+  document_url: https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/381487815/Introduction.pdf
+  form_number: n.a.
   edition_or_revision_date: null
-  access: "Paid purchase / ABA member discount"
-  copy_policy: commercial_purchase
-  quality_notes: "Reference only — copyrighted. Preface PDF: https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/381487815/Preface.pdf. Covers acquisition of a public company for cash via negotiated tender offer, with alternative drafts and negotiating positions — pair with the SC TO-T market precedent"
-  last_verified: "2026-08-20"
-
+  access: Paid purchase / ABA member discount
+  copy_policy: reference_only
+  quality_notes: 'Reference only — copyrighted. Preface PDF: https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/381487815/Preface.pdf. Covers acquisition of a public company for cash via negotiated tender offer, with alternative drafts and negotiating positions — pair with the SC TO-T market precedent'
+  last_verified: '2026-08-20'
 - id: federal-aba-model-apa-for-bankruptcy-sales
-  title: "Model Asset Purchase Agreement for Bankruptcy Sales"
+  title: Model Asset Purchase Agreement for Bankruptcy Sales
   jurisdiction: Federal
   practice_area: securities-ma
   category: aba-model-agreements
   source_tier: T3_PREMIUM_REFERENCE
-  publisher: "ABA Publishing (Business Bankruptcy Committee)"
-  source_page_url: "https://www.americanbar.org/products/inv/book/264483903/"
-  document_url: "https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/264483903/Definitions%20and%20Usage.pdf"
-  form_number: "n.a."
+  publisher: ABA Publishing (Business Bankruptcy Committee)
+  source_page_url: https://www.americanbar.org/products/inv/book/264483903/
+  document_url: https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/264483903/Definitions%20and%20Usage.pdf
+  form_number: n.a.
   edition_or_revision_date: null
-  access: "Paid purchase / ABA member discount"
-  copy_policy: commercial_purchase
-  quality_notes: "Reference only — copyrighted. Model §363 asset purchase agreement + commentary; designed to be used alongside the Model Asset Purchase Agreement; highlights bankruptcy vs. non-bankruptcy sale differences"
-  last_verified: "2026-08-20"
-
+  access: Paid purchase / ABA member discount
+  copy_policy: reference_only
+  quality_notes: Reference only — copyrighted. Model §363 asset purchase agreement + commentary; designed to be used alongside the Model Asset Purchase Agreement; highlights bankruptcy vs. non-bankruptcy sale differences
+  last_verified: '2026-08-20'
 - id: federal-aba-ma-committee-deal-points-studies
-  title: "M&A Committee resources — Deal Points Studies, M&A Market Check video series"
+  title: M&A Committee resources — Deal Points Studies, M&A Market Check video series
   jurisdiction: Federal
   practice_area: securities-ma
   category: market-terms-studies
   source_tier: T3_PREMIUM_REFERENCE
-  publisher: "ABA Business Law Section, Mergers and Acquisitions Committee"
-  source_page_url: "https://www.americanbar.org/groups/business_law/about/committees/mergers-and-acquisitions/"
+  publisher: ABA Business Law Section, Mergers and Acquisitions Committee
+  source_page_url: https://www.americanbar.org/groups/business_law/about/committees/mergers-and-acquisitions/
   document_url: null
-  form_number: "n.a."
+  form_number: n.a.
   edition_or_revision_date: null
-  access: "Membership-gated: page states Deal Points Studies are available only to M&A Committee members; the Market Check video series is free to Section members"
+  access: 'Membership-gated: page states Deal Points Studies are available only to M&A Committee members; the Market Check video series is free to Section members'
   copy_policy: reference_only
-  quality_notes: "Reference only. The Deal Points Studies are the standard citation for \"what's market\" on indemnity, MAE and other terms. Direct document URL: n.a."
-  last_verified: "2026-08-20"
-
+  quality_notes: 'Reference only. The Deal Points Studies are the standard citation for "what''s market" on indemnity, MAE and other terms. Direct document URL: n.a.'
+  last_verified: '2026-08-20'
 - id: federal-aba-related-ma-titles
-  title: "Related ABA M&A titles: The M&A Process: A Practical Guide for the Business Lawyer; Manual on Acquisition Review; International Stock Purchase Acquisitions"
+  title: 'Related ABA M&A titles: The M&A Process: A Practical Guide for the Business Lawyer; Manual on Acquisition Review; International Stock Purchase Acquisitions'
   jurisdiction: Federal
   practice_area: securities-ma
   category: aba-model-agreements
   source_tier: T3_PREMIUM_REFERENCE
-  publisher: "ABA Book Publishing"
-  source_page_url: "https://www.americanbar.org/products/inv/book/213910/"
+  publisher: ABA Book Publishing
+  source_page_url: https://www.americanbar.org/products/inv/book/213910/
   document_url: null
-  form_number: "n.a."
+  form_number: n.a.
   edition_or_revision_date: null
-  access: "Paid purchase / ABA member discount (assumed same model; not individually confirmed)"
-  copy_policy: commercial_purchase
-  quality_notes: "Reference only — copyrighted. Additional product pages: https://www.americanbar.org/products/inv/book/213883/ and https://www.americanbar.org/products/inv/book/213916/ (URLs surfaced from americanbar.org indexing; product pages not individually opened). Direct document URL: n.a."
-  last_verified: "2026-08-20"
-
+  access: Paid purchase / ABA member discount (assumed same model; not individually confirmed)
+  copy_policy: reference_only
+  quality_notes: 'Reference only — copyrighted. Additional product pages: https://www.americanbar.org/products/inv/book/213883/ and https://www.americanbar.org/products/inv/book/213916/ (URLs surfaced from americanbar.org indexing; product pages not individually opened). Direct document URL: n.a.'
+  last_verified: '2026-08-20'
 # --- Federal Lane 5: Premium commercial references (paywalled; reference, never copy) ---
 
 - id: federal-practical-law-thomson-reuters
@@ -2940,3 +2929,567 @@
   copy_policy: commercial_purchase
   quality_notes: "Reference only — never copy commercial content into this repo. Official-style New York legal forms publisher; corporate kits, formation and filing services, online fillable forms. Related URLs: https://www.blumberg.com/kits/legal-forms/blumberg-legal-forms-online (fetched); catalog PDFs https://www.blumberg.com/downloads/Blumberg-Law-Forms-Catalog.pdf and https://www.blumberg.com/downloads/Blumberg-NY-Corporate-Service-and-Supply-Catalog.pdf (URLs surfaced via indexing). Direct document URL: n.a. (forms are purchase-gated). The traditional NY stationer's forms (leases, POAs, DBA certificates, corporate kits) plus Blumberg Legal Automation. Relevant for New York filing/formation mechanics rather than negotiated M&A drafting"
   last_verified: "2026-08-20"
+
+# ============================================================================
+# ASSEMBLY ADDITIONS — VERIFIED AUGUST 23, 2026
+# ============================================================================
+
+- id: federal-ilpa-templates-hub
+  title: ILPA's Private Equity Templates, Standards & Model Documents
+  jurisdiction: Federal
+  practice_area: fund-formation
+  category: fund-formation-templates-hub
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Institutional Limited Partners Association (ILPA)
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Page last modified July 21, 2026
+  access: Free (public page)
+  copy_policy: link_only
+  quality_notes: 'Authoritative central hub for ILPA Model LPA, Model NDA, and Model Subscription Agreement. Direct document URL: n.a.'
+  last_verified: '2026-08-23'
+
+- id: federal-ilpa-model-lpa-wof
+  title: The ILPA Model Limited Partnership Agreement (Whole-of-Fund Waterfall)
+  jurisdiction: Federal
+  practice_area: fund-formation
+  category: private-equity-fund-lpa
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ILPA
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/model-limited-partnership-agreement/
+  document_url: https://ilpa.org/wp-content/uploads/2020/07/ILPA-Model-Limited-Partnership-Agreement-WOF.pdf
+  form_number: n.a.
+  edition_or_revision_date: Last Updated July 2020 (originally released October 2019)
+  access: Free, no login required
+  copy_policy: link_only
+  quality_notes: 'Delaware-law whole-of-fund waterfall LPA. Full-LPA Word link is n.a.: resource-library download button is JS-rendered and no static .docx URL was resolved.'
+  last_verified: '2026-08-23'
+
+- id: federal-ilpa-model-lpa-dbd
+  title: The ILPA Model Limited Partnership Agreement (Deal-by-Deal Waterfall)
+  jurisdiction: Federal
+  practice_area: fund-formation
+  category: private-equity-fund-lpa
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ILPA
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/model-limited-partnership-agreement/
+  document_url: https://ilpa.org/wp-content/uploads/2020/07/ILPA-Model-Limited-Parnership-Agreement-Deal-By-Deal.pdf
+  form_number: n.a.
+  edition_or_revision_date: July 2020
+  access: Free, no login required
+  copy_policy: link_only
+  quality_notes: Deal-by-deal waterfall LPA. Confirmed Word overview is https://ilpa.org/wp-content/uploads/2020/07/2020.07.29-ILPA-Model-LPA-Overview-DBD-Version.docx; full-LPA Word link is n.a. because it is JS-rendered.
+  last_verified: '2026-08-23'
+
+- id: federal-ilpa-model-lpa-term-sheet-wof
+  title: ILPA Model LPA — Whole-of-Fund Version Term Sheet Summary
+  jurisdiction: Federal
+  practice_area: fund-formation
+  category: private-equity-fund-term-sheet
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ILPA
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/model-limited-partnership-agreement/
+  document_url: https://ilpa.org/wp-content/uploads/2020/07/ILPA-Model-LPA-Term-Sheet-WOF-Version.pdf
+  form_number: n.a.
+  edition_or_revision_date: Last Updated July 2020
+  access: Free, no login required
+  copy_policy: link_only
+  quality_notes: 'Term-sheet summary to be read with the full Model LPA. Word URL: n.a.'
+  last_verified: '2026-08-23'
+
+- id: federal-ilpa-model-lpa-term-sheet-dbd
+  title: ILPA Model LPA — Deal-by-Deal Waterfall Term Sheet Summary
+  jurisdiction: Federal
+  practice_area: fund-formation
+  category: private-equity-fund-term-sheet
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ILPA
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/model-limited-partnership-agreement/
+  document_url: https://ilpa.org/wp-content/uploads/2020/07/ILPA-Model-LPA-Term-Sheet-DBD-Version.pdf
+  form_number: n.a.
+  edition_or_revision_date: July 2020 (released July 22, 2020)
+  access: Free, no login required
+  copy_policy: link_only
+  quality_notes: 'Term-sheet summary companion to the deal-by-deal Model LPA. Word URL: n.a.'
+  last_verified: '2026-08-23'
+
+- id: federal-ilpa-model-subscription-agreement
+  title: Model Subscription Agreement (MSA)
+  jurisdiction: Federal
+  practice_area: fund-formation
+  category: private-equity-fund-subscription-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ILPA
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/model-subscription-agreement/
+  document_url: https://ilpa.org/wp-content/uploads/2018/05/ILPA-Model-Subscription-Agreement-Final.docx
+  form_number: n.a.
+  edition_or_revision_date: Released December 2017 (files uploaded May 2018)
+  access: Free, no login required
+  copy_policy: link_only
+  quality_notes: 'Modular, multi-jurisdictional off-the-shelf PE-fund subscription document. PDF: https://ilpa.org/wp-content/uploads/2018/05/ILPA-Model-Subscription-Agreement-Final.pdf'
+  last_verified: '2026-08-23'
+
+- id: federal-ilpa-model-nda
+  title: The ILPA Model Non-Disclosure Agreement
+  jurisdiction: Federal
+  practice_area: fund-formation
+  category: private-equity-fund-nda
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ILPA
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/model-non-disclosure-agreement/
+  document_url: https://ilpa.org/wp-content/uploads/2021/01/2021.1.14-ILPA-Model-NDA.docx
+  form_number: n.a.
+  edition_or_revision_date: January 2021
+  access: Free, no login required
+  copy_policy: link_only
+  quality_notes: 'Standard bilateral LP/GP diligence NDA with MNPI-handling clause. PDF: https://ilpa.org/wp-content/uploads/2021/01/2021.1.14-ILPA-Model-NDA.pdf'
+  last_verified: '2026-08-23'
+
+- id: federal-ilpa-emerging-manager-toolkit
+  title: Emerging Manager Toolkit
+  jurisdiction: Federal
+  practice_area: fund-formation
+  category: fund-formation-resource-toolkit
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ILPA
+  source_page_url: https://ilpa.org/resources-tools/toolkits-collections/emerging-managers/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Page last modified January 12, 2026
+  access: Free
+  copy_policy: link_only
+  quality_notes: Curated bundle rather than a single document; component documents include the Model LPA, subscription agreement, capital call/distribution template, DDQ, Principles, and Model NDA.
+  last_verified: '2026-08-23'
+
+- id: federal-ilpa-continuation-fund-disclosure-template
+  title: Continuation Fund Disclosure Template
+  jurisdiction: Federal
+  practice_area: fund-formation
+  category: continuation-fund-disclosure
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ILPA
+  source_page_url: https://ilpa.org/resources-tools/resource-library/continuation-fund-disclosure-template/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Released January 27, 2026
+  access: Free, no login required
+  copy_policy: link_only
+  quality_notes: Page confirms a Download the Template (docx) link, but the actual file href is JS-rendered; direct document URL is n.a.
+  last_verified: '2026-08-23'
+
+- id: federal-aima-guides-sound-practices
+  title: AIMA Guides to Sound Practices and Industry Guides
+  jurisdiction: Federal
+  practice_area: fund-formation
+  category: alternative-investment-guides
+  source_tier: T3_PREMIUM_REFERENCE
+  publisher: Alternative Investment Management Association (AIMA)
+  source_page_url: https://www.aima.org/sound-practices/guides-to-sound-practices.html
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Varies by guide
+  access: Member-gated (AIMA)
+  copy_policy: reference_only
+  quality_notes: 'Reference only — never copied. Full guides and DDQs require AIMA member login; DDQ hub: https://www.aima.org/sound-practices/due-diligence-questionnaires.html.'
+  last_verified: '2026-08-23'
+
+- id: federal-lsta-legal-documentation-hub
+  title: Legal & Documentation
+  jurisdiction: Federal
+  practice_area: credit-financing
+  category: credit-documentation-hub
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Loan Syndications and Trading Association (LSTA)
+  source_page_url: https://www.lsta.org/content-areas/legal-documentation/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: null
+  access: Public hub
+  copy_policy: link_only
+  quality_notes: 'Authoritative index for LSTA Forms of Credit Agreements, LevFin MCAPs, and secondary-trading documents. Direct document URL: n.a.'
+  last_verified: '2026-08-23'
+
+- id: federal-lsta-mcaps
+  title: Model Credit Agreement Provisions (MCAPs)
+  jurisdiction: Federal
+  practice_area: credit-financing
+  category: leveraged-finance-credit-agreement-provisions
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: LSTA
+  source_page_url: https://www.lsta.org/content/model-credit-agreement-provisions-mcaps-may-1-2023/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: May 1, 2023 (reposted July 8, 2024)
+  access: Member-gated (LSTA)
+  copy_policy: link_only
+  quality_notes: Page lists Model-Credit-Agreement-Provisions-MCAPs-May-1-2023.docx but exact document URL is n.a.; treat as member-gated under LSTA access model.
+  last_verified: '2026-08-23'
+
+- id: federal-lsta-pcc-mcaps
+  title: Model Credit Agreement Provisions for Private Corporate Credit Deals (PCC MCAPs)
+  jurisdiction: Federal
+  practice_area: credit-financing
+  category: private-credit-credit-agreement-provisions
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: LSTA
+  source_page_url: https://www.lsta.org/content/model-credit-agreement-provisions-for-private-corporate-credit-deals-pcc-mcaps-july-21-2026/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: July 21, 2026
+  access: Member-gated (LSTA)
+  copy_policy: link_only
+  quality_notes: 'Page expressly states content is only available to certain members. Listed filename: LSTA Model Credit Agreement Provisions for PCC Deals (PCC MCAPs)_21July26.docx; exact URL is n.a.'
+  last_verified: '2026-08-23'
+
+- id: federal-lsta-standard-documents-archive
+  title: Standard Documents Archives
+  jurisdiction: Federal
+  practice_area: credit-financing
+  category: secondary-trading-documentation-index
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: LSTA
+  source_page_url: https://www.lsta.org/content-category/standard-documents/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Rolling; entries through May 4, 2026
+  access: Index public; underlying documents member-gated (LSTA)
+  copy_policy: link_only
+  quality_notes: 'Catalogs Master Participation Agreements, distressed-trade purchase and sale agreements, par confirms, bilateral netting agreements, and related standard documents. Direct document URL: n.a.'
+  last_verified: '2026-08-23'
+
+- id: federal-lsta-forms-credit-agreement-suite
+  title: Updated LSTA Forms of Credit Agreement; Concept Documents
+  jurisdiction: Federal
+  practice_area: credit-financing
+  category: credit-agreement-form-suite
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: LSTA
+  source_page_url: https://www.lsta.org/content/updated-lsta-forms-of-credit-agreement-concept-documents/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Varies by component form
+  access: Member-gated (LSTA)
+  copy_policy: link_only
+  quality_notes: Core primary-market suite (term loan, revolver, multicurrency, investment grade, emerging business). Exact component-file URLs are n.a.; related pages are recorded in the lane file.
+  last_verified: '2026-08-23'
+
+- id: federal-lsta-first-lien-second-lien-intercreditor
+  title: First Lien/Second Lien Intercreditor Agreement
+  jurisdiction: Federal
+  practice_area: credit-financing
+  category: intercreditor-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: LSTA / ABA Business Law Section Commercial Finance Committee
+  source_page_url: https://www.lsta.org/content/first-lien-second-lien-intercreditor-agreement-may-1-2024/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: May 1, 2024
+  access: Member-gated (LSTA)
+  copy_policy: link_only
+  quality_notes: Listed filename First-Lien_Second-Lien-Intercreditor-Agreement-May-1-2024.docx; exact URL is n.a.
+  last_verified: '2026-08-23'
+
+- id: federal-lsta-pari-passu-intercreditor
+  title: Model Pari Passu Intercreditor Agreement
+  jurisdiction: Federal
+  practice_area: credit-financing
+  category: intercreditor-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: LSTA
+  source_page_url: https://www.lsta.org/content/model-pari-passu-intercreditor-agreement-apr-29-2025/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: April 29, 2025
+  access: Member-gated (LSTA)
+  copy_policy: link_only
+  quality_notes: Listed filename Model-Pari-Passu-Intercreditor-Agreement-29Apr25.docx; exact URL is n.a.
+  last_verified: '2026-08-23'
+
+- id: federal-lsta-master-participation-agreement
+  title: Master Participation Agreement for Par/Near Par Trades
+  jurisdiction: Federal
+  practice_area: credit-financing
+  category: loan-participation-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: LSTA
+  source_page_url: https://www.lsta.org/content/master-participation-agreement-for-par-near-par-trades-stcs-may-04-2026/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: TSTs July 23, 2025; STCs May 4, 2026
+  access: Member-gated (LSTA)
+  copy_policy: link_only
+  quality_notes: 'Core secondary-trading participation package. TSTs page: https://www.lsta.org/content/master-participation-agreement-for-par-near-par-trades-tsts-jul-23-2025/. Exact document URLs are n.a.'
+  last_verified: '2026-08-23'
+
+- id: federal-lsta-secondary-trading-documents
+  title: Secondary Trading Documents (par and distressed trades)
+  jurisdiction: Federal
+  practice_area: credit-financing
+  category: secondary-trading-document-suite
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: LSTA
+  source_page_url: https://www.lsta.org/content-category/standard-documents/
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: August 15, 2025 listed batch
+  access: Member-gated (LSTA)
+  copy_policy: link_only
+  quality_notes: Participation agreements, distressed-trade purchase and sale agreements, par confirms, and bilateral netting agreement. Exact direct URLs are n.a.
+  last_verified: '2026-08-23'
+
+- id: federal-sba-multi-party-agreements
+  title: SBA Multi-Party Agreements
+  jurisdiction: Federal
+  practice_area: credit-financing
+  category: sba-secured-credit-securitization-templates
+  source_tier: T1_OFFICIAL
+  publisher: U.S. Small Business Administration, Office of Capital Access
+  source_page_url: https://legacy.sba.gov/document/support-sba-multi-party-agreements
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Effective August 18, 2025; page last updated August 25, 2025
+  access: Free
+  copy_policy: link_only
+  quality_notes: Official 7(a) secured-credit and SBA-securitization templates. The downloadable ZIP is linked from the source page; its exact file URL is n.a.
+  last_verified: '2026-08-23'
+
+- id: federal-onenda-ma
+  title: oneNDA + M&A
+  jurisdiction: Federal
+  practice_area: ma-transactions
+  category: ma-nda
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: oneNDA
+  source_page_url: https://www.onenda.org/products/onenda-m-a
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: null
+  access: Free to use
+  copy_policy: link_only
+  quality_notes: Free, open-source M&A-specific NDA standard template. Product page is access point; distinct raw-file URL is n.a.
+  last_verified: '2026-08-23'
+
+- id: federal-ncoil-uniform-captive-insurer-model-act
+  title: Uniform Captive Insurer Model Act
+  jurisdiction: Federal
+  practice_area: captive-insurance
+  category: captive-insurance-model-act
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: National Council of Insurance Legislators (NCOIL)
+  source_page_url: https://ncoil.org/resource/ncoil-uniform-captive-insurer-model-act-adopted-11-20-21/
+  document_url: https://ncoil.org/wp-content/uploads/2025/12/NCOIL-Captive-Model-11-20-21.pdf
+  form_number: n.a.
+  edition_or_revision_date: Adopted November 20, 2021
+  access: Free
+  copy_policy: link_only
+  quality_notes: Model-act baseline only; confirm each state’s enacted captive statute separately.
+  last_verified: '2026-08-23'
+
+- id: federal-naic-ucaa-form-1p
+  title: UCAA Form 1P — Primary Application Checklist
+  jurisdiction: Federal
+  practice_area: captive-insurance
+  category: insurance-license-application
+  source_tier: T1_OFFICIAL
+  publisher: National Association of Insurance Commissioners (NAIC)
+  source_page_url: https://content.naic.org/industry/ucaa/resources
+  document_url: null
+  form_number: 1P
+  edition_or_revision_date: Last substantive revision December 8, 2020
+  access: Free; current fillable form portal-gated
+  copy_policy: link_only
+  quality_notes: Current canonical fillable version is served through NAIC electronic UCAA portal. No stable official NAIC-hosted static PDF was resolved; direct document URL is n.a.
+  last_verified: '2026-08-23'
+
+- id: federal-naic-ucaa-form-2p
+  title: UCAA Form 2P — Primary Application
+  jurisdiction: Federal
+  practice_area: captive-insurance
+  category: insurance-license-application
+  source_tier: T1_OFFICIAL
+  publisher: NAIC
+  source_page_url: https://content.naic.org/industry/ucaa/primary-application
+  document_url: null
+  form_number: 2P
+  edition_or_revision_date: Rev. 07/23 (state-mirror footer; portal is operative filing method)
+  access: Free; electronically signed in portal
+  copy_policy: link_only
+  quality_notes: NAIC primary-application instructions confirm Form 2P is electronically signed within the portal. No stable official NAIC-hosted static PDF was resolved; direct document URL is n.a.
+  last_verified: '2026-08-23'
+
+- id: federal-naic-ucaa-form-8
+  title: UCAA Form 8 — Questionnaire
+  jurisdiction: Federal
+  practice_area: captive-insurance
+  category: insurance-license-application
+  source_tier: T1_OFFICIAL
+  publisher: NAIC
+  source_page_url: https://content.naic.org/industry/ucaa/resources
+  document_url: https://content.naic.org/sites/default/files/industry-ucaa-form-8-questionnaire.pdf
+  form_number: '8'
+  edition_or_revision_date: Revised November 18, 2014
+  access: Free
+  copy_policy: link_only
+  quality_notes: Directly hosted, stable NAIC PDF.
+  last_verified: '2026-08-23'
+
+- id: federal-naic-ucaa-form-11
+  title: UCAA Form 11 — NAIC Biographical Affidavit
+  jurisdiction: Federal
+  practice_area: captive-insurance
+  category: insurance-license-application
+  source_tier: T1_OFFICIAL
+  publisher: NAIC
+  source_page_url: https://content.naic.org/industry/ucaa/resources
+  document_url: https://content.naic.org/sites/default/files/ucaa-industry-naic-biographical-affidavit.pdf
+  form_number: '11'
+  edition_or_revision_date: Revised December 8, 2020
+  access: Free
+  copy_policy: link_only
+  quality_notes: Directly hosted, stable NAIC PDF.
+  last_verified: '2026-08-23'
+
+- id: federal-naic-ucaa-form-13
+  title: UCAA Form 13 — ProForma Financial Statements
+  jurisdiction: Federal
+  practice_area: captive-insurance
+  category: insurance-license-application
+  source_tier: T1_OFFICIAL
+  publisher: NAIC
+  source_page_url: https://content.naic.org/industry/ucaa/resources
+  document_url: https://content.naic.org/media/4695
+  form_number: '13'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: UCAA index lists Form 13 variants; property/casualty and life/health files are binary macro-enabled workbooks. No single uniform revision date is confirmed; re-verify filename/version before use.
+  last_verified: '2026-08-23'
+
+- id: federal-nydfs-captive-insurance-formation
+  title: Captives in New York State
+  jurisdiction: Federal
+  practice_area: captive-insurance
+  category: captive-insurer-license-application
+  source_tier: T1_OFFICIAL
+  publisher: New York State Department of Financial Services (DFS)
+  source_page_url: https://www.dfs.ny.gov/apps_and_licensing/property_insurers/forming_a_captive_in_new_york_state
+  document_url: https://www.dfs.ny.gov/system/files/documents/2021/01/captives_app_instruct.pdf
+  form_number: n.a.
+  edition_or_revision_date: Instructions PDF January 2021; source page last updated July 11, 2026
+  access: Free
+  copy_policy: link_only
+  quality_notes: Official NY Insurance Law Article 70 captive-formation guidance and License Application Package Instructions.
+  last_verified: '2026-08-23'
+
+- id: federal-ncdoi-captive-insurance
+  title: Captive Insurance
+  jurisdiction: Federal
+  practice_area: captive-insurance
+  category: captive-insurer-license-application
+  source_tier: T1_OFFICIAL
+  publisher: North Carolina Department of Insurance (NCDOI)
+  source_page_url: https://www.ncdoi.gov/insurance-industry/captive-insurance
+  document_url: https://www.ncdoi.gov/nc-captive-brochure-0/open
+  form_number: n.a.
+  edition_or_revision_date: Source page last updated August 20, 2026
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'Official NC captive-formation guidance. Captive Insurance Act: https://www.ncdoi.gov/captive-insurance-act/open. Dedicated forms hub is JS-rendered; individual current filing-form filenames require re-verification.'
+  last_verified: '2026-08-23'
+
+- id: federal-saft-form-token-pre-sale
+  title: Form of SAFT for Token Pre-Sale
+  jurisdiction: Federal
+  practice_area: digital-assets
+  category: token-pre-sale-instrument
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: The SAFT Project
+  source_page_url: https://saftproject.com/
+  document_url: https://saftproject.com/static/Form-of-SAFT-for-token-pre-sale.docx
+  form_number: n.a.
+  edition_or_revision_date: null
+  access: Free, no login required
+  copy_policy: link_only
+  quality_notes: Historically significant 2017-vintage industry-standard template; current securities-law review is required before use.
+  last_verified: '2026-08-23'
+
+- id: federal-saft-framework-whitepaper
+  title: 'The SAFT Project: Toward a Compliant Token Sale Framework'
+  jurisdiction: Federal
+  practice_area: digital-assets
+  category: token-sale-framework-reference
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: The SAFT Project
+  source_page_url: https://saftproject.com/
+  document_url: https://saftproject.com/static/SAFT-Project-Whitepaper.pdf
+  form_number: n.a.
+  edition_or_revision_date: October 2, 2017
+  access: Free, no login required
+  copy_policy: link_only
+  quality_notes: Foundational framework reference, not a substitute for current securities analysis.
+  last_verified: '2026-08-23'
+
+- id: federal-lexdao-token-warrant
+  title: Token Warrant Template
+  jurisdiction: Federal
+  practice_area: digital-assets
+  category: token-warrant
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: lexDAO
+  source_page_url: https://github.com/lexDAO/token-warrant
+  document_url: https://github.com/lexDAO/token-warrant/blob/main/template.md
+  form_number: n.a.
+  edition_or_revision_date: 2022-vintage template text; exact last-commit date n.a.
+  access: Free / open source
+  copy_policy: link_only
+  quality_notes: Community/open-source comparison template, not law-firm or bar-association work product; current securities-law review is required.
+  last_verified: '2026-08-23'
+
+- id: federal-montague-token-warrant
+  title: Free Token Warrant (SAFT-Style) Template
+  jurisdiction: Federal
+  practice_area: digital-assets
+  category: token-warrant
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Montague Law
+  source_page_url: https://montague.law/token-warrant/
+  document_url: https://montague.law/wp-content/uploads/2024/12/SAMPLE-TOKEN-WARRANT-FORM-TEMPLATE.docx
+  form_number: n.a.
+  edition_or_revision_date: Page last updated August 14, 2026 (search-index snapshot)
+  access: Free
+  copy_policy: link_only
+  quality_notes: '403 bot-block: source page could not be directly fetched; current status rests on a live search-index snapshot. Manual browser confirmation required. Boutique comparison template only; current securities-law review is required.'
+  last_verified: '2026-08-23'
+
+- id: ny-surrogates-court-forms-overview
+  title: Surrogate’s Court Forms — Overview
+  jurisdiction: NY
+  practice_area: trusts-estates
+  category: surrogates-court-forms
+  source_tier: T1_OFFICIAL
+  publisher: New York State Unified Court System
+  source_page_url: https://ww2.nycourts.gov/forms/surrogates/index.shtml
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: null
+  access: Free; fillable PDFs
+  copy_policy: link_only
+  quality_notes: 'robots.txt / search-index corroboration: direct automated fetch of overview was blocked; current status corroborated via search index. Individual forms revise independently. County Surrogate’s Courts may require local supplements; re-check applicable county before filing. NYSCEF forms: https://iappscontent.courts.state.ny.us/nyscef/live/forms.htm'
+  last_verified: '2026-08-23'
+
+- id: nc-aoc-estate-forms
+  title: Forms — Estate (E) category
+  jurisdiction: NC
+  practice_area: trusts-estates
+  category: estates-court-forms
+  source_tier: T1_OFFICIAL
+  publisher: North Carolina Judicial Branch / Administrative Office of the Courts
+  source_page_url: https://www.nccourts.gov/documents/forms?field_form_type_target_id=2421
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'robots.txt / search-index corroboration: filtered category page was blocked to automated fetch and confirmed through current search-index listing. Individual forms have their own revision stamps; nccourts.gov asset filenames are unstable, so re-verify before filing.'
+  last_verified: '2026-08-23'

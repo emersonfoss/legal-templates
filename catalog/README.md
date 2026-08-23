@@ -7,7 +7,7 @@ A curated, premium-quality catalog of official and market-standard legal forms f
 ## Quality bar / source tiers
 
 - **T1_OFFICIAL:** court/government/agency forms that are authoritative and free.
-- **T2_MARKET_STANDARD_PUBLIC:** SEC EDGAR filed deal exhibits, NVCA model docs, official model orders — real market precedent, free.
+- **T2_MARKET_STANDARD_PUBLIC:** SEC EDGAR filed deal exhibits, NVCA, ILPA, LSTA, NCOIL, SAFT and oneNDA model docs, official model orders — real market precedent, free.
 - **T3_PREMIUM_REFERENCE:** Blumberg, ABA model agreements, Practical Law, PLI, Bloomberg Law, Lexis/Intelligize, Deal Point Data — linked/referenced only, often paywalled; never copied.
 - **EXCLUDED:** LegalZoom, RocketLawyer, AI template generators, random SEO form mirrors — not included; see [excluded-sources.md](excluded-sources.md).
 
@@ -18,7 +18,7 @@ Every entry in [forms.yaml](forms.yaml) carries these fields:
 - `id`
 - `title`
 - `jurisdiction` — `NY`, `NC`, or `Federal`
-- `practice_area` — `corporate-entity-filings`, `commercial-litigation`, `appellate-litigation`, `securities-ma`, `federal-litigation`, `business-court`
+- `practice_area` — `corporate-entity-filings`, `commercial-litigation`, `appellate-litigation`, `securities-ma`, `federal-litigation`, `business-court`, `fund-formation`, `credit-financing`, `ma-transactions`, `shareholder-governance`, `captive-insurance`, `digital-assets`, `trusts-estates`
 - `category`
 - `source_tier` — `T1_OFFICIAL`, `T2_MARKET_STANDARD_PUBLIC`, `T3_PREMIUM_REFERENCE`
 - `publisher`
@@ -58,6 +58,14 @@ Every entry in [forms.yaml](forms.yaml) carries these fields:
 | [federal/sec-official-forms.md](federal/sec-official-forms.md) | SEC official forms and the eCFR primary text for schedules with no PDF. |
 | [federal/securities-ma-edgar.md](federal/securities-ma-edgar.md) | How to pull deal documents from EDGAR, Item 601 exhibit conventions, curated example filings. |
 | [federal/market-standard-public-models.md](federal/market-standard-public-models.md) | NVCA model venture-financing and PIPE documents. |
+| [federal/fund-formation-pe.md](federal/fund-formation-pe.md) | ILPA PE fund-formation templates and AIMA member-gated reference lane. |
+| [federal/credit-financing.md](federal/credit-financing.md) | LSTA credit / loan-trading standard documents and SBA multi-party agreements. |
+| [federal/ma-transactions.md](federal/ma-transactions.md) | oneNDA + M&A, with cross-references to premium ABA models and EDGAR precedent. |
+| [federal/shareholder-governance.md](federal/shareholder-governance.md) | NVCA governance cross-references and the documented general-shareholder-agreement gap. |
+| [federal/captive-insurance.md](federal/captive-insurance.md) | NCOIL, NAIC UCAA, NY DFS, and NC DOI captive-insurance forms and guidance. |
+| [federal/digital-assets.md](federal/digital-assets.md) | SAFT and token-warrant comparison/reference templates. |
+| [ny/estates-surrogates-court.md](ny/estates-surrogates-court.md) | NY Surrogate’s Court official statewide and NYSCEF forms, with county-local caveat. |
+| [nc/estates-aoc.md](nc/estates-aoc.md) | NC AOC Estate (E) category forms, with filename re-verification caveat. |
 
 ## Verification methodology
 
