@@ -5584,3 +5584,147 @@
   quality_notes: Site HTTP 200 on 2026-09-29. Catalog-only directory of open-source legal projects. Not
     vendored. Not a substitute for the primary publisher pages catalogued elsewhere.
   last_verified: '2026-09-29'
+
+- id: ny-cre-nycida-uniform-project-agreement
+  title: NYCIDA Uniform Project Agreement (model / board packet)
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: ida-project-documents
+  source_tier: T1_OFFICIAL
+  publisher: New York City Industrial Development Agency / NYCEDC
+  source_page_url: https://edc.nyc/nycida-compliance
+  document_url: https://edc.nyc/sites/default/files/2025-04/04.%20Uniform%20Project%20Agreement.pdf
+  form_number: null
+  edition_or_revision_date: '2025-04'
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: 'Public NYCIDA model project agreement with PILOT, assignment/consent and cessation provisions. Agency consent for sale/assignment is project-document-driven; no standalone public “sale consent” form. Verified by fetch 2026-09-29.'
+  last_verified: '2026-09-29'
+
+- id: ny-cre-nycida-utep
+  title: NYCIDA Uniform Tax Exemption Policy (UTEP)
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: ida-utep
+  source_tier: T1_OFFICIAL
+  publisher: New York City Industrial Development Agency / NYCEDC
+  source_page_url: https://edc.nyc/
+  document_url: https://edc.nyc/sites/default/files/2020-01/NYCIDA-Uniform-Tax-Exemption-Policy-2019.pdf
+  form_number: null
+  edition_or_revision_date: '2019'
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: 'Agency UTEP governing Financial Assistance Term / PILOT. Confirm current board-adopted UTEP before relying on deviations. Fetched 2026-09-29.'
+  last_verified: '2026-09-29'
+
+- id: ny-cre-nycida-subtenant-consent-bond
+  title: NYCIDA Subleasing Consent Application and Checklist (bond projects)
+  jurisdiction: NY
+  practice_area: cre-leasing
+  category: ida-consent
+  source_tier: T1_OFFICIAL
+  publisher: New York City Industrial Development Agency / NYCEDC
+  source_page_url: https://edc.nyc/nycida-compliance
+  document_url: https://edc.nyc/sites/default/files/2025-01/Subtenant-Application-bond-IDA.pdf
+  form_number: Subtenant-Application-bond-IDA
+  edition_or_revision_date: '2025-01'
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: 'Used for sublease consent; also the closest public Agency consent checklist. Sale/assignment of project leasehold still requires separate Agency/board process under project documents. Fetched 2026-09-29.'
+  last_verified: '2026-09-29'
+
+- id: ny-cre-nycida-subtenant-consent-nonbond
+  title: NYCIDA Subleasing Consent Application and Checklist (non-bond / straight-lease)
+  jurisdiction: NY
+  practice_area: cre-leasing
+  category: ida-consent
+  source_tier: T1_OFFICIAL
+  publisher: New York City Industrial Development Agency / NYCEDC
+  source_page_url: https://edc.nyc/nycida-compliance
+  document_url: https://edc.nyc/sites/default/files/2025-01/Subtenant-Application-IDA-nonbond.pdf
+  form_number: Subtenant-Application-IDA-nonbond
+  edition_or_revision_date: '2025-01'
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: 'Straight-lease / non-bond subtenant consent package. Relevant where operating subleases continue under IDA after sale. Fetched 2026-09-29.'
+  last_verified: '2026-09-29'
+
+- id: ny-cre-nycida-acquisition-disposition-policy
+  title: NYCIDA Policy for the Acquisition and Disposition of Real Property (FY2025)
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: ida-policy
+  source_tier: T1_OFFICIAL
+  publisher: New York City Industrial Development Agency / NYCEDC
+  source_page_url: https://edc.nyc/
+  document_url: https://edc.nyc/sites/default/files/2025-10/Tab%2016.%20NYCIDA%20FY2025%20Acquisition%20and%20Disposition%20of%20Real%20Property.pdf
+  form_number: null
+  edition_or_revision_date: 'Amended through 2025-05-20'
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: 'Agency disposition policy (PAL §2897 framework). Not a project-lease assignment form. Fetched 2026-09-29.'
+  last_verified: '2026-09-29'
+
+- id: ny-cre-buildnyc-subtenant-consent
+  title: Build NYC Resource Corporation Leasing / Subtenant Consent Application
+  jurisdiction: NY
+  practice_area: cre-leasing
+  category: ida-consent
+  source_tier: T1_OFFICIAL
+  publisher: Build NYC Resource Corporation / NYCEDC
+  source_page_url: https://edc.nyc/nycida-compliance
+  document_url: https://edc.nyc/sites/default/files/2025-01/Subtenant-Application-BLD.pdf
+  form_number: Subtenant-Application-BLD
+  edition_or_revision_date: '2025-01'
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: 'Sister-agency consent checklist useful as NYCIDA process precedent when NYCIDA sale forms are thin. Fetched 2026-09-29.'
+  last_verified: '2026-09-29'
+
+- id: ny-cre-tp-584-nyc
+  title: Form TP-584-NYC Combined Real Estate Transfer Tax Return (NYC conveyances)
+  jurisdiction: NY
+  practice_area: cre-acquisitions
+  category: real-property-transfer-tax-return
+  source_tier: T1_OFFICIAL
+  publisher: New York State Department of Taxation and Finance
+  source_page_url: https://www.tax.ny.gov/forms/real_prop_tran_cur_forms.htm
+  document_url: https://www.tax.ny.gov/pdf/current_forms/property/tp584nyc.pdf
+  form_number: TP-584-NYC
+  edition_or_revision_date: Rev. 8/25
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: 'Required for NYC real property conveyances together with ACRIS-generated NYC-RPTT. Instructions TP-584-NYC-I at same forms index. Box TLS to tax.ny.gov failed 2026-09-29; URL from official index / search. Pair with https://www.nyc.gov/site/finance/property/property-real-property-transfer-tax-rptt.page and RP-5217NYC.'
+  last_verified: '2026-09-29'
+
+- id: federal-cre-irs-rev-proc-2002-22-tic
+  title: IRS Revenue Procedure 2002-22 (tenancy-in-common interests — 1031 guidelines)
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: tic-structuring
+  source_tier: T1_OFFICIAL
+  publisher: Internal Revenue Service
+  source_page_url: https://www.irs.gov/
+  document_url: https://www.irs.gov/pub/irs-drop/rp-02-22.pdf
+  form_number: Rev. Proc. 2002-22
+  edition_or_revision_date: '2002'
+  access: Free PDF
+  copy_policy: link_only
+  quality_notes: 'Federal TIC structuring guidelines (not a sale form). Useful background for four-LLC TIC sales / 1031 analysis. Fetched 2026-09-29.'
+  last_verified: '2026-09-29'
+
+- id: federal-cre-edgar-tic-agreement-gipil-sunnyridge
+  title: EDGAR Tenants in Common Agreement + TIC Interest Purchase Agreement (GIPIL / Sunny Ridge)
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: edgar-tic-precedent
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: SEC EDGAR (issuer exhibits)
+  source_page_url: https://www.sec.gov/edgar/search/
+  document_url: https://www.sec.gov/Archives/edgar/data/1651721/000119312521250565/d845232dex1044.htm
+  form_number: EX-10.44 / EX-2.1
+  edition_or_revision_date: '2021-08 / 2023-09'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'Public executed TIC agreement (unanimous sale approval; transfer ROFR/call) and later TIC interest purchase agreement. Companion purchase EX-2.1 https://www.sec.gov/Archives/edgar/data/1651721/000095017023047967/gipr-ex2_1.htm. Precedent only — not York forms. Fetched 2026-09-29.'
+  last_verified: '2026-09-29'
