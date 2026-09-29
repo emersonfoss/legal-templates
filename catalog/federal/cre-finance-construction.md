@@ -20,3 +20,9 @@ Agency lending, CMBS, title, construction and development materials. **LINK ONLY
 | ConsensusDocs Construction Contract Series | construction-contract-suite | ConsensusDocs LLC | [Publisher page](https://www.consensusdocs.org/contract/) | [Document](https://www.consensusdocs.org/wp-content/uploads/2026/04/ConsensusDocs-Contract-Catalog-April-2026.pdf) | Paid annual subscription | Correct series map: 200 general contracting; 300 integrated project delivery; 400 design-build; 500 CM at risk; 700 subcontracting; 800 program management; 900 public-private partnership. First-license annual packages run $230–$1,400. |
 | EJCDC Construction-Related Documents (C-Series) | engineered-construction-contract-suite | Engineers Joint Contract Documents Committee | [Publisher page](https://ejcdc.org/product-category/construction-related-documents/) | [Document](https://ejcdc.org/wp-content/uploads/2019/02/EJCDC-License-Agreement-2018-C-series.pdf) | Paid; some commentary/guidance free | Infrastructure/engineered-work suite. C-700 is the keystone; price examples $290/$300 for C-700, $160/$176 for C-520, $82/$114 for C-620. Resale and uncontrolled public-website posting are expressly prohibited. |
 | DBIA Design-Build Contracts and Free Primers | design-build-contract-suite | Design-Build Institute of America | [Publisher page](https://dbia.org/contracts/) | n.a. | Contracts paid; primers and selected samples free | Progressive design-build benchmark. DBIA 544 costs $150; complete set costs $1,150; members receive 50% discount. Free primers/sample PDFs are useful references but this record is maintained as a premium contracts cross-reference. |
+
+
+## 2026-09-29 gather addenda
+
+- Expanded Fannie Multifamily/DUS form-number catalog: `federal-cre-fannie-dus-form-catalog` (complements existing 6000-series entry).
+- CREFC IRP v8.4 PDF deep link re-verified 200; archived landing-page href returned 404 — see quality_notes on `federal-cre-crefc-irp-84`.

@@ -7,3 +7,9 @@ A consolidated M&A lane: the public, market-standard template is oneNDA + M&A. A
 | oneNDA + M&A | M&A-specific NDA standard template | oneNDA | [oneNDA + M&A](https://www.onenda.org/products/onenda-m-a) | n.a. | Free to use | The product page is the access point; no distinct raw-file URL was confirmed. The only free market-standard template in this lane. |
 | ABA M&A model agreements | Model APA, SPA, public-company merger, tender-offer, and bankruptcy-sale resources | ABA Book Publishing / ABA Business Law Section | [Premium reference sources](../premium-reference-sources.md) | n.a. | Paid purchase / ABA member discount | **Cross-reference only.** The established ABA rows are T3 premium reference material; copyrighted content is never copied. |
 | SEC EDGAR deal precedent | Executed merger, purchase, tender-offer, and related exhibit precedent | U.S. Securities and Exchange Commission | [Securities / M&A EDGAR](securities-ma-edgar.md) | n.a. | Free (EDGAR) | **Cross-reference only.** EDGAR supplies filed market precedent, not a blank negotiation template. |
+
+
+## 2026-09-29 gather addenda
+
+- Free **ABA Model Short Stock Purchase Agreement** (Business Law Today tool, April 2026): catalog id `federal-aba-model-short-spa` — free access, ABA copyright, `reference_only` (distinct from paid Model SPA 2d Ed.).
+- Base **oneNDA v2.1** cataloged as `federal-onenda` (CC BY-ND); see also [commercial-contracts-standards.md](commercial-contracts-standards.md).
