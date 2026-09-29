@@ -16,3 +16,11 @@ National acquisition, title, survey, recording and closing-reference materials. 
 | Uniform Real Property Electronic Recording Act (URPERA) | uniform-model-act-and-recording | Uniform Law Commission | [Publisher page](https://www.uniformlaws.org/acts/catalog/current/r) | n.a. | Free | E-recording enabling model relevant to deed and deed-of-trust closing mechanics. Direct act file URL is n.a.; use state implementation requirements for practice. |
 | Closing Security Checklist / Wire Fraud Protection Guide | closing-security-checklist | First American Title Insurance Company | [Publisher page](https://www.firstam.com/fraud-protection/) | n.a. | Free | Public wire-fraud and closing-security control guidance. The checklist download’s direct file URL, edition and version are n.a.; consumer/residential framing and title-company marketing provenance limit its use. |
 | National Commercial Services Guide and Commercial Title Endorsements Guide | commercial-title-closing-guide | Old Republic Title | [Publisher page](https://www.oldrepublictitle.com/commercial/) | [Document](https://media.oldrepublictitle.com/commercial/national/OR4151-Commercial-Services-Guide-CM.pdf) | Free public PDF | Current commercial title/closing and endorsement checklist material. Marketing collateral, not a form; underwriting FAQ resources are separately gated. |
+
+
+## 2026-09-29 gather addenda
+
+- ALTA/NSPS 2026 `document_url` updated to official NSPS CDN PDF (HTTP 200). Entry `federal-cre-alta-nsps-land-survey-2026`.
+- **CLLS** Certificate of Title 8th ed. 2026 Update: `federal-clls-certificate-of-title-2026`.
+- **ACREL** Fellows library noted as T3 reference_only: `federal-cre-acrel-reports` (nothing downloaded).
+- CLLS Precedent Documents index (broader than CoT alone): `federal-clls-precedent-index`.

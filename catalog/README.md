@@ -2,12 +2,12 @@
 
 A curated, premium-quality catalog of official and market-standard legal forms for a corporate / private-equity / securities / M&A and commercial-litigation practice spanning New York, North Carolina, and the federal courts and agencies.
 
-**LINK ONLY.** No forms are copied into this repository. Every entry points to the publisher's own page and, where confirmable, the publisher's own document URL. Nothing paywalled or commercial is reproduced here.
+**Default: LINK ONLY.** Court/government and paywalled forms are never copied into this repository. Open-licensed collections (CC0 / CC BY / MIT) may be vendored as git submodules under `sources/` with licenses preserved; catalog `copy_policy` controls further copying. Nothing Practical Law / Bloomberg / Lexis / Westlaw / Bender is reproduced here.
 
 ## Quality bar / source tiers
 
 - **T1_OFFICIAL:** court/government/agency forms that are authoritative and free.
-- **T2_MARKET_STANDARD_PUBLIC:** SEC EDGAR filed deal exhibits, NVCA, ILPA, LSTA, NCOIL, SAFT and oneNDA model docs, official model orders — real market precedent, free.
+- **T2_MARKET_STANDARD_PUBLIC:** SEC EDGAR filed deal exhibits, NVCA, ILPA, LSTA, NCOIL, SAFT, oneNDA, Bonterms, Common Paper, Series Seed / Cooley / Bloomberg Beta / BEIPA, Fannie DUS / FDIC public P&As, CLLS UK precedents, and legal-AI datasets (CUAD/MAUD/ACORD/LegalBench/Harvey LAB) — real market precedent or open research corpora, free or openly licensed.
 - **T3_PREMIUM_REFERENCE:** Blumberg, ABA model agreements, Practical Law, PLI, Bloomberg Law, Lexis/Intelligize, Deal Point Data — linked/referenced only, often paywalled; never copied.
 - **EXCLUDED:** LegalZoom, RocketLawyer, AI template generators, random SEO form mirrors — not included; see [excluded-sources.md](excluded-sources.md).
 
@@ -18,7 +18,7 @@ Every entry in [forms.yaml](forms.yaml) carries these fields:
 - `id`
 - `title`
 - `jurisdiction` — `NY`, `NC`, or `Federal`
-- `practice_area` — `corporate-entity-filings`, `commercial-litigation`, `appellate-litigation`, `securities-ma`, `federal-litigation`, `business-court`, `fund-formation`, `credit-financing`, `ma-transactions`, `shareholder-governance`, `captive-insurance`, `digital-assets`, `trusts-estates`, `cre-acquisitions`, `cre-leasing`, `cre-finance`, `cre-construction`
+- `practice_area` — `corporate-entity-filings`, `commercial-litigation`, `appellate-litigation`, `securities-ma`, `federal-litigation`, `business-court`, `fund-formation`, `credit-financing`, `ma-transactions`, `shareholder-governance`, `captive-insurance`, `digital-assets`, `trusts-estates`, `cre-acquisitions`, `cre-leasing`, `cre-finance`, `cre-construction`, `commercial-contracts`, `legal-ai`
 - `category`
 - `source_tier` — `T1_OFFICIAL`, `T2_MARKET_STANDARD_PUBLIC`, `T3_PREMIUM_REFERENCE`
 - `publisher`
@@ -70,6 +70,10 @@ Every entry in [forms.yaml](forms.yaml) carries these fields:
 | [federal/shareholder-governance.md](federal/shareholder-governance.md) | NVCA governance cross-references and the documented general-shareholder-agreement gap. |
 | [federal/captive-insurance.md](federal/captive-insurance.md) | NCOIL, NAIC UCAA, NY DFS, and NC DOI captive-insurance forms and guidance. |
 | [federal/digital-assets.md](federal/digital-assets.md) | SAFT and token-warrant comparison/reference templates. |
+| [federal/commercial-contracts-standards.md](federal/commercial-contracts-standards.md) | Bonterms, Common Paper, and oneNDA open commercial standards (Lane A). |
+| [federal/seed-financing-open-models.md](federal/seed-financing-open-models.md) | Series Seed, Cooley fork, Bloomberg Beta, YC SAFE, BEIPA (Lane D). |
+| [federal/legal-ai-datasets.md](federal/legal-ai-datasets.md) | CUAD, MAUD, ACORD, LegalBench, Harvey LAB (Lane E). |
+| [federal/bank-resolution-fdic.md](federal/bank-resolution-fdic.md) | FDIC basic and executed Purchase & Assumption agreements (Lane C). |
 | [ny/estates-surrogates-court.md](ny/estates-surrogates-court.md) | NY Surrogate’s Court official statewide and NYSCEF forms, with county-local caveat. |
 | [nc/estates-aoc.md](nc/estates-aoc.md) | NC AOC Estate (E) category forms, with filename re-verification caveat. |
 

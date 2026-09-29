@@ -14,3 +14,10 @@ Market-standard leveraged-finance, private-credit, and loan-trading materials fr
 | Master Participation Agreement for Par/Near Par Trades | Participation transaction-specific terms and standard terms | LSTA | [TSTs (July 23, 2025)](https://www.lsta.org/content/master-participation-agreement-for-par-near-par-trades-tsts-jul-23-2025/) · [STCs (May 4, 2026)](https://www.lsta.org/content/master-participation-agreement-for-par-near-par-trades-stcs-may-04-2026/) | n.a. | Member-gated (LSTA) | Core secondary-trading participation package. Listed filenames are `Master-Participation-Agreement-for-ParNear-Par-Trades-TSTs-23Jul25.docx` and `Master Participation Agreement for ParNear Par Trades STCs_04May26.docx`; exact URLs are **n.a.** |
 | Secondary Trading Documents | Par/distressed participation, purchase-and-sale, confirms, and netting suite | LSTA | [Standard Documents Archives](https://www.lsta.org/content-category/standard-documents/) | n.a. | Member-gated (LSTA) | Includes participation agreements, distressed-trade purchase and sale agreements, par confirms, and bilateral netting agreement; current listed batch dated August 15, 2025. Exact direct URLs are **n.a.** |
 | SBA Multi-Party Agreements | 7(a) secured-credit / securitization templates | U.S. Small Business Administration, Office of Capital Access | [SBA Multi-Party Agreements](https://legacy.sba.gov/document/support-sba-multi-party-agreements) | n.a. | Free | Effective August 18, 2025; page last updated August 25, 2025. Downloadable ZIP is linked from the official page, but its exact file URL is **n.a.** |
+
+
+## 2026-09-29 gather addenda
+
+- **ISDA** bookstore hub: `federal-isda-documentation-hub` (T3 / commercial_purchase).
+- **LMA** documents hub: `federal-lma-documentation-hub` (T3 / reference_only; member login).
+- **FDIC P&As:** see [bank-resolution-fdic.md](bank-resolution-fdic.md).

@@ -26,3 +26,10 @@ Official hub (fetched): [NVCA Model Legal Documents](https://nvca.org/model-lega
 | Model PIPE Form of Ordinary Warrant (FPI) | Foreign-private-issuer PIPE warrant | NVCA | [NVCA Model Legal Documents](https://nvca.org/model-legal-documents/) | [FPI ordinary warrant](https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Ordinary-Warrant-FPI-updated-8.11.25.docx) | Free download (.docx) | FPI PIPE suite — last updated August 2025 |
 | Model PIPE Form of Pre-Funded Warrant (FPI) | Foreign-private-issuer PIPE warrant | NVCA | [NVCA Model Legal Documents](https://nvca.org/model-legal-documents/) | [FPI pre-funded warrant](https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Pre-Funded-Warrant-FPI-Final.docx) | Free download (.docx) | FPI PIPE suite — last updated August 2025 |
 | Diligence questionnaires (Directors & Executive Officers; 5% holders in connection with a public offering) | D&O questionnaires | NVCA | [NVCA Model Legal Documents](https://nvca.org/model-legal-documents/) | [NVCA-Form-of-5-Questionnaire-for-IPO-Direct-Listing-or-DeSPAC.docx](https://nvca.org/wp-content/uploads/2021/09/NVCA-Form-of-5-Questionnaire-for-IPO-Direct-Listing-or-DeSPAC.docx) (URL surfaced from nvca.org indexing; not opened) · D&O questionnaire direct URL: n.a. | Free download | Useful IPO-readiness diligence forms |
+
+## 2026-09-29 gap-fill
+
+Individual NVCA PIPE SPA entries (also still covered by hub `federal-nvca-model-pipe-package`):
+
+- `federal-nvca-pipe-spa-us-issuer-jun-2025` — US Issuer SPA, June 2025 CORRECTED `.docx` (HTTP 200).
+- `federal-nvca-pipe-spa-fpi-aug-2025` — FPI SPA updated 2025-08-11 (HTTP 200).

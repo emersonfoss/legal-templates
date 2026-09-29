@@ -10,3 +10,78 @@
 [submodule "sources/latexlaw"]
 	path = sources/latexlaw
 	url = https://github.com/anoduck/LatexLaw.git
+[submodule "sources/seriesseed-equity"]
+	path = sources/seriesseed-equity
+	url = https://github.com/seriesseed/equity.git
+[submodule "sources/cooley-seriesseed"]
+	path = sources/cooley-seriesseed
+	url = https://github.com/CooleyLLP/seriesseed.git
+[submodule "sources/bloomberg-beta-investment-documents"]
+	path = sources/bloomberg-beta-investment-documents
+	url = https://github.com/Bloomberg-Beta/Investment-Documents.git
+[submodule "sources/beipa-balanced-employee-ip-agreement"]
+	path = sources/beipa-balanced-employee-ip-agreement
+	url = https://github.com/github/balanced-employee-ip-agreement.git
+[submodule "sources/bonterms-mutual-nda"]
+	path = sources/bonterms-mutual-nda
+	url = https://github.com/Bonterms/Mutual-NDA.git
+[submodule "sources/bonterms-cloud-terms"]
+	path = sources/bonterms-cloud-terms
+	url = https://github.com/Bonterms/Cloud-Terms.git
+[submodule "sources/bonterms-professional-services-agreement"]
+	path = sources/bonterms-professional-services-agreement
+	url = https://github.com/Bonterms/Professional-Services-Agreement.git
+[submodule "sources/bonterms-data-protection-addendum"]
+	path = sources/bonterms-data-protection-addendum
+	url = https://github.com/Bonterms/Data-Protection-Addendum.git
+[submodule "sources/bonterms-service-level-agreement"]
+	path = sources/bonterms-service-level-agreement
+	url = https://github.com/Bonterms/Service-Level-Agreement.git
+[submodule "sources/bonterms-business-associate-agreement"]
+	path = sources/bonterms-business-associate-agreement
+	url = https://github.com/Bonterms/Business-Associate-Agreement.git
+[submodule "sources/commonpaper-mutual-nda"]
+	path = sources/commonpaper-mutual-nda
+	url = https://github.com/CommonPaper/Mutual-NDA.git
+[submodule "sources/commonpaper-csa"]
+	path = sources/commonpaper-csa
+	url = https://github.com/CommonPaper/CSA.git
+[submodule "sources/commonpaper-dpa"]
+	path = sources/commonpaper-dpa
+	url = https://github.com/CommonPaper/DPA.git
+[submodule "sources/commonpaper-psa"]
+	path = sources/commonpaper-psa
+	url = https://github.com/CommonPaper/PSA.git
+[submodule "sources/commonpaper-sla"]
+	path = sources/commonpaper-sla
+	url = https://github.com/CommonPaper/SLA.git
+[submodule "sources/atticus-cuad"]
+	path = sources/atticus-cuad
+	url = https://github.com/The-Atticus-Project/cuad.git
+[submodule "sources/atticus-maud"]
+	path = sources/atticus-maud
+	url = https://github.com/The-Atticus-Project/maud.git
+[submodule "sources/atticus-acord"]
+	path = sources/atticus-acord
+	url = https://github.com/TheAtticusProject/acord.git
+[submodule "sources/legalbench"]
+	path = sources/legalbench
+	url = https://github.com/HazyResearch/legalbench.git
+[submodule "sources/commonpaper-software-license-agreement"]
+	path = sources/commonpaper-software-license-agreement
+	url = https://github.com/CommonPaper/Software-License-Agreement.git
+[submodule "sources/commonpaper-pilot-agreement"]
+	path = sources/commonpaper-pilot-agreement
+	url = https://github.com/CommonPaper/Pilot-Agreement.git
+[submodule "sources/llc-delaware-simple"]
+	path = sources/llc-delaware-simple
+	url = https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple.git
+[submodule "sources/legalmattic"]
+	path = sources/legalmattic
+	url = https://github.com/Automattic/legalmattic.git
+[submodule "sources/basecamp-policies"]
+	path = sources/basecamp-policies
+	url = https://github.com/basecamp/policies.git
+[submodule "sources/github-site-policy"]
+	path = sources/github-site-policy
+	url = https://github.com/github/site-policy.git

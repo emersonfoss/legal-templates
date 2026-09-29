@@ -33,3 +33,8 @@
 | ABA RPTE commercial real-estate formbooks | PSA, ground-lease and commercial-lease formbooks/commentary | American Bar Association | [Commercial real-estate transactions guide](https://www.americanbar.org/products/inv/book/257973140/) | Paid purchase; price login-gated | Includes PSA, due-diligence/closing and commercial-lease reference materials. Reference only. |
 | NYSBA Real Property Law Section | NY commercial leasing, real-property forms and commentary | New York State Bar Association | [Real Property Law Section](https://nysba.org/committees/real-property-law-section/) | Member / purchase-gated | Forms and treatises are premium reference sources. Reference only. |
 | North Carolina Bar Association Real Property Section | NC real-property forms and CLE resources | North Carolina Bar Association | [North Carolina Real Property Forms Book](https://cle.ncbar.org/courses/59296) | Paid CLE publication | Forms book includes commercial closing, diligence and leasing references; price n.a. Reference only. |
+
+
+## Gather confirmation (2026-09-29)
+
+Lane F check: Practical Law / Thomson Reuters rows above remain **reference_only**. No Practical Law, Bloomberg Law, Lexis, Westlaw, or Matthew Bender document bodies were added to git in the 2026-09-29 premium-expansion gather. Drive-held premium packs stay on Drive.
