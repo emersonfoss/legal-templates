@@ -5856,3 +5856,273 @@
   copy_policy: link_only
   quality_notes: 'Series formation form. Notes that liability limitations must be set forth in the operating agreement and in the articles. Still no model OA from SOS.'
   last_verified: '2026-09-29'
+- id: federal-edgar-alphabet-ar-coi-2022
+  title: Alphabet Inc. — Amended & Restated Certificate of Incorporation (Class A/B Common + Class C Capital)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: ipo-charter
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Alphabet Inc. (CIK 0001652044), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1652044/000119312522167375/0001193125-22-167375-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1652044/000119312522167375/d294315dex301.htm
+  form_number: EX-3.01
+  edition_or_revision_date: 'Filed / effective 2022-06-03'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Premier dual/tri-class charter. Class A one vote, Class B ten votes, Class C non-voting capital stock. Verified HTML opens with Class A/B/C authorized-share architecture.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-meta-ar-coi-2021
+  title: Meta Platforms, Inc. (f/k/a Facebook) — Amended & Restated Certificate of Incorporation (Class A/B)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: ipo-charter
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Meta Platforms, Inc. (CIK 0001326801), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1326801/000132680121000071/0001326801-21-000071-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1326801/000132680121000071/a20211028-exhibit31.htm
+  form_number: EX-3.1
+  edition_or_revision_date: 'Filed 2021-10-28 (name-change restatement)'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Classic dual-class: Class A one vote / Class B ten votes. Verified vote-per-share language in HTML.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-airbnb-form-of-restated-coi-2020
+  title: Airbnb, Inc. — Form of Restated Certificate of Incorporation (IPO dual/tri-class)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: ipo-charter
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Airbnb, Inc. (CIK 0001559720), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1559720/000119312520306257/0001193125-20-306257-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1559720/000119312520306257/d81668dex32.htm
+  form_number: EX-3.2
+  edition_or_revision_date: 'S-1/A filed 2020-11-19 (form of, effective at IPO)'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Best Airbnb IPO form-of specimen. Class B + Class C; twenty (20) votes on Class B. Clean white-shoe dual-class architecture. Pre-IPO Restated COI EX-3.1 companion: https://www.sec.gov/Archives/edgar/data/1559720/000119312520306257/d81668dex31.htm'
+  last_verified: '2026-09-29'
+- id: federal-edgar-doordash-form-of-restated-coi-2020
+  title: DoorDash, Inc. — Form of Restated Certificate of Incorporation (Class A/B/C)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: ipo-charter
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: DoorDash, Inc. (CIK 0001792789), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1792789/000119312520292381/0001193125-20-292381-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1792789/000119312520292381/d752207dex32.htm
+  form_number: EX-3.2
+  edition_or_revision_date: 'S-1 filed 2020-11-13 (form of, effective at IPO)'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Co-founder high-vote Class B + non-voting Class C architecture. Verified Class B/C present in HTML.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-snap-form-of-ar-coi-2017
+  title: Snap Inc. — Form of Amended & Restated Certificate of Incorporation (non-voting Class A structure)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: ipo-charter
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Snap Inc. (CIK 0001564408), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1564408/000119312517029199/0001193125-17-029199-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1564408/000119312517029199/d270216dex32.htm
+  form_number: EX-3.2
+  edition_or_revision_date: 'S-1 filed 2017-02-02 (form of, effective at IPO)'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Signature Snap non-voting Class A / Class B / Class C architecture. Pre-IPO A&R COI EX-3.1 companion also verified. Related S-1/A underwriting already catalogued as federal-edgar-snap-s1a-2017-ipo.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-lyft-form-of-restated-coi-2019
+  title: Lyft, Inc. — Form of Restated Certificate of Incorporation (dual-class)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: ipo-charter
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Lyft, Inc. (CIK 0001759509), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1759509/000119312519059849/0001193125-19-059849-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1759509/000119312519059849/d633517dex32.htm
+  form_number: EX-3.2
+  edition_or_revision_date: 'S-1 filed 2019-03-01 (form of, effective at IPO)'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Co-founder dual-class form of IPO charter. Class B present; one-vote Class A language verified. Note: EX-3.4 on later S-1/A is bylaws, not COI.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-rivian-ar-coi-2021
+  title: Rivian Automotive, Inc. — Amended & Restated Certificate of Incorporation (Class A/B)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: ipo-charter
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Rivian Automotive, Inc. (CIK 0001874178), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1874178/000119312521315537/0001193125-21-315537-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1874178/000119312521315537/d157488dex33.htm
+  form_number: EX-3.3
+  edition_or_revision_date: 'S-1/A filed 2021-11-01'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Class A one vote / Class B ten votes. Verified in HTML. EV dual-class IPO specimen.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-palantir-ar-coi-2022
+  title: Palantir Technologies Inc. — Amended & Restated Certificate of Incorporation (Class A/B/F)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: ipo-charter
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Palantir Technologies Inc. (CIK 0001321655), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1321655/000119312522313008/0001193125-22-313008-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1321655/000119312522313008/d398605dex31.htm
+  form_number: EX-3.1
+  edition_or_revision_date: 'Effective 2022-12-27'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Multi-class with Class F founder shares; Class B ten votes. Prefer this post-IPO restatement over the 2020 preferred-heavy pre-direct-listing COI.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-pinterest-restated-coi-2025
+  title: Pinterest, Inc. — Restated Certificate of Incorporation (Class A/B)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: ipo-charter
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Pinterest, Inc. (CIK 0001506293), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1506293/000150629325000123/0001506293-25-000123-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1506293/000150629325000123/aexhrestatedcertificateofi.htm
+  form_number: EX-3.3
+  edition_or_revision_date: 'Restatement integrating prior amendments through 2025'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Class A one vote / Class B twenty votes. Verified vote-per-share language. Long-running dual-class specimen.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-snap-underwriting-agreement-2017
+  title: Snap Inc. — Form of Underwriting Agreement (IPO EX-1.1)
+  jurisdiction: US
+  practice_area: securities-ma
+  category: underwriting-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Snap Inc. (CIK 0001564408); reps Morgan Stanley / Goldman Sachs'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1564408/000119312517045870/0001193125-17-045870-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1564408/000119312517045870/d270216dex11.htm
+  form_number: EX-1.1
+  edition_or_revision_date: 'S-1/A filed 2017-02-16'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Firm + selling-stockholder + directed-share program. Verified opens as UNDERWRITING AGREEMENT for Class A common stock. Also referenced from federal-edgar-snap-s1a-2017-ipo.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-airbnb-underwriting-agreement-2020
+  title: Airbnb, Inc. — Form of Underwriting Agreement (IPO EX-1.1)
+  jurisdiction: US
+  practice_area: securities-ma
+  category: underwriting-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Airbnb, Inc. (CIK 0001559720); reps Morgan Stanley / Goldman Sachs'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1559720/000119312520306257/0001193125-20-306257-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1559720/000119312520306257/d81668dex11.htm
+  form_number: EX-1.1
+  edition_or_revision_date: 'S-1/A filed 2020-11-19'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Company + selling stockholders; MS directed-share program. Verified UNDERWRITING AGREEMENT header.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-doordash-underwriting-agreement-2020
+  title: DoorDash, Inc. — Form of Underwriting Agreement (IPO EX-1.1)
+  jurisdiction: US
+  practice_area: securities-ma
+  category: underwriting-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: DoorDash, Inc. (CIK 0001792789); reps Goldman Sachs / J.P. Morgan'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1792789/000119312520304953/0001193125-20-304953-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1792789/000119312520304953/d752207dex11.htm
+  form_number: EX-1.1
+  edition_or_revision_date: 'S-1/A filed 2020-11-30'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'GS/JPM reps; Class A common. Verified Underwriting Agreement header.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-lyft-underwriting-agreement-2019
+  title: Lyft, Inc. — Form of Underwriting Agreement (IPO EX-1.1)
+  jurisdiction: US
+  practice_area: securities-ma
+  category: underwriting-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Lyft, Inc. (CIK 0001759509), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1759509/000119312519077391/0001193125-19-077391-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1759509/000119312519077391/d633517dex11.htm
+  form_number: EX-1.1
+  edition_or_revision_date: 'S-1/A filed 2019-03-18'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Underwritten + option shares. Verified Underwriting Agreement for Class A Common Stock.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-snowflake-underwriting-agreement-2020
+  title: Snowflake Inc. — Form of Underwriting Agreement (IPO EX-1.1)
+  jurisdiction: US
+  practice_area: securities-ma
+  category: underwriting-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Snowflake Inc. (CIK 0001640147), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1640147/000162828020013518/0001628280-20-013518-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1640147/000162828020013518/exhibit11.htm
+  form_number: EX-1.1
+  edition_or_revision_date: 'S-1/A filed 2020-09-08'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Firm + optional shares; Class A Common Stock. Verified. Note: 2025 Snowflake A&R COI is single-class (dual-class sunset) and was rejected for the dual-class charter pack.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-rivian-underwriting-agreement-2021
+  title: Rivian Automotive, Inc. — Form of Underwriting Agreement (IPO EX-1.1)
+  jurisdiction: US
+  practice_area: securities-ma
+  category: underwriting-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Rivian Automotive, Inc. (CIK 0001874178); reps Morgan Stanley / Goldman Sachs / J.P. Morgan'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1874178/000119312521315537/0001193125-21-315537-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1874178/000119312521315537/d157488dex11.htm
+  form_number: EX-1.1
+  edition_or_revision_date: 'S-1/A filed 2021-11-01'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'MS/GS/JPM reps; Class A Common Stock. Verified UNDERWRITING AGREEMENT header.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-facebook-whatsapp-merger-agreement-2014
+  title: Facebook / WhatsApp — Agreement and Plan of Merger and Reorganization (private target)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: merger-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Facebook, Inc. (CIK 0001326801), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1326801/000132680114000023/0001326801-14-000023-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1326801/000132680114000023/fb-3312014xex21.htm
+  form_number: EX-2.1
+  edition_or_revision_date: 'Dated 2014-02-19; filed with 10-Q for quarter ended 2014-03-31'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Premier private-target tech M&A. Dual-sub merger; Fortis Advisors LLC as Stockholders’ Agent. Confidential-treatment schedule omissions typical. Verified AGREEMENT AND PLAN OF MERGER AND REORGANIZATION header + WhatsApp Inc. as company.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-facebook-oculus-merger-agreement-2014
+  title: Facebook / Oculus VR — Amended & Restated Agreement and Plan of Merger (private target)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: merger-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Facebook, Inc. (CIK 0001326801), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1326801/000132680114000023/0001326801-14-000023-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1326801/000132680114000023/fb-3312014xex22.htm
+  form_number: EX-2.2
+  edition_or_revision_date: 'Dated 2014-04-21; filed with 10-Q for quarter ended 2014-03-31'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Private-target tech M&A. Shareholder Representative Services LLC as Stockholders’ Agent (SRS Acquiom market role). Verified A&R Agreement and Plan of Merger header + Oculus VR, Inc.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-adobe-figma-merger-agreement-2022
+  title: Adobe / Figma — Agreement and Plan of Merger (private target; deal later terminated)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: merger-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Adobe Inc. (CIK 0000796343), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/796343/000114036122033412/0001140361-22-033412-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/796343/000114036122033412/ny20005310x2_ex2-1.htm
+  form_number: EX-2.1
+  edition_or_revision_date: 'Dated 2022-09-15; filed with Adobe 8-K'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Recent white-shoe private-target bones (dual-sub; Fortis as Representative). Deal was subsequently terminated under regulatory pressure — still the cleanest recent publicly filed private-tech merger agreement specimen. Verified AGREEMENT AND PLAN OF MERGER header + Figma, Inc.'
+  last_verified: '2026-09-29'
