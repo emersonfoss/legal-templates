@@ -5584,3 +5584,275 @@
   quality_notes: Site HTTP 200 on 2026-09-29. Catalog-only directory of open-source legal projects. Not
     vendored. Not a substitute for the primary publisher pages catalogued elsewhere.
   last_verified: '2026-09-29'
+
+- id: federal-edgar-zuffa-parent-llc-oa-2019
+  title: Zuffa Parent, LLC — Amendment No. 3 to the Second A&R LLC Agreement (UFC / Endeavor)
+  jurisdiction: Federal
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Endeavor Group Holdings, Inc. (CIK 0001766363), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1766363/000119312519201302/0001193125-19-201302-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1766363/000119312519201302/d681105dex1019.htm
+  form_number: EX-10.19
+  edition_or_revision_date: Amendment No. 3 dated 2019-03-14 to the Second A&R agreement dated 2016-08-18; filed 2019-07-24
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Delaware multi-class LLC. Class A and Class B common units, profits units, drag-along sale (7.05), tag-along (7.04), ROFO (7.06), ROFR (7.07). SEC confidential-treatment redactions. Not a VC Series preferred stack. Do not commit the HTML to this repo.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-carvana-group-llc-5th-ar-2020
+  title: Carvana Group, LLC — Fifth Amended and Restated LLC Agreement
+  jurisdiction: Federal
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Carvana Co. (CIK 0001690820), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1690820/000119312520263341/0001193125-20-263341-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1690820/000119312520263341/d42993dex101.htm
+  form_number: EX-10.1
+  edition_or_revision_date: Executed 2020-10-02
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Delaware Up-C. Live Class A common units, Class B common units, Class A non-convertible preferred units (3.14), and Class B convertible preferred units (3.15). Exchange/redemption mechanics. No drag-along article. Preferred units still outstanding — best post-IPO preferred specimen in this set.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-zevia-llc-13th-ar-2021
+  title: Zevia LLC — Thirteenth Amended and Restated LLC Agreement (IPO form)
+  jurisdiction: Federal
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Zevia PBC (CIK 0001854139), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1854139/000119312521212508/0001193125-21-212508-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1854139/000119312521212508/d115565dex101.htm
+  form_number: EX-10.1
+  edition_or_revision_date: IPO form filed 2021-07-12 (date blank in the form)
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Delaware. Recites conversion of prior preferred units and common units. Post-restatement Class A and Class B common units with exchange into Class A common stock. Drag-along section 8.3. Managing-member Up-C. Preferred waterfall is historical, not the operative post-IPO stack.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-shift4-payments-llc-6th-ar-2020
+  title: Shift4 Payments, LLC — Sixth Amended and Restated LLC Agreement (IPO form)
+  jurisdiction: Federal
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Shift4 Payments, Inc. (CIK 0001794669), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1794669/000119312520156458/0001193125-20-156458-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1794669/000119312520156458/d829549dex102.htm
+  form_number: EX-10.2
+  edition_or_revision_date: IPO form filed 2020-06-01
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Delaware Up-C. Historical Class A, Class B, and preferred units incorporated by reference to the initial agreement. Pairs units with Class A, Class B, and Class C common stock. Managing member. No drag-along caption in this restatement. Same family as the CWGS Enterprises agreement.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-cwgs-enterprises-llc-oa-2016
+  title: CWGS Enterprises, LLC — Amended and Restated LLC Agreement (Camping World IPO form)
+  jurisdiction: Federal
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Camping World Holdings, Inc. (CIK 0001669779), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1669779/000104746916015697/0001047469-16-015697-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1669779/000104746916015697/a2229814zex-10_3.htm
+  form_number: EX-10.3
+  edition_or_revision_date: IPO form filed 2016-09-26
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Delaware Up-C. Preferred units and profits units recited from the initial agreement. Drag-along section 10.09 plus redemption/exchange. Same drafting family as Shift4 Payments, LLC. Use this one when the drag section is the point.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-waterbridge-infrastructure-llc-oa-2025
+  title: WaterBridge Infrastructure LLC — form of First A&R LLC Agreement
+  jurisdiction: Federal
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: WaterBridge Infrastructure LLC (CIK 0002064947), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2064947/000095017025112682/0000950170-25-112682-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2064947/000095017025112682/wbi-ex3_3.htm
+  form_number: EX-3.3
+  edition_or_revision_date: IPO form filed 2025-09-03
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'The public issuer is a Delaware LLC. Class A Shares and Class B Shares (sections 3.5 and 3.6), each an LLC interest. Member vote for directors (section 14.6). Board-managed. No drag-along located. Not a preferred-unit waterfall. Most recent public multi-class Delaware LLC charter in this set.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-viant-equity-plan-llc-oa-2017
+  title: Viant Technology Equity Plan LLC — LLC Agreement
+  jurisdiction: Federal
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Viant Technology Inc. (CIK 0001828791), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1828791/000119312521023519/0001193125-21-023519-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1828791/000119312521023519/d88953dex1014.htm
+  form_number: EX-10.14
+  edition_or_revision_date: Dated 2017-03-14; filed 2021-02-01
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Delaware incentive-equity vehicle, not the operating company. Drag-along 9.10, tag-along 9.9, waterfall cross-reference in section 13.2 used in the drag calculation, board of managers. Viant preferred units are an as-converted input, not this LLC''s own preferred class. Do not use as an OpCo charter.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-iqvia-rds-latam-llc-oa-nc-2023
+  title: IQVIA RDS Latin America LLC — Second A&R LLC Agreement (North Carolina)
+  jurisdiction: NC
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: IQVIA Holdings Inc. (CIK 0001478242), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1478242/000119312524003405/0001193125-24-003405-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1478242/000119312524003405/d550629dex346.htm
+  form_number: EX-3.46
+  edition_or_revision_date: Dated 2023-11-10; signed as of 2023-12-29; filed 2024-01-05
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'North Carolina LLC under the NC LLC Act; NC governing law. Class A common units, Class B common units, and 1,000 Class A preferred units. Board-managed. No drag-along located. Premier NC multi-class specimen. NC SOS articles of organization are a separate catalog entry (nc-l-01) and are not this agreement.'
+  last_verified: '2026-09-29'
+- id: federal-edgar-forest-city-master-iii-llc-oa-ny-2006
+  title: Forest City Master Associates III, LLC — A&R LLC operating agreement (New York)
+  jurisdiction: NY
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer: Forest City Enterprises, Inc. (CIK 0000038067), SEC EDGAR'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/38067/000095012309041776/0000950123-09-041776-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/38067/000095012309041776/l37308exv10w37.htm
+  form_number: Embedded in EX-10.37 (master contribution and sale agreement)
+  edition_or_revision_date: 2006 form; parent exhibit filed 2009-09-09
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'New York LLC (Forest City / Ratner). The operating agreement is not its own exhibit; it is inside EX-10.37. Class A common units and Class B common units, with a Class A distribution preference and cumulative distribution shortfall. Member consent governance. Not a dual-class vote stack and no drag/tag inside the OA. Date is blank. Parent exhibit uses confidential-treatment omissions. Manning & Napier Capital Company, L.L.C. (NY, single-class percentage interests) was reviewed and excluded.'
+  last_verified: '2026-09-29'
+
+- id: wy-edgar-spark-fund-one-llc-oa-2024
+  title: Spark Fund One, LLC — Operating Agreement (Wyoming; Class A / Class B)
+  jurisdiction: WY
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer CIK 0002041773, SEC EDGAR (Reg CF / fund syndication style)'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2041773/000204177325000001/0002041773-25-000001-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2041773/000204177325000001/ex3spark.htm
+  form_number: EX-3
+  edition_or_revision_date: 'Effective 2024-09-17'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Wyoming LLC Act OA. Manager-managed. Class A Members (aggregate 70%) and Class B Members (30%). Class voting. Useful multi-class / multi-voting Wyoming precedent, but Reg CF / retail-fund drafting — NOT white-shoe Up-C or PE HoldCo caliber. Do not commit the HTML.'
+  last_verified: '2026-09-29'
+- id: wy-edgar-north-star-recovery-llc-oa-2025
+  title: North Star Recovery & Wellness, LLC — A&R Operating Agreement (Wyoming; Class A/B/C/M)
+  jurisdiction: WY
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer CIK 0002035411, SEC EDGAR (Reg CF / fund syndication style)'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2035411/000149315225006082/0001493152-25-006082-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2035411/000149315225006082/ex2-2.htm
+  form_number: EX-2.2
+  edition_or_revision_date: 'Effective 2025-02-11'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Wyoming LLC Act OA. Class A, B, C investor units plus Class M manager units with preferred-return waterfalls by class. Strong multi-class economics specimen. Reg CF / syndication style — not premier corporate.'
+  last_verified: '2026-09-29'
+- id: wy-edgar-gratus-reserve-v-llc-oa-2025
+  title: Gratus Reserve V, LLC — Operating Agreement (Wyoming; Class AA/A/B/C/M)
+  jurisdiction: WY
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer CIK 0002100527, SEC EDGAR (Reg CF / fund syndication style)'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2100527/000182912626002923/0001829126-26-002923-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2100527/000182912626002923/gratusreserve5_ex2-2.htm
+  form_number: EX-2.2
+  edition_or_revision_date: 'Effective 2025-08-27'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Wyoming LLC Act OA. Four investor classes (AA/A/B/C) plus Class M. Investor Class may remove Manager for Good Cause; Class M controls most reserved votes. Multi-class + multi-voting, but retail-fund drafting.'
+  last_verified: '2026-09-29'
+- id: wy-edgar-silver-david-llc-oa-2023
+  title: Silver David, LLC — Operating Agreement (Wyoming; Class A non-voting / Class B voting)
+  jurisdiction: WY
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer CIK 0002010344, SEC EDGAR (Reg CF / fund syndication style)'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2010344/000109690624000160/0001096906-24-000160-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2010344/000109690624000160/oa.pdf
+  form_number: oa.pdf exhibit
+  edition_or_revision_date: 'Effective 2023-12-19'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Wyoming LLC Act OA. Clean Class A non-voting / Class B voting split. Manager-managed. Reg CF style, not white-shoe.'
+  last_verified: '2026-09-29'
+- id: wy-edgar-nbs-fund-2-llc-oa-2025
+  title: NBS Fund 2 LLC — A&R Operating Agreement (Wyoming; Class A / Class B)
+  jurisdiction: WY
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer CIK 0002078932, SEC EDGAR (Reg CF / fund syndication style)'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2078932/000109690625001528/0001096906-25-001528-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2078932/000109690625001528/ex_c-operating_agreement.pdf
+  form_number: EX-C
+  edition_or_revision_date: 'Effective 2025-08-08'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Wyoming LLC Act OA. Class A Units (limited voting) and Class B Units (manager). Preferred return then 70/30 split. Fund blocker, not LPA; still Reg CF style.'
+  last_verified: '2026-09-29'
+- id: wy-edgar-3-keys-communities-llc-oa-2023
+  title: 3 Keys Communities, LLC — Second A&R Operating Agreement (Wyoming; multi-subclass)
+  jurisdiction: WY
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 'Filer CIK 0001989655, SEC EDGAR (Reg CF / fund syndication style)'
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1989655/000147793225000431/0001477932-25-000431-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1989655/000147793225000431/exhibitc.pdf
+  form_number: EXHIBIT C
+  edition_or_revision_date: 'Effective 2023-09-29'
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'Wyoming LLC Act OA. Class A/B/C/D with A-1/A-2/A-3 and B-1/B-2/B-3 subclasses and layered preferred returns. Richest public Wyoming multi-subclass OA found in this dig. Large PDF. Reg CF / syndication style — not premier corporate.'
+  last_verified: '2026-09-29'
+- id: wy-sos-llc-act-close-supplement
+  title: Wyoming Limited Liability Company Act and Close LLC Supplement (SOS publication)
+  jurisdiction: WY
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL_AGENCY
+  publisher: Wyoming Secretary of State
+  source_page_url: https://sos.wyo.gov/Forms/default.aspx?root=Business
+  document_url: https://sos.wyo.gov/Forms/WyoBiz/Wyoming_Limited_Liability_Company_Act_and_Close_LLC_Supplement.pdf
+  form_number: W.S. 17-29-101 et seq. compilation
+  edition_or_revision_date: SOS compilation as retrieved 2026-09-29
+  access: Free (SOS)
+  copy_policy: link_only
+  quality_notes: 'Official statutory compilation including operating-agreement scope (17-29-110) and series provisions (17-29-211). SOS does NOT publish a model operating agreement.'
+  last_verified: '2026-09-29'
+- id: wy-sos-llc-articles-of-organization
+  title: Wyoming LLC Articles of Organization (SOS form)
+  jurisdiction: WY
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL_AGENCY
+  publisher: Wyoming Secretary of State
+  source_page_url: https://sos.wyo.gov/Forms/default.aspx?root=Business
+  document_url: https://sos.wyo.gov/Forms/Business/LLC/LLC-ArticlesOrganization.pdf
+  form_number: LLC-ArticlesOrganization
+  edition_or_revision_date: SOS form as retrieved 2026-09-29
+  access: Free (SOS)
+  copy_policy: link_only
+  quality_notes: 'Official formation articles. Not an operating agreement.'
+  last_verified: '2026-09-29'
+- id: wy-sos-series-llc-articles-of-organization
+  title: Wyoming Series LLC Articles of Organization (SOS form)
+  jurisdiction: WY
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL_AGENCY
+  publisher: Wyoming Secretary of State
+  source_page_url: https://sos.wyo.gov/Forms/default.aspx?root=Business
+  document_url: https://sos.wyo.gov/Forms/Business/LLC/SeriesLLC-ArticlesofOrganization.pdf
+  form_number: SeriesLLC-ArticlesofOrganization
+  edition_or_revision_date: SOS form as retrieved 2026-09-29
+  access: Free (SOS)
+  copy_policy: link_only
+  quality_notes: 'Series formation form. Notes that liability limitations must be set forth in the operating agreement and in the articles. Still no model OA from SOS.'
+  last_verified: '2026-09-29'
