@@ -52,7 +52,7 @@ When copying material out of a CC BY or CC BY-SA submodule into another work, pr
 
 ## Jurisdiction-specific forms (NY / NC / Federal) — curated catalog
 
-Court and government forms for New York, North Carolina, and the federal courts/agencies are **not** copied here. They live in a curated, source-linked catalog under [`catalog/`](catalog/README.md) — **333 entries** as of the 2026-09-29 gather + gap-fill (court/government + market-standard + premium-reference + open commercial standards + legal-AI datasets). Every URL was fetched or HTTP-verified where possible; unconfirmable direct URLs are marked `n.a.` / `null`. The catalog enforces a quality bar with explicit source tiers:
+Court and government forms for New York, North Carolina, and the federal courts/agencies are **not** copied here. They live in a curated, source-linked catalog under [`catalog/`](catalog/README.md) — **342 entries** as of the 2026-09-29 gather + gap-fill (court/government + market-standard + premium-reference + open commercial standards + legal-AI datasets). Every URL was fetched or HTTP-verified where possible; unconfirmable direct URLs are marked `n.a.` / `null`. The catalog enforces a quality bar with explicit source tiers:
 
 - **T1_OFFICIAL** — court/government/agency forms (authoritative, free)
 - **T2_MARKET_STANDARD_PUBLIC** — SEC EDGAR, NVCA, ILPA, LSTA, Bonterms, Common Paper, oneNDA, Series Seed, Atticus/Harvey/LegalBench datasets, etc.
