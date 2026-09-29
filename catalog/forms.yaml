@@ -2483,8 +2483,10 @@
   quality_notes: Market precedent — use as reference, not a blank template (verify current terms before
     reuse). Ex. 2.1 Agreement and Plan of Merger (public-company cash merger, one-step). Mega-cap strategic
     cash merger; useful for regulatory-efforts/"hell-or-high-water" covenants, ticking fee/outside date
-    architecture. Exhibit type "EX-2.1" per EDGAR full-text index metadata
-  last_verified: '2026-08-20'
+    architecture. Exhibit type "EX-2.1" per EDGAR full-text index metadata. Spot-checked on 2026-09-29 —
+    filing index and exhibit HTML HTTP 200 (a bare client User-Agent received 403; a descriptive User-Agent
+    resolved).
+  last_verified: '2026-09-29'
 - id: federal-edgar-twitter-8k-2022-merger-agreement
   title: Twitter, Inc. Form 8-K filed 2022-04-26 — Musk/X Holdings take-private
   jurisdiction: Federal
@@ -2498,11 +2500,12 @@
   edition_or_revision_date: Filed 2022-04-26
   access: Free (EDGAR)
   copy_policy: link_only
-  quality_notes: Market precedent — reference only (verify current terms before reuse). EX-4.2 also at
+  quality_notes: 'Market precedent — reference only (verify current terms before reuse). EX-4.2 also at
     https://www.sec.gov/Archives/edgar/data/1418091/000119312522120461/d310843dex42.htm. The canonical
     modern LBO/take-private with specific-performance and equity-financing structure; heavily litigated,
-    so read alongside the Delaware record
-  last_verified: '2026-08-20'
+    so read alongside the Delaware record. Spot-checked 2026-09-29: filing index and Ex. 2.1 HTML HTTP
+    200.'
+  last_verified: '2026-09-29'
 - id: federal-edgar-twitter-schedule-13d-2022-musk
   title: Twitter, Inc. Schedule 13D filed 2022-04-05 (Elon Musk)
   jurisdiction: Federal
@@ -2894,8 +2897,9 @@
     the Market Check video series is free to Section members'
   copy_policy: reference_only
   quality_notes: 'Reference only. The Deal Points Studies are the standard citation for "what''s market"
-    on indemnity, MAE and other terms. Direct document URL: n.a.'
-  last_verified: '2026-08-20'
+    on indemnity, MAE and other terms. Direct document URL: n.a. M&A Committee page (the members entry
+    point) HTTP 200 on 2026-09-29; studies remain M&A Committee membership-gated.'
+  last_verified: '2026-09-29'
 - id: federal-aba-related-ma-titles
   title: 'Related ABA M&A titles: The M&A Process: A Practical Guide for the Business Lawyer; Manual on
     Acquisition Review; International Stock Purchase Acquisitions'
@@ -3896,10 +3900,14 @@
   edition_or_revision_date: Credit list as of 12/31/2024; most lease forms revised 10/2020
   access: Membership / paid credits
   copy_policy: reference_only
-  quality_notes: West Coast market-standard suite (single- and multi-tenant gross/net and shopping-center
+  quality_notes: 'West Coast market-standard suite (single- and multi-tenant gross/net and shopping-center
     forms). $300 registration with 100 credits; $600 first office registration with 199 credits; leases
-    cost 6 credits. Historical revisions are separately archived.
-  last_verified: '2026-08-23'
+    cost 6 credits. Historical revisions are separately archived. Partnership note (verified 2026-09-29):
+    AIR CRE has partnered with eXp so eXp professionals get the contracts software free (https://www.aircre.com/air-cre-contracts/exp/);
+    C.A.R. distributes a selected AIR CRE library inside zipForm for a flat annual fee to C.A.R. members
+    (https://www.car.org/transactions/zipform/formlibraries/air/faqs). Those partnerships do not make the
+    forms public-domain; credit/membership terms on the AIR CRE list still control.'
+  last_verified: '2026-09-29'
 - id: federal-cre-alta-leasehold-endorsements
   title: ALTA Leasehold and Mortgage-Modification Endorsements — 13-06, 13.1-06 and 11.1
   jurisdiction: Federal
@@ -4193,10 +4201,12 @@
   edition_or_revision_date: 2018 C-Series; pricing effective January 12, 2026
   access: Paid; some commentary/guidance free
   copy_policy: reference_only
-  quality_notes: Infrastructure/engineered-work suite. C-700 is the keystone; price examples $290/$300
-    for C-700, $160/$176 for C-520, $82/$114 for C-620. Resale and uncontrolled public-website posting
-    are expressly prohibited.
-  last_verified: '2026-08-23'
+  quality_notes: 'Infrastructure/engineered-work suite, the engineered counterpart to federal-cre-aia-construction-documents
+    (private building) and federal-cre-consensusdocs-construction-series — not a substitute for those
+    suites. C-700 is the keystone; price examples $290/$300 for C-700, $160/$176 for C-520, $82/$114 for
+    C-620. Resale and uncontrolled public-website posting are expressly prohibited. Product-category page
+    HTTP 200 on 2026-09-29.'
+  last_verified: '2026-09-29'
 - id: federal-cre-dbia-contracts-and-primers
   title: DBIA Design-Build Contracts and Free Primers
   jurisdiction: Federal
@@ -4833,8 +4843,10 @@
   edition_or_revision_date: Current suite as of 2026-09-29
   access: Free under CC BY 4.0
   copy_policy: copy_allowed_if_license_verified
-  quality_notes: Cover-page + standard-terms model. CC BY 4.0 — preserve Common Paper attribution and
-    license notice when copying. Core repos vendored under sources/commonpaper-* pinned 2026-09-29.
+  quality_notes: 'Cover-page + standard-terms model. CC BY 4.0 — preserve Common Paper attribution and
+    license notice when copying. Core repos vendored under sources/commonpaper-* pinned 2026-09-29,
+    including Software License and Pilot added in the gap-fill (federal-commonpaper-software-license,
+    federal-commonpaper-pilot-agreement).'
   last_verified: '2026-09-29'
 - id: federal-commonpaper-mutual-nda
   title: Common Paper Mutual NDA (v1.0)
@@ -5260,4 +5272,315 @@
     areas per announcement). NOT vendored as a git submodule: upstream task corpus is ~3GB and unsuitable
     to recurse into this catalog repo. Clone https://github.com/harveyai/harvey-labs directly when needed;
     preserve MIT copyright notice.'
+  last_verified: '2026-09-29'
+- id: federal-commonpaper-software-license
+  title: Common Paper Software License Agreement (v1.1)
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: software-license
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Common Paper
+  source_page_url: https://commonpaper.com/standards/software-license-agreement/1.1
+  document_url: https://github.com/CommonPaper/Software-License-Agreement
+  form_number: n.a.
+  edition_or_revision_date: v1.1 (standard page HTTP 200; repo HEAD is 5 commits after git tag 1.1)
+  access: Free under CC BY 4.0
+  copy_policy: copy_allowed_if_license_verified
+  quality_notes: Vendored at sources/commonpaper-software-license-agreement (pinned 8ea7de3). CC BY 4.0
+    — preserve Common Paper attribution. v1.0 remains posted at https://commonpaper.com/standards/software-license-agreement/1.0.
+  last_verified: '2026-09-29'
+- id: federal-commonpaper-pilot-agreement
+  title: Common Paper Pilot Agreement (v1.1)
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: pilot-evaluation-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Common Paper
+  source_page_url: https://commonpaper.com/standards/pilot-agreement/1.1
+  document_url: https://github.com/CommonPaper/Pilot-Agreement
+  form_number: n.a.
+  edition_or_revision_date: v1.1 (released 2025-07-23 per Common Paper version notes; repo tag 1.1)
+  access: Free under CC BY 4.0
+  copy_policy: copy_allowed_if_license_verified
+  quality_notes: Vendored at sources/commonpaper-pilot-agreement (pinned 5e7cdd4). Short-term evaluation
+    agreement; full commercial use stays on the CSA or Software License. CC BY 4.0 attribution required.
+  last_verified: '2026-09-29'
+- id: federal-onedpa
+  title: oneDPA (standard data processing agreement)
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: data-processing-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: oneNDA / Law Insider
+  source_page_url: https://www.onenda.org/products/onedpa
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: null
+  access: Free to use; public product page. No separate public .docx URL confirmed.
+  copy_policy: link_only
+  quality_notes: 'Product page HTTP 200 on 2026-09-29. Page describes oneDPA as a free crowd-sourced DPA
+    and embeds a GDPR-oriented negotiation playbook (canned responses; variables-table fallbacks not included).
+    Distinct raw-file URL n.a. — obtain the current Word file from the product page. No official GitHub
+    repo. Same oneNDA family posture as federal-onenda (treat as CC BY-ND unless the download states otherwise).
+    Email hello@tlb.law is a bespoke-playbook offer, not a gate on the standard itself.'
+  last_verified: '2026-09-29'
+- id: federal-onenda-playbook
+  title: oneNDA AI Playbook
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: nda-negotiation-playbook
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: oneNDA / SimpleDocs
+  source_page_url: https://www.onenda.org/products/onenda-ai-playbook
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: null
+  access: Demo / trial gate (schedule a demo; page offers a 14-day trial via SimpleDocs). Not a public file.
+  copy_policy: link_only
+  quality_notes: 'Product page HTTP 200 on 2026-09-29. This is the AI NDA-review playbook, not a second
+    NDA form. Direct document URL n.a. https://www.onenda.org/playbook is an adopter landing page, not
+    the playbook text. The oneDPA canned-response playbook lives on the oneDPA product page (federal-onedpa),
+    not here.'
+  last_verified: '2026-09-29'
+- id: federal-nvca-pipe-spa-us-issuer-jun-2025
+  title: NVCA Model PIPE Securities Purchase Agreement (US Issuer, June 2025)
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: pipe-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: NVCA
+  source_page_url: https://nvca.org/model-legal-documents/
+  document_url: https://nvca.org/wp-content/uploads/2025/06/2.-Model-PIPE-Securities-Purchase-Agreement-US-Issuer-Jun-2025-Rev.-CORRECTED.docx
+  form_number: n.a.
+  edition_or_revision_date: June 2025 (CORRECTED)
+  access: Free download (.docx)
+  copy_policy: link_only
+  quality_notes: 'Individual US-issuer SPA, split out from hub federal-nvca-model-pipe-package. .docx HTTP
+    200 (Word content-type) on 2026-09-29. Companion US-issuer forms remain on the hub entry: RRA, pre-funded
+    warrant, and common warrant (July 2024 filenames on the NVCA hub).'
+  last_verified: '2026-09-29'
+- id: federal-nvca-pipe-spa-fpi-aug-2025
+  title: NVCA Model PIPE Securities Purchase Agreement (FPI, updated August 11, 2025)
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: pipe-model-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: NVCA
+  source_page_url: https://nvca.org/model-legal-documents/
+  document_url: https://nvca.org/wp-content/uploads/2024/11/Model-PIPE-Form-of-Securities-Purchase-Agreement-FPI-updated-8.11.25.docx
+  form_number: n.a.
+  edition_or_revision_date: Updated 2025-08-11
+  access: Free download (.docx)
+  copy_policy: link_only
+  quality_notes: 'Individual foreign-private-issuer SPA, split out from hub federal-nvca-model-pipe-package.
+    .docx HTTP 200 on 2026-09-29. Companion FPI forms on the hub: registration rights agreement and ordinary
+    warrant (updated 8.11.25) and pre-funded warrant (Final).'
+  last_verified: '2026-09-29'
+- id: federal-cre-fannie-selling-servicing-guide
+  title: Fannie Mae Multifamily Selling and Servicing Guide
+  jurisdiction: Federal
+  practice_area: cre-finance
+  category: agency-multifamily-guide
+  source_tier: T1_OFFICIAL
+  publisher: Fannie Mae Multifamily
+  source_page_url: https://mfguide.fanniemae.com/
+  document_url: null
+  form_number: n.a. (HTML Guide, not a single form)
+  edition_or_revision_date: Living Guide; latest listed communication on 2026-09-29 fetch was Guide Update 26-26 effective 2026-09-28
+  access: Free HTML Guide for market participants; lender obligations, not a public-domain form set
+  copy_policy: link_only
+  quality_notes: 'Guide home HTTP 200 on 2026-09-29. Parts I-V plus Glossary (mortgage loan, property,
+    products, committing and delivery, servicing). Requirements vs Guidance vs Operating Procedures are
+    distinguished on the site. Not a substitute for the 6000-series loan documents (federal-cre-fannie-dus-form-catalog).
+    No single PDF; document_url n.a. Lender-use / Guide terms control. Do not copy Guide text into git.'
+  last_verified: '2026-09-29'
+- id: federal-clls-precedent-index
+  title: CLLS Precedent Documents index
+  jurisdiction: Federal
+  practice_area: cre-acquisitions
+  category: uk-land-law-precedent
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: City of London Law Society (CLLS)
+  source_page_url: https://clls.org/resources.html?information_type=precedent-documents
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Index fetched 2026-09-29 (20 of 65 results shown on first page)
+  access: Free ungated downloads via CLLS resource library (site has Login/Register chrome)
+  copy_policy: link_only
+  quality_notes: 'Index page HTTP 200. The filtered precedent library is broader than the single Certificate
+    of Title already catalogued as federal-clls-certificate-of-title-2026. First page is mostly the 2026
+    CoT set (wrapper for report on title, supplemental enquiries, questionnaire, draft-confirmation letters,
+    Litera compare 2025 vs 2026) plus CLLS service-charge provisions (March 2026) and shopping-centre service-charge
+    provisions (March 2026). Use the index to resolve current files; do not vendor the Word/PDF binaries.'
+  last_verified: '2026-09-29'
+- id: federal-llc-delaware-simple
+  title: Simple Delaware LLC operating agreement and subscription agreement
+  jurisdiction: Federal
+  practice_area: shareholder-governance
+  category: llc-governing-documents
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Participatory Orgs Project
+  source_page_url: https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple
+  document_url: https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple
+  form_number: n.a.
+  edition_or_revision_date: Repository master as pinned 2026-09-29 (last upstream push 2015; README status work in progress)
+  access: Free under CC BY 4.0
+  copy_policy: copy_allowed_if_license_verified
+  quality_notes: 'Vendored at sources/llc-delaware-simple (pinned 81eb4ff). README states Copyright 2015
+    Participatory Orgs Project, CC BY 4.0 (LICENSE-CC-BY-4.0.md). Contains DE-Operating-Agreement-Simple.md
+    and DE-Subscription-Agreement.md. Stale relative to current Delaware LLC practice — research starting
+    point only, not a maintained market form. Attribution required.'
+  last_verified: '2026-09-29'
+- id: federal-startup-starter-pack
+  title: Startup Starter Pack (index of startup form starters)
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: open-legal-directory
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Ro5s
+  source_page_url: https://github.com/Ro5s/Startup-Starter-Pack
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Last push 2020-09-30; repo root is README plus .github only
+  access: Public GitHub index
+  copy_policy: link_only
+  quality_notes: 'Not vendored. No LICENSE file. The repo is a curated index of third-party starters (OpenLaw
+    and similar), not original form text. Many linked OpenLaw templates are likely stale. Prefer the maintained
+    sets already in this catalog (Series Seed, Cooley, YC SAFE, NVCA) over this index.'
+  last_verified: '2026-09-29'
+- id: federal-automattic-legalmattic
+  title: Automattic / WordPress.com legal policies (legalmattic)
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: company-site-policies
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Automattic
+  source_page_url: https://github.com/Automattic/legalmattic
+  document_url: https://github.com/Automattic/legalmattic
+  form_number: n.a.
+  edition_or_revision_date: Repository master as pinned 2026-09-29
+  access: Free under CC BY-SA 4.0
+  copy_policy: copy_allowed_if_license_verified
+  quality_notes: 'Company-docs lane. Vendored at sources/legalmattic (pinned 2f412dc). LICENSE.txt is CC
+    BY-SA 4.0 — attribution and ShareAlike required for adaptations. These are Automattic/WordPress.com
+    policies, not jurisdiction-neutral market forms.'
+  last_verified: '2026-09-29'
+- id: federal-basecamp-policies
+  title: Basecamp policies
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: company-site-policies
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Basecamp
+  source_page_url: https://github.com/basecamp/policies
+  document_url: https://github.com/basecamp/policies
+  form_number: n.a.
+  edition_or_revision_date: Archived upstream; master pinned 2026-09-29 (last push 2023-12-26)
+  access: Free under CC BY 4.0
+  copy_policy: copy_allowed_if_license_verified
+  quality_notes: 'Company-docs lane. Vendored at sources/basecamp-policies (pinned d39f6f1). LICENSE.md
+    is CC BY 4.0. GitHub marks the repo archived — frozen company handbook, not a current form set. Attribution
+    required.'
+  last_verified: '2026-09-29'
+- id: federal-github-site-policy
+  title: GitHub site policies
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: company-site-policies
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: GitHub
+  source_page_url: https://github.com/github/site-policy
+  document_url: https://github.com/github/site-policy
+  form_number: n.a.
+  edition_or_revision_date: Repository main as pinned 2026-09-29
+  access: CC0 1.0
+  copy_policy: copy_allowed_if_license_verified
+  quality_notes: 'Company-docs lane. Vendored at sources/github-site-policy (pinned b9578b5). LICENSE.md
+    is CC0 1.0. GitHub site policies and guidelines, not a general commercial-contract suite. Not a substitute
+    for the separate BEIPA repo already vendored.'
+  last_verified: '2026-09-29'
+- id: federal-commonform-org
+  title: commonform.org open form repository
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: open-legal-directory
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: commonform
+  source_page_url: https://commonform.org/
+  document_url: https://github.com/commonform/commonform.org
+  form_number: n.a.
+  edition_or_revision_date: Repository main as of 2026-09-29 (not vendored)
+  access: Public site and GitHub; per-form license frontmatter
+  copy_policy: link_only
+  quality_notes: 'Not vendored. The GitHub repo is the commonform.org website (forms/, templates/, site
+    toolchain), not a single-license form pack. Forms carry their own YAML license frontmatter (for example
+    Blue Oak model-permission). Root .licensee.json lists SPDX CC-BY-3.0 but there is no root LICENSE deed.
+    Link the site or repo and honor each form frontmatter before copying.'
+  last_verified: '2026-09-29'
+- id: federal-accordproject-template-library
+  title: Accord Project open template library
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: computable-contract-templates
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Accord Project
+  source_page_url: https://templates.accordproject.org/
+  document_url: https://github.com/accordproject/cicero-template-library
+  form_number: n.a.
+  edition_or_revision_date: cicero-template-library main as of 2026-09-29 (not vendored)
+  access: Apache-2.0 library; browse at templates.accordproject.org
+  copy_policy: link_only
+  quality_notes: 'Not vendored. The form corpus is accordproject/cicero-template-library (Apache-2.0, GitHub
+    size about 25MB) and the browser at templates.accordproject.org (HTTP 200). The similarly named accordproject/template-archive
+    repo is the Cicero templating engine (cicero-cli / cicero-core / generator-cicero-template; npm publish
+    chore 2026-09-14), not the forms — see excluded-sources.md. Do not submodule the engine.'
+  last_verified: '2026-09-29'
+- id: federal-awesome-legal
+  title: awesome-legal directory
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: open-legal-directory
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: ankane
+  source_page_url: https://github.com/ankane/awesome-legal
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: Repository master as of 2026-09-29
+  access: Public list; repo license CC0 1.0 (the list, not the linked documents)
+  copy_policy: link_only
+  quality_notes: 'Catalog-only directory of free company legal documents. Not vendored — it is a link list,
+    not a form corpus, and several outbound links are separately licensed or maintained upstreams already
+    in this catalog. HTTP 200 on 2026-09-29.'
+  last_verified: '2026-09-29'
+- id: federal-opensource-legal-directory
+  title: Open Source Legal directory
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: open-legal-directory
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Open Source Legal
+  source_page_url: https://opensource.legal/directory
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: null
+  access: Public web directory
+  copy_policy: link_only
+  quality_notes: Directory page HTTP 200 on 2026-09-29. Catalog-only index of open legal projects. Not
+    vendored (no mono-repo of forms to pin). Follow each listed project license.
+  last_verified: '2026-09-29'
+- id: federal-legal-oss
+  title: legal-oss.com directory
+  jurisdiction: Federal
+  practice_area: commercial-contracts
+  category: open-legal-directory
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: legal-oss.com
+  source_page_url: https://legal-oss.com
+  document_url: null
+  form_number: n.a.
+  edition_or_revision_date: null
+  access: Public web directory
+  copy_policy: link_only
+  quality_notes: Site HTTP 200 on 2026-09-29. Catalog-only directory of open-source legal projects. Not
+    vendored. Not a substitute for the primary publisher pages catalogued elsewhere.
   last_verified: '2026-09-29'

@@ -22,3 +22,23 @@ Lane A expansion (verified 2026-09-29). These are market-standard, openly licens
 | oneNDA + M&A | oneNDA | [product](https://www.onenda.org/products/onenda-m-a) | n.a. | Free / link_only | Existing `federal-onenda-ma` (re-verified 2026-09-29). |
 
 Preserve attribution/NOTICE when copying CC BY materials out of submodules.
+
+| Common Paper Software License Agreement v1.1 | Common Paper | [SLA 1.1](https://commonpaper.com/standards/software-license-agreement/1.1) | [repo](https://github.com/CommonPaper/Software-License-Agreement) | CC BY 4.0 | `federal-commonpaper-software-license` — vendored `sources/commonpaper-software-license-agreement`. |
+| Common Paper Pilot Agreement v1.1 | Common Paper | [Pilot 1.1](https://commonpaper.com/standards/pilot-agreement/1.1) | [repo](https://github.com/CommonPaper/Pilot-Agreement) | CC BY 4.0 | `federal-commonpaper-pilot-agreement` — vendored `sources/commonpaper-pilot-agreement`. |
+| oneDPA | oneNDA / Law Insider | [product](https://www.onenda.org/products/onedpa) | n.a. | Free / link_only | `federal-onedpa` — product page + embedded GDPR playbook; no public .docx URL confirmed. |
+| oneNDA AI Playbook | oneNDA / SimpleDocs | [product](https://www.onenda.org/products/onenda-ai-playbook) | n.a. | Demo/trial gate / link_only | `federal-onenda-playbook` — not a second NDA form. |
+
+### Company-docs / open-directory addenda (gap-fill)
+
+| Document/Form | Publisher | Source | Notes |
+|---|---|---|---|
+| Automattic legalmattic | Automattic | [repo](https://github.com/Automattic/legalmattic) | `federal-automattic-legalmattic` — CC BY-SA 4.0 submodule. |
+| Basecamp policies | Basecamp | [repo](https://github.com/basecamp/policies) | `federal-basecamp-policies` — CC BY 4.0; archived upstream. |
+| GitHub site-policy | GitHub | [repo](https://github.com/github/site-policy) | `federal-github-site-policy` — CC0 submodule. |
+| Simple Delaware LLC | Participatory Orgs | [repo](https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple) | `federal-llc-delaware-simple` — CC BY 4.0; 2015 WIP. |
+| Startup Starter Pack | Ro5s | [repo](https://github.com/Ro5s/Startup-Starter-Pack) | `federal-startup-starter-pack` — catalog-only (no LICENSE; index). |
+| commonform.org | commonform | [site](https://commonform.org/) / [repo](https://github.com/commonform/commonform.org) | `federal-commonform-org` — catalog-only; per-form licenses. |
+| Accord Project template library | Accord Project | [templates](https://templates.accordproject.org/) / [cicero-template-library](https://github.com/accordproject/cicero-template-library) | `federal-accordproject-template-library` — catalog-only (engine repo excluded). |
+| awesome-legal / opensource.legal / legal-oss.com | respective publishers | [awesome-legal](https://github.com/ankane/awesome-legal) · [opensource.legal/directory](https://opensource.legal/directory) · [legal-oss.com](https://legal-oss.com) | Catalog-only directories. |
+
+Bonterms “M&A NDA”: no separate open form/repo — see [excluded-sources.md](../excluded-sources.md).

@@ -67,3 +67,21 @@
 [submodule "sources/legalbench"]
 	path = sources/legalbench
 	url = https://github.com/HazyResearch/legalbench.git
+[submodule "sources/commonpaper-software-license-agreement"]
+	path = sources/commonpaper-software-license-agreement
+	url = https://github.com/CommonPaper/Software-License-Agreement.git
+[submodule "sources/commonpaper-pilot-agreement"]
+	path = sources/commonpaper-pilot-agreement
+	url = https://github.com/CommonPaper/Pilot-Agreement.git
+[submodule "sources/llc-delaware-simple"]
+	path = sources/llc-delaware-simple
+	url = https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple.git
+[submodule "sources/legalmattic"]
+	path = sources/legalmattic
+	url = https://github.com/Automattic/legalmattic.git
+[submodule "sources/basecamp-policies"]
+	path = sources/basecamp-policies
+	url = https://github.com/basecamp/policies.git
+[submodule "sources/github-site-policy"]
+	path = sources/github-site-policy
+	url = https://github.com/github/site-policy.git

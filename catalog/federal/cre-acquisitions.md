@@ -23,3 +23,4 @@ National acquisition, title, survey, recording and closing-reference materials. 
 - ALTA/NSPS 2026 `document_url` updated to official NSPS CDN PDF (HTTP 200). Entry `federal-cre-alta-nsps-land-survey-2026`.
 - **CLLS** Certificate of Title 8th ed. 2026 Update: `federal-clls-certificate-of-title-2026`.
 - **ACREL** Fellows library noted as T3 reference_only: `federal-cre-acrel-reports` (nothing downloaded).
+- CLLS Precedent Documents index (broader than CoT alone): `federal-clls-precedent-index`.

@@ -33,12 +33,18 @@ collection with `git submodule update --remote sources/<name>`.
 | `sources/commonpaper-dpa` | [CommonPaper/DPA](https://github.com/CommonPaper/DPA) | CC BY 4.0 | Common Paper DPA. |
 | `sources/commonpaper-psa` | [CommonPaper/PSA](https://github.com/CommonPaper/PSA) | CC BY 4.0 | Common Paper PSA. |
 | `sources/commonpaper-sla` | [CommonPaper/SLA](https://github.com/CommonPaper/SLA) | CC BY 4.0 | Common Paper SLA. |
+| `sources/commonpaper-software-license-agreement` | [CommonPaper/Software-License-Agreement](https://github.com/CommonPaper/Software-License-Agreement) | CC BY 4.0 | Common Paper Software License Agreement. |
+| `sources/commonpaper-pilot-agreement` | [CommonPaper/Pilot-Agreement](https://github.com/CommonPaper/Pilot-Agreement) | CC BY 4.0 | Common Paper Pilot Agreement. |
+| `sources/llc-delaware-simple` | [ParticipatoryOrgs/LLC-Delaware-Simple](https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple) | CC BY 4.0 | Simple Delaware LLC OA / subscription (2015; research starting point). |
+| `sources/legalmattic` | [Automattic/legalmattic](https://github.com/Automattic/legalmattic) | CC BY-SA 4.0 | Automattic / WordPress.com policies (company-docs lane). |
+| `sources/basecamp-policies` | [basecamp/policies](https://github.com/basecamp/policies) | CC BY 4.0 | Basecamp handbook (archived upstream). |
+| `sources/github-site-policy` | [github/site-policy](https://github.com/github/site-policy) | CC0 1.0 | GitHub site policies (company-docs lane). |
 | `sources/atticus-cuad` | [The-Atticus-Project/cuad](https://github.com/The-Atticus-Project/cuad) | Research / see Atticus terms | CUAD contract-understanding dataset code. |
 | `sources/atticus-maud` | [The-Atticus-Project/maud](https://github.com/The-Atticus-Project/maud) | Research / see Atticus terms | MAUD merger-agreement dataset code. |
 | `sources/atticus-acord` | [TheAtticusProject/acord](https://github.com/TheAtticusProject/acord) | MIT (code) / CC BY 4.0 (dataset per README) | ACORD clause-retrieval dataset. |
 | `sources/legalbench` | [HazyResearch/legalbench](https://github.com/HazyResearch/legalbench) | Per-task licenses | LegalBench legal-reasoning benchmark. |
 
-**Not vendored as submodules (catalog link-only / no suitable mono-repo or too large to recurse):** oneNDA (CC BY-ND 4.0 — product pages + verified `.docx` asset), Y Combinator SAFE (ycombinator.com/documents), Harvey LAB (`harveyai/harvey-labs` — MIT but ~3GB task corpus; catalog-link only), court/government forms, FDIC P&As, Fannie DUS forms, CLLS UK precedents, ISDA/LMA/ACREL/AIA/ConsensusDocs/AIR CRE/REBNY paid suites.
+**Not vendored as submodules (catalog link-only / no suitable mono-repo or too large to recurse):** oneNDA / oneDPA / Playbook (CC BY-ND family — product pages; email/demo gates noted in quality_notes), Y Combinator SAFE (ycombinator.com/documents), Harvey LAB (`harveyai/harvey-labs` — MIT but ~3GB task corpus; catalog-link only), Ro5s/Startup-Starter-Pack (index only, no LICENSE), commonform.org (per-form licenses; website repo), accordproject/cicero-template-library (catalog-link; engine repo is excluded), ankane/awesome-legal + opensource.legal/directory + legal-oss.com (directories only), court/government forms, FDIC P&As, Fannie DUS / Selling & Servicing Guide, CLLS UK precedents, ISDA/LMA/ACREL/AIA/ConsensusDocs/AIR CRE/REBNY paid suites.
 
 ## CC BY / attribution note
 
@@ -46,7 +52,7 @@ When copying material out of a CC BY or CC BY-SA submodule into another work, pr
 
 ## Jurisdiction-specific forms (NY / NC / Federal) — curated catalog
 
-Court and government forms for New York, North Carolina, and the federal courts/agencies are **not** copied here. They live in a curated, source-linked catalog under [`catalog/`](catalog/README.md) — **315 entries** as of the 2026-09-29 gather expansion (court/government + market-standard + premium-reference + open commercial standards + legal-AI datasets). Every URL was fetched or HTTP-verified where possible; unconfirmable direct URLs are marked `n.a.` / `null`. The catalog enforces a quality bar with explicit source tiers:
+Court and government forms for New York, North Carolina, and the federal courts/agencies are **not** copied here. They live in a curated, source-linked catalog under [`catalog/`](catalog/README.md) — **333 entries** as of the 2026-09-29 gather + gap-fill (court/government + market-standard + premium-reference + open commercial standards + legal-AI datasets). Every URL was fetched or HTTP-verified where possible; unconfirmable direct URLs are marked `n.a.` / `null`. The catalog enforces a quality bar with explicit source tiers:
 
 - **T1_OFFICIAL** — court/government/agency forms (authoritative, free)
 - **T2_MARKET_STANDARD_PUBLIC** — SEC EDGAR, NVCA, ILPA, LSTA, Bonterms, Common Paper, oneNDA, Series Seed, Atticus/Harvey/LegalBench datasets, etc.

@@ -26,3 +26,5 @@ Agency lending, CMBS, title, construction and development materials. **LINK ONLY
 
 - Expanded Fannie Multifamily/DUS form-number catalog: `federal-cre-fannie-dus-form-catalog` (complements existing 6000-series entry).
 - CREFC IRP v8.4 PDF deep link re-verified 200; archived landing-page href returned 404 — see quality_notes on `federal-cre-crefc-irp-84`.
+- Fannie Mae Multifamily Selling and Servicing Guide hub: `federal-cre-fannie-selling-servicing-guide` ([mfguide.fanniemae.com](https://mfguide.fanniemae.com/), HTTP 200).
+- EJCDC C-Series quality note refreshed: engineered counterpart to AIA / ConsensusDocs (not a substitute).
