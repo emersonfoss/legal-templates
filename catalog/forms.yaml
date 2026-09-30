@@ -6397,3 +6397,78 @@
   copy_policy: link_only
   quality_notes: 'Private-target mobile-gaming M&A. Dual-sub (Dash MS / Dash MS II); SRS as Stockholder Representative. Verified AGREEMENT AND PLAN OF MERGER header + Playdots, Inc.'
   last_verified: '2026-09-29'
+- id: us-orrick-employee-ciiaa
+  title: Orrick — Employee Confidential Information and Invention Assignment Agreement (US)
+  jurisdiction: US
+  practice_area: employment-equity
+  category: ciiaa
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Orrick, Herrington & Sutcliffe LLP (Orrick Tech Studio)
+  source_page_url: https://www.orrick.com/en/tech-studio/forms/Employee-Confidential-Information-and-Invention-Assignment-Agreement
+  document_url: https://orrick.formstack.com/forms/ots_ciiaa
+  form_number: null
+  edition_or_revision_date: 'Verified download 2026-09-29; bracketed form, footnotes intact'
+  access: Free (ToS checkbox; no email)
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY. Downloaded docx (~53k) opens as a real CIIAA: confidentiality, DTSA whistleblower, present assignment of Company IP, employee background IP schedule, excluded-IP carveout, CA Labor Code §2870 notice, NY Labor Law §203-f, at-will. Brackets [FULL COMPANY NAME]/[STATE]. Same CIIAA is also Attachment A to the offer letter; counted once. Not vendored (Orrick forms terms). Drive: Corporate 02 / Employment + equity grants / Orrick-Employee-CIIAA-US.docx (1WYVVKUxSTf4af2pQN4uxZNmcsZYjW-Bf).'
+  last_verified: '2026-09-29'
+- id: us-orrick-offer-letter-and-ciiaa
+  title: Orrick — Employee offer letter with CIIAA attachment (US)
+  jurisdiction: US
+  practice_area: employment-equity
+  category: offer-letter
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Orrick, Herrington & Sutcliffe LLP (Orrick Tech Studio)
+  source_page_url: https://www.orrick.com/en/tech-studio/forms/Employee-Offer-Letter
+  document_url: https://orrick.formstack.com/forms/ots_offer_letter_ciiaa
+  form_number: null
+  edition_or_revision_date: 'Verified download 2026-09-29; bracketed form'
+  access: Free (ToS checkbox; no email)
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY US offer letter, not a separate CA-exempt or NY letter. Salary OR hourly/overtime fork, equity-award bracket (option or RSA, board approval), at-will (footnote flags Montana/Puerto Rico), arbitration agreement called out as a separate document to attach, CIIAA as Attachment A (includes CA §2870 and NY §203-f). No exemption-classification recital and no wage-theft notice. Drive: Orrick-Offer-Letter-and-CIIAA-US.docx (1ZkU4q6KAu4kIJ_x_X9SYypR8GNBdmw73).'
+  last_verified: '2026-09-29'
+- id: us-orrick-consulting-agreement
+  title: Orrick — Consulting Agreement (US)
+  jurisdiction: US
+  practice_area: employment-equity
+  category: consulting-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Orrick, Herrington & Sutcliffe LLP (Orrick Tech Studio)
+  source_page_url: https://www.orrick.com/en/tech-studio/forms/Consulting-Agreement
+  document_url: https://orrick.formstack.com/forms/ots_consult_agt
+  form_number: null
+  edition_or_revision_date: 'Verified download 2026-09-29; bracketed form'
+  access: Free (ToS checkbox; no email)
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY. Independent-contractor status, fees/expenses, term and termination for convenience/cause, no authority to bind, tax indemnity, confidentiality, invention assignment, optional equity. Exhibit A services. Not an employee CIIAA. Drive: Orrick-Consulting-Agreement-US.docx (1bkglqrx6kthhubpdJ4B6SwQOx-URsjNz).'
+  last_verified: '2026-09-29'
+- id: us-orrick-advisor-agreement
+  title: Orrick — Advisor Agreement (US)
+  jurisdiction: US
+  practice_area: employment-equity
+  category: advisor-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Orrick, Herrington & Sutcliffe LLP (Orrick Tech Studio)
+  source_page_url: https://www.orrick.com/en/tech-studio/forms/Advisor-Agreement
+  document_url: https://orrick.formstack.com/forms/ots_advisor_agt
+  form_number: null
+  edition_or_revision_date: 'Verified download 2026-09-29; bracketed form'
+  access: Free (ToS checkbox; no email)
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY advisor services agreement (shorter than the consulting form): IC status, confidentiality, DTSA, proprietary-rights assignment, employee non-solicit, conflicts. Equity grant is not a full option agreement. Not the Founder Institute FAST (no static FAST file). Drive: Orrick-Advisor-Agreement-US.docx (1Dz2y8ekJcFbUFFk-Dnx88aicw-vrQKpB).'
+  last_verified: '2026-09-29'
+- id: federal-orrick-83b-form-15620
+  title: Section 83(b) election — IRS Form 15620 (Orrick startup defaults)
+  jurisdiction: Federal
+  practice_area: employment-equity
+  category: section-83b-election
+  source_tier: T1_OFFICIAL
+  publisher: 'IRS Form 15620, completed via Orrick Tech Studio with startup defaults'
+  source_page_url: https://www.orrick.com/en/tech-studio/forms/83b-Election-Form
+  document_url: https://www.irs.gov/pub/irs-pdf/f15620.pdf
+  form_number: Form 15620
+  edition_or_revision_date: 'Form 15620 (October 2024); Catalog No. 95376D'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'Official IRS §83(b) election (not a law-firm cover letter). Orrick pass fills Box 2 with "____ shares of Common Stock of [COMPANY NAME], a Delaware corporation" and Box 5 with repurchase-at-cost on termination; [PURCHASER NAME] in Box 1. Blank official PDF is document_url. No separate early-exercise addendum found ungated. Drive PDF: Orrick-83b-Election-Form-15620.pdf (1WifiZ1CTZFxjhHLIp3IG39B71_ydVQzY).'
+  last_verified: '2026-09-29'
