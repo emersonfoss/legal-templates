@@ -6593,3 +6593,93 @@
   copy_policy: link_only
   quality_notes: 'TEMPLATE-READY NY DOS Articles of Organization for domestic LLC. Not previously in catalog (corp certificates were). Drive: Corporate 02 / Formation + bylaws / NY-DOS-1336-f-Articles-of-Organization-LLC.pdf (1-E4zFDCAGFXDssJjx1LkAFnxwgBhIKdF).'
   last_verified: '2026-09-29'
+- id: eu-scc-art28-controllers-processors-en
+  title: Standard Contractual Clauses for controllers and processors in the EU/EEA (EN Word)
+  jurisdiction: EU
+  practice_area: privacy-data-protection
+  category: standard-contractual-clauses
+  source_tier: T1_OFFICIAL
+  publisher: European Commission (DG JUST)
+  source_page_url: https://commission.europa.eu/publications/standard-contractual-clauses-controllers-and-processors-eueea_en
+  document_url: https://commission.europa.eu/document/download/a53e88fe-3b08-4e83-8587-4e3869ebb1c3_en?filename=strandard_contractual_clauses_eu-eea.zip
+  form_number: null
+  edition_or_revision_date: 'Word pack dated 2022-05-25 (Implementing Decision 4 June 2021 Art. 28 SCCs)'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY official Art. 28(7) GDPR controller–processor SCCs. EN Standard + EN Annex extracted from official multilingual ZIP. Pair with international-transfer SCCs when transferring outside EEA. Drive: Corporate 02 / Privacy + SCC vendor pack / EU-SCC-Art28-controllers-processors-EN.docx (1OAy4xUHdnP0PhqKKvlEamubkibnPw-Qq) + EU-SCC-Art28-Annex-EN.docx (1LXNmHNNXPbzUpJPqULioQtaP91EuE99w).'
+  last_verified: '2026-09-29'
+- id: eu-scc-international-transfers-en
+  title: Standard Contractual Clauses for the transfer of personal data outside the EU/EEA (EN Word)
+  jurisdiction: EU
+  practice_area: privacy-data-protection
+  category: standard-contractual-clauses
+  source_tier: T1_OFFICIAL
+  publisher: European Commission (DG JUST)
+  source_page_url: https://commission.europa.eu/publications/publications-standard-contractual-clauses-sccs_en
+  document_url: https://commission.europa.eu/document/download/eeeabfc3-93e9-4be9-92da-7faf87f8aff3_en?filename=EN%20Standard%20Contractual%20Clauses.doc
+  form_number: null
+  edition_or_revision_date: 'Implementing Decision (EU) 2021/914; EN Word verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY official modular SCCs for third-country transfers (Modules 1–4). Fill Annexes; do not alter clause text. Companion Annex doc: https://commission.europa.eu/document/download/e60b1cd4-d802-44d5-9cac-ddd3c943a5ef_en?filename=EN%20Annex%20Standard%20Contractual%20Clauses_0.doc. Drive: EU-SCC-international-transfers-EN.doc (1PgybLYJ4uszyRLd8j-GSOOzOlFTq6qhd) + Annex (1T-MgYi2s5XNTPy-ofmzbL-24oQRX_U1R).'
+  last_verified: '2026-09-29'
+- id: uk-ico-idta
+  title: UK International Data Transfer Agreement (IDTA)
+  jurisdiction: UK
+  practice_area: privacy-data-protection
+  category: standard-contractual-clauses
+  source_tier: T1_OFFICIAL
+  publisher: UK Information Commissioner''s Office (ICO)
+  source_page_url: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/appropriate-safeguards/what-are-standard-data-protection-clauses-the-uk-idta-and-the-addendum/
+  document_url: https://ico.org.uk/media2/migrated/4019536/idta.docx
+  form_number: null
+  edition_or_revision_date: 'ICO standard clauses under DPA 2018 s.119A(1); Word verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY UK GDPR transfer tool (standalone IDTA). Prefer over EU SCCs alone for UK-restricted transfers; or use UK Addendum with EU SCCs. Drive: UK-ICO-IDTA.docx (1jX28mlLnsOYc161NHwZxJ5BL0ulQH7q6).'
+  last_verified: '2026-09-29'
+- id: uk-ico-idta-addendum
+  title: UK Addendum to the EU Commission Standard Contractual Clauses
+  jurisdiction: UK
+  practice_area: privacy-data-protection
+  category: standard-contractual-clauses
+  source_tier: T1_OFFICIAL
+  publisher: UK Information Commissioner''s Office (ICO)
+  source_page_url: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/appropriate-safeguards/what-are-standard-data-protection-clauses-the-uk-idta-and-the-addendum/
+  document_url: https://ico.org.uk/media2/migrated/4019535/addendum-international-data-transfer.docx
+  form_number: null
+  edition_or_revision_date: 'ICO Addendum Word verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY UK Addendum for use with EU 2021 SCCs on UK-restricted transfers (alternative to full IDTA). Drive: UK-ICO-IDTA-Addendum.docx (1KDaVwmtynk6C3OyAdCFezFJngQkDTu8D).'
+  last_verified: '2026-09-29'
+- id: iapp-sample-data-processing-agreement
+  title: IAPP Sample Data Processing Agreement
+  jurisdiction: Federal
+  practice_area: privacy-data-protection
+  category: data-processing-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: IAPP Privacy Bar Section
+  source_page_url: https://iapp.org/resources/article/sample-data-processing-agreement
+  document_url: https://assets.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt69a9d7a5f6f98daf/Data-Processing-Agreement.pdf
+  form_number: null
+  edition_or_revision_date: 'Published ~2018 (Privacy Bar volunteering / Negotiating DPAs book companion)'
+  access: Free ungated PDF
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY starting-point Art. 28-style DPA with drafting endnotes (not for inclusion in signed form). Complements Common Paper + Bonterms DPAs already on Drive — different publisher/voice. Not a substitute for current SCCs on transfers. Drive: IAPP-Sample-Data-Processing-Agreement.pdf (1AKFqnx0rEq1kzBdSolfT1g6R9emQC_t8).'
+  last_verified: '2026-09-29'
+- id: iapp-sample-dpo-service-agreement
+  title: IAPP Sample DPO Service Agreement
+  jurisdiction: Federal
+  practice_area: privacy-data-protection
+  category: dpo-engagement-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: IAPP
+  source_page_url: https://iapp.org/resources/article/sample-dpo-service-agreement
+  document_url: https://assets.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt9dab3d8e698113b0/Sample-DPO-letter_FINAL.pdf
+  form_number: null
+  edition_or_revision_date: 'IAPP sample; ungated PDF verified 2026-09-29'
+  access: Free ungated PDF
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY starting point for external/outsourced DPO engagement contracts. Drive: IAPP-Sample-DPO-Service-Agreement.pdf (1m5ICMaX_iG0bhYU0Csid6yrQsc1keRUH).'
+  last_verified: '2026-09-29'
