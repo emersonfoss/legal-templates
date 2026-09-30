@@ -7824,3 +7824,933 @@
   copy_policy: link_only
   quality_notes: 'TEMPLATE-READY offering escrow (dealer manager, fund, UMB Bank) with a blank date line. Microcap, SPAC, and Reg A shell escrows were rejected. No separate premier M&A indemnity escrow was filed as its own clean Form of (those annexes are usually omitted). Class-A/Class-I twins (Carlyle/CPG, CNL) were not duplicated. Drive: Guggenheim-Form-of-Escrow-Agreement-2018.htm (1DWqKY-aarauu9ZTdUGnKcWgx3hACZWwV).'
   last_verified: '2026-09-29'
+
+# 2026-09-29 wave2 — remaining SEC blanks + spin/JPM Form-of
+- id: federal-sec-form-13f
+  title: Form 13F — institutional investment manager holdings report
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: periodic-report
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form13f.pdf
+  form_number: '13F'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-13F.pdf (1i-E7QphX6yrvpW3FOR2W4Ncq4heLDAdn)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-13h
+  title: Form 13H — large trader registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: periodic-report
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form13h.pdf
+  form_number: '13H'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-13H.pdf (176RivvtvqoD_M2uWDWuXpbFNSHiVKCvy)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-10-d
+  title: Form 10-D — asset-backed issuer distribution report
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: abs-report
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form10-d.pdf
+  form_number: '10-D'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-10-D.pdf (1esOcX5TCP9KzTT8hZHnYV_M_foj8K3yo)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-sf-1
+  title: Form SF-1 — asset-backed securities registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formsf-1.pdf
+  form_number: 'SF-1'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-SF-1.pdf (1RIIqdJuxoCat5cEt0nigLMfNekc_RrWg)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-sf-3
+  title: Form SF-3 — asset-backed shelf registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formsf-3.pdf
+  form_number: 'SF-3'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-SF-3.pdf (1nkBvcsXqtUSXZSFhMiyJ_O0ItARbOPe1)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-40-f
+  title: Form 40-F — Canadian MJDS annual report / registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: exchange-act-report
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form40-f.pdf
+  form_number: '40-F'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-40-F.pdf (1llEs3u9mhcKDLfttiTLDobgqxiGIe3AC)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-f-10
+  title: Form F-10 — Canadian MJDS registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formf-10.pdf
+  form_number: 'F-10'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-F-10.pdf (1y_z0sqkdpqrZEbucqIy8eobb5jZsGV5P)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-f-x
+  title: Form F-X — appointment of agent for service (foreign issuer)
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formf-x.pdf
+  form_number: 'F-X'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-F-X.pdf (1ro1Tgct7FxWlLt40mjG6UGqgIdvgW9Y2)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-f-7
+  title: Form F-7 — Canadian rights offering registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formf-7.pdf
+  form_number: 'F-7'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-F-7.pdf (1siVxlaAOrOK8II6NOowBHMrsFyvbL4fS)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-f-8
+  title: Form F-8 — Canadian exchange offer / business combination
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formf-8.pdf
+  form_number: 'F-8'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-F-8.pdf (1wE3rXTSZjIcCxPGRw3xDi2wV0VlybWrm)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-f-80
+  title: Form F-80 — Canadian business combination / exchange offer
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formf-80.pdf
+  form_number: 'F-80'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-F-80.pdf (1PsPsDK-ZSzBceLqm-VKxNuMuncyB1iJv)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-f-n
+  title: Form F-N — appointment of agent for service (foreign broker/investment co)
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formf-n.pdf
+  form_number: 'F-N'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-F-N.pdf (1BLfBQZqtKsAmrOk6YjLzaFljGce3Px-H)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-s-6
+  title: Form S-6 — unit investment trust registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/forms-6.pdf
+  form_number: 'S-6'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-S-6.pdf (1UjZaNEZBYv22ypqjxWHQ3u9qWgoPp8hm)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-2
+  title: Form N-2 — closed-end fund registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-2.pdf
+  form_number: 'N-2'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-2.pdf (1aIi4r3DepjwEwbPaePaqQ935iYlw-c1w)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-3
+  title: Form N-3 — separate account / variable annuity registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-3.pdf
+  form_number: 'N-3'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-3.pdf (1EyZWkftf_Rai0fzOCI09CmdRmfJYRFMV)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-4
+  title: Form N-4 — separate account / variable annuity registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-4.pdf
+  form_number: 'N-4'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-4.pdf (1UOwBoaALgMVFup0ax-y8xxjRMGbDHA9X)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-6
+  title: Form N-6 — variable life insurance separate account
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-6.pdf
+  form_number: 'N-6'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-6.pdf (10hNRI0ggBLPFghfb3TiMgWPzLSlekHTP)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-14
+  title: Form N-14 — investment company business combination registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-14.pdf
+  form_number: 'N-14'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-14.pdf (1pXOAgRGkufNmoHKjrJDfjrzHLdN16zJo)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-csr
+  title: Form N-CSR — registered investment company certified shareholder report
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-csr.pdf
+  form_number: 'N-CSR'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-CSR.pdf (1-RAAl4-A_I4ZsnYWSJQ8oeYsuUb93bHd)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-port
+  title: Form N-PORT — monthly portfolio holdings report
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-port.pdf
+  form_number: 'N-PORT'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-PORT.pdf (1zNOC5aKXtbTmApQdxipMmKn9CaEy3PcO)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-cen
+  title: Form N-CEN — annual report for registered investment companies
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-cen.pdf
+  form_number: 'N-CEN'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-CEN.pdf (1T5z9qrZBXEHkNPwh3HeCv654CTRG5TJI)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-px
+  title: Form N-PX — annual proxy voting record
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-px.pdf
+  form_number: 'N-PX'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-PX.pdf (13omUvFo1CZMW4gCN1vl-vjDHdws1iJ7C)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-mfp
+  title: Form N-MFP — money market fund monthly schedule
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-mfp.pdf
+  form_number: 'N-MFP'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-MFP.pdf (1dIdH4pLmQbukrwE-YRCuELPkaU9LYOtU)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-8a
+  title: Form N-8A — notification of registration under Investment Company Act
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-8a.pdf
+  form_number: 'N-8A'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-8A.pdf (16y4Vme0lP_UA2ZSS10qXUcmG88Rl1mIk)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-8b-2
+  title: Form N-8B-2 — registration statement of unit investment trusts
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-8b-2.pdf
+  form_number: 'N-8B-2'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-8B-2.pdf (1PMXYRkE-6jHjPz0G8q3Bjrwy_ouFAF4H)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-54a
+  title: Form N-54A — notification of election as business development company
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-54a.pdf
+  form_number: 'N-54A'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-54A.pdf (167nnZY9roS7kub1dCrrGb6z-Z1JMydN0)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-54c
+  title: Form N-54C — notification of withdrawal of BDC election
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-54c.pdf
+  form_number: 'N-54C'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-54C.pdf (1zweQBgQ4y26QRSti1wVM4q6hwVhqi_v3)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-sh
+  title: Form SH — short sale disclosure
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: periodic-report
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formsh.pdf
+  form_number: 'SH'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-SH.pdf (1YmPT0P8iHferjDqAHkUcuONSwt-qjI1D)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-crs
+  title: Form CRS — customer relationship summary
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: broker-dealer
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formcrs.pdf
+  form_number: 'CRS'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-CRS.pdf (1XG9duivWs_p4TxS5nhvTpJRrpKGnAQU_)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-se
+  title: Form SE — exhibit / paper filing
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: edgar-admin
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formse.pdf
+  form_number: 'SE'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-SE.pdf (1gjLRbr8JVRo0xVu5aqy8GN_16pexR080)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-18-k
+  title: Form 18-K — annual report for foreign governments
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: exchange-act-report
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form18-k.pdf
+  form_number: '18-K'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-18-K.pdf (1dqTjtayge9S2F9O4HDMFnWb8J6vi6-5-)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-1-e
+  title: Form 1-E — notification under Regulation E
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form1-e.pdf
+  form_number: '1-E'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-1-E.pdf (1_Q0Ib2ihneLzpDDgGTm8TS0fsJiSN4Yf)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-2-e
+  title: Form 2-E — report of sales under Regulation E
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: securities-act-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form2-e.pdf
+  form_number: '2-E'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-2-E.pdf (1NPWbuVATdR4xa64hlRz2OgCSAt6wfP0W)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-bd
+  title: Form BD — broker-dealer application
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: broker-dealer
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formbd.pdf
+  form_number: 'BD'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-BD.pdf (1EcsWUQzIm30QVIkRN1Jv1659XElAVzsg)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-bdw
+  title: Form BDW — broker-dealer withdrawal
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: broker-dealer
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formbdw.pdf
+  form_number: 'BDW'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-BDW.pdf (16RD6_j89ciZctJMf0REV8gXZccI3M6nw)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-ats
+  title: Form ATS — alternative trading system
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: broker-dealer
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formats.pdf
+  form_number: 'ATS'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-ATS.pdf (1Az2PUbo5qB4yrVjURImlmLt4YsOYRxWo)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-ats-n
+  title: Form ATS-N — NMS Stock ATS
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: broker-dealer
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formats-n.pdf
+  form_number: 'ATS-N'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-ATS-N.pdf (14Mz9fafGd0KmKhDfzoIyGVnezIOTKSSf)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-ta-1
+  title: Form TA-1 — transfer agent registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: transfer-agent
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formta-1.pdf
+  form_number: 'TA-1'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-TA-1.pdf (1wZy45DXCiot9AEZyU_gZfjg9bG7QYHzI)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-ta-2
+  title: Form TA-2 — transfer agent annual report
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: transfer-agent
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formta-2.pdf
+  form_number: 'TA-2'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-TA-2.pdf (1lMrqyyRbJjfc4zLYY5l8fryRDnxbl4v6)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-ma
+  title: Form MA — municipal advisor registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: municipal-advisor
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formma.pdf
+  form_number: 'MA'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-MA.pdf (1k8oymd1FINy1TNQAGOJ58G27pY90MjOn)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-ma-i
+  title: Form MA-I — municipal advisor associated person
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: municipal-advisor
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formma-i.pdf
+  form_number: 'MA-I'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-MA-I.pdf (1uUnukuAwQmbORbGynO-0KfXEfR5HAzhL)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-nrsro
+  title: Form NRSRO — nationally recognized statistical rating organization
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: nrsro
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formnrsro.pdf
+  form_number: 'NRSRO'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-NRSRO.pdf (1qGAjwyWIdgL2NnD5OZrji2scqgmCuSt-)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-sbse
+  title: Form SBSE — security-based swap entity registration
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: swap-entity
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formsbse.pdf
+  form_number: 'SBSE'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave2 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-SBSE.pdf (1-0cxvCeHocbAPEcev96OPuwNoAdVcxxw)."
+  last_verified: '2026-09-29'
+
+- id: edgar-kenvue-form-of-tax-matters-2023
+  title: Johnson & Johnson / Kenvue — Form of Tax Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tax-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Johnson & Johnson / Kenvue Inc. (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1944048/000162828023012570/0001628280-23-012570-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1944048/000162828023012570/exhibit102-sx1a4.htm
+  form_number: EX-10.2
+  edition_or_revision_date: Form of dated as of [●], 2023; S-1/A filed 2023-04-24
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY J&J consumer-health spin TMA with blank date. Complements Kenvue Form of TSA already mirrored in Partnership pack. Drive: Kenvue-Form-of-Tax-Matters-Agreement-2023.htm (10e_joydW_ybSWx47S7DtOTTbZFFT9-LX)."
+  last_verified: '2026-09-29'
+- id: edgar-kenvue-form-of-employee-matters-2023
+  title: Johnson & Johnson / Kenvue — Form of Employee Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-employee-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Johnson & Johnson / Kenvue Inc. (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1944048/000162828023002224/0001628280-23-002224-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1944048/000162828023002224/exhibit103-sx1a.htm
+  form_number: EX-10.3
+  edition_or_revision_date: Form of dated as of [●], 2023; S-1/A filed 2023-02-03
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY spin EMA with blank date. Drive: Kenvue-Form-of-Employee-Matters-Agreement-2023.htm (10Ngh-S9nTnX5_T2I0fS6sZ289Qtvzbpu)."
+  last_verified: '2026-09-29'
+- id: edgar-elanco-form-of-tax-matters-2018
+  title: Eli Lilly / Elanco — Form of Tax Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tax-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Eli Lilly and Company / Elanco Animal Health (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1739104/000104746918005982/0001047469-18-005982-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1739104/000104746918005982/a2236595zex-10_3.htm
+  form_number: EX-10.3
+  edition_or_revision_date: Form of dated as of [ · ], 2018; filed 2018-09-06
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Lilly animal-health spin TMA. Drive: Elanco-Form-of-Tax-Matters-Agreement-2018.htm (1iH7RHB6rolDx3lOZ1edStRYgWSOKosph)."
+  last_verified: '2026-09-29'
+- id: edgar-elanco-form-of-ip-license-2018
+  title: Eli Lilly / Elanco — Form of Intellectual Property and Technology License Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-ip-license
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Eli Lilly and Company / Elanco Animal Health (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1739104/000104746918005844/0001047469-18-005844-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1739104/000104746918005844/a2236501zex-10_8.htm
+  form_number: EX-10.8
+  edition_or_revision_date: Form of; filed 2018-08-28
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY spin IP/technology license Form of. Drive: Elanco-Form-of-IP-Technology-License-Agreement-2018.htm (11BEm0qD-AQT1F9ptvggPB8FbJ9hZf7SO)."
+  last_verified: '2026-09-29'
+- id: edgar-gehc-form-of-tax-matters-2022
+  title: GE / GE HealthCare — Form of Tax Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tax-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: General Electric Company / GE HealthCare Technologies (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/0001193125-22-260650-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/d379971dex102.htm
+  form_number: EX-10.2
+  edition_or_revision_date: Dated as of [●], 202[●]; 10-12B filed 2022-10-11
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY GE healthcare spin TMA with blank date. Drive: GEHC-Form-of-Tax-Matters-Agreement-2022.htm (1hReOAY2lifwnG1rV2KnBl_gTgfaNjKI8)."
+  last_verified: '2026-09-29'
+- id: edgar-gehc-form-of-employee-matters-2022
+  title: GE / GE HealthCare — Form of Employee Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-employee-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: General Electric Company / GE HealthCare Technologies (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1932393/000119312522279103/0001193125-22-279103-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1932393/000119312522279103/d379971dex103.htm
+  form_number: EX-10.3
+  edition_or_revision_date: Effective as of [●], 202[●]; 10-12B/A filed 2022-11-07
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY spin EMA with blank date. Drive: GEHC-Form-of-Employee-Matters-Agreement-2022.htm (1bb2WNXC7fqqxMqxpUWbcgve1a5EfnprK)."
+  last_verified: '2026-09-29'
+- id: edgar-gehc-form-of-trademark-license-2022
+  title: GE / GE HealthCare — Form of Trademark License Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-ip-license
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: General Electric Company / GE HealthCare (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/0001193125-22-260650-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/d379971dex104.htm
+  form_number: EX-10.4
+  edition_or_revision_date: 10-12B filed 2022-10-11 (contacts redacted)
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY spin trademark license; some notice contacts redacted [***]. Drive: GEHC-Form-of-Trademark-License-Agreement-2022.htm (1RWMS0_J208FUVaUD7YWqkEyOnczgOy2e)."
+  last_verified: '2026-09-29'
+- id: edgar-gehc-form-of-stockholder-rra-2022
+  title: GE / GE HealthCare — Form of Stockholder and Registration Rights Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: stockholder-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: General Electric Company / GE HealthCare (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/0001193125-22-260650-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/d379971dex106.htm
+  form_number: EX-10.6
+  edition_or_revision_date: 10-12B filed 2022-10-11
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY spin stockholder + registration rights agreement (non-NVCA). Not the IPO IRA set. Drive: GEHC-Form-of-Stockholder-Registration-Rights-Agreement-2022.htm (1vmWrNk5My4Ot88UQqcHT3tIjaBiZ6KRZ)."
+  last_verified: '2026-09-29'
+- id: edgar-gehc-form-of-tsa-2022
+  title: GE / GE HealthCare — Form of Transition Services Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tsa
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: General Electric Company / GE HealthCare Technologies (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/0001193125-22-260650-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/d379971dex101.htm
+  form_number: EX-10.1
+  edition_or_revision_date: Dated [●], 20[●]; 10-12B filed 2022-10-11
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY blank-date TSA. Complements Kenvue/BD/McDermott TSAs already mirrored. Drive: GEHC-Form-of-Transition-Services-Agreement-2022.htm (1DdPsyLxqD6Leqlc74YsZzgFvd3Qd8Q2t)."
+  last_verified: '2026-09-29'
+- id: edgar-valvoline-form-of-tax-matters-2016
+  title: Ashland / Valvoline — Form of Tax Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tax-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Ashland Global Holdings / Valvoline Inc. (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1674910/000119312516664822/0001193125-16-664822-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1674910/000119312516664822/d176840dex104.htm
+  form_number: EX-10.4
+  edition_or_revision_date: Form of dated as of [DATE], 2016; filed 2016-07-29
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Ashland automotive spin TMA. Drive: Valvoline-Form-of-Tax-Matters-Agreement-2016.htm (1i_v9_ja6qQSvZUsvwBNUr0Q6TY8Kke2Q)."
+  last_verified: '2026-09-29'
+- id: edgar-match-form-of-employee-matters-2015
+  title: IAC / Match Group — Form of Employee Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-employee-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: IAC/InterActiveCorp / Match Group (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1575189/000104746915008217/0001047469-15-008217-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1575189/000104746915008217/a2226380zex-10_2.htm
+  form_number: EX-10.2
+  edition_or_revision_date: Form of dated as of [     ], 2015; filed 2015-11-02
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY IAC dating spin EMA. Drive: Match-Form-of-Employee-Matters-Agreement-2015.htm (1J0qpHYEf2z7Bh0YY8_GFVzNq-mNf-gP_)."
+  last_verified: '2026-09-29'
+- id: edgar-leidos-form-of-ip-matters-2016
+  title: Lockheed Martin / Leidos (Abacus) — Form of Intellectual Property Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-ip-license
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Lockheed Martin / Leidos Holdings (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1336920/000119312516633459/0001193125-16-633459-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1336920/000119312516633459/d162784dex23.htm
+  form_number: EX-2.3
+  edition_or_revision_date: Form of; blank day/month 2016; filed 2016-06-28
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Lockheed IS&GS→Leidos IP Matters Form of. Drive: Leidos-Abacus-Form-of-IP-Agreement-2016.htm (1dUs0CdbGhjLWloC9SMwHV9x9NNgpPpKZ)."
+  last_verified: '2026-09-29'
+- id: edgar-jpm-form-of-note-2016
+  title: JPMorgan Chase Financial — Form of Note (MTN Series A)
+  jurisdiction: NY
+  practice_area: securities-ma
+  category: form-of-note
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: JPMorgan Chase Financial Company LLC / JPMorgan Chase & Co. (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/0000950103-16-011338-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4b5.htm
+  form_number: EX-4.B.5
+  edition_or_revision_date: Form of face of security; filed 2016-02-24
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY MTN Form of Note. Mega-cap Apple/MSFT/AMZN/META debt EX-4s were execution officers' certificates / supplemental indentures and were rejected. Drive: JPM-Form-of-Note-2016.htm (1FvxFgh9p5bTAjEinQ0CMYbSPQangMEiE)."
+  last_verified: '2026-09-29'
+- id: edgar-jpm-form-of-note-non-us-2016
+  title: JPMorgan Chase Financial — Non-U.S. Distribution Form of Note
+  jurisdiction: NY
+  practice_area: securities-ma
+  category: form-of-note
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: JPMorgan Chase Financial Company LLC / JPMorgan Chase & Co. (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/0000950103-16-011338-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4b6.htm
+  form_number: EX-4.B.6
+  edition_or_revision_date: Form of; filed 2016-02-24
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Non-U.S. distribution Form of Note (parallel to EX-4.B.5). Drive: JPM-Form-of-Note-Non-US-Distribution-2016.htm (1aEH66I2cTEXxjJ8GVNoPALbSw5ceSsc9)."
+  last_verified: '2026-09-29'
+- id: edgar-jpm-form-of-warrant-2016
+  title: JPMorgan Chase Financial — Form of Warrant
+  jurisdiction: NY
+  practice_area: securities-ma
+  category: form-of-warrant
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: JPMorgan Chase Financial Company LLC / JPMorgan Chase & Co. (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/0000950103-16-011338-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4m1.htm
+  form_number: EX-4.M.1
+  edition_or_revision_date: Form of face of security; filed 2016-02-24
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Form of Warrant certificate. SPAC warrant agreements were rejected. Drive: JPM-Form-of-Warrant-2016.htm (1GTLMB4WuoX2UmnRpi2jxDNo1SPVrMm1l)."
+  last_verified: '2026-09-29'
+- id: edgar-jpm-form-of-warrant-indenture-2016
+  title: JPMorgan Chase Financial — Form of Warrant Indenture
+  jurisdiction: NY
+  practice_area: securities-ma
+  category: form-of-indenture
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: JPMorgan Chase Financial Company LLC / JPMorgan Chase & Co. / Deutsche Bank Trust Company Americas (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/0000950103-16-011338-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4a8.htm
+  form_number: EX-4.A.8
+  edition_or_revision_date: Form of dated as of [ ]; filed 2016-02-24
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Form of Warrant Indenture with blank date. Closest premier Form-of Indenture blank located; notes-base indentures on EDGAR for mega-caps were execution versions. Drive: JPM-Form-of-Warrant-Indenture-2016.htm (1QiiKxBVj7RjV7F6tUK5xzrofpLgoICjM)."
+  last_verified: '2026-09-29'
