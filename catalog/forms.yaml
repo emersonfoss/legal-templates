@@ -6683,3 +6683,318 @@
   copy_policy: link_only
   quality_notes: 'TEMPLATE-READY starting point for external/outsourced DPO engagement contracts. Drive: IAPP-Sample-DPO-Service-Agreement.pdf (1m5ICMaX_iG0bhYU0Csid6yrQsc1keRUH).'
   last_verified: '2026-09-29'
+- id: ilpa-model-lpa-wof-july-2020
+  title: ILPA Model Limited Partnership Agreement (Whole-of-Fund Waterfall)
+  jurisdiction: DE
+  practice_area: private-funds
+  category: fund-lpa
+  source_tier: T1_INDUSTRY_MODEL
+  publisher: Institutional Limited Partners Association (ILPA)
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/model-limited-partnership-agreement/
+  document_url: https://ilpa.org/wp-content/uploads/2020/07/ILPA-Model-Limited-Partnership-Agreement-WOF.pdf
+  form_number: null
+  edition_or_revision_date: 'July 2020'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY Delaware-law PE buyout fund Model LPA (whole-of-fund waterfall). Industry model for drafting bones; tailor with counsel. Not a hedge-fund LPA. Drive: Corporate 02 / Fund formation — PE + hedge / ILPA models + DDQ / ILPA-Model-LPA-WOF-July-2020.pdf (1wOGsCQLkDQZTSWlNwhO2gSD-My_m6CgW).'
+  last_verified: '2026-09-29'
+- id: ilpa-model-lpa-deal-by-deal-july-2020
+  title: ILPA Model Limited Partnership Agreement (Deal-by-Deal Waterfall)
+  jurisdiction: DE
+  practice_area: private-funds
+  category: fund-lpa
+  source_tier: T1_INDUSTRY_MODEL
+  publisher: Institutional Limited Partners Association (ILPA)
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/model-limited-partnership-agreement/
+  document_url: https://ilpa.org/wp-content/uploads/2020/07/ILPA-Model-Limited-Parnership-Agreement-Deal-By-Deal.pdf
+  form_number: null
+  edition_or_revision_date: 'July 2020'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY Delaware-law PE buyout Model LPA with deal-by-deal waterfall. Filename on ILPA CDN uses historic misspelling "Parnership". Drive: ILPA-Model-LPA-Deal-By-Deal-July-2020.pdf (15RI7vpj2bpE3SIH7OQ48tPB3wBnT_lrj).'
+  last_verified: '2026-09-29'
+- id: ilpa-model-subscription-agreement
+  title: ILPA Model Subscription Agreement (private equity funds)
+  jurisdiction: multi
+  practice_area: private-funds
+  category: subscription-agreement
+  source_tier: T1_INDUSTRY_MODEL
+  publisher: Institutional Limited Partners Association (ILPA)
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/model-subscription-agreement/
+  document_url: https://ilpa.org/wp-content/uploads/2018/05/ILPA-Model-Subscription-Agreement-Final.pdf
+  form_number: null
+  edition_or_revision_date: '2017/2018 Final'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY modular multi-jurisdictional PE fund subscription agreement. Drive: ILPA-Model-Subscription-Agreement.pdf (10_9GX6WCtGbfhMrGfkqQNFTFyX18Py_Z).'
+  last_verified: '2026-09-29'
+- id: ilpa-ddq-2-0
+  title: ILPA Due Diligence Questionnaire 2.0
+  jurisdiction: multi
+  practice_area: private-funds
+  category: due-diligence-questionnaire
+  source_tier: T1_INDUSTRY_MODEL
+  publisher: Institutional Limited Partners Association (ILPA)
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/due-diligence-questionnaire-and-diversity-metrics-template/
+  document_url: https://ilpa.org/wp-content/uploads/2021/11/ILPA-DDQ-2.0.pdf
+  form_number: ILPA DDQ 2.0
+  edition_or_revision_date: 'November 2021'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY LP diligence questionnaire for private markets managers. PDF + DOCX on Drive (1NReF0vJBuHAXr6nGkgnOLLSz3RWsZLA5 / 11uij0KgUMIeJOSP7YTBlcx0AXPhF4OY0). Companion user guide also landed.'
+  last_verified: '2026-09-29'
+- id: ilpa-dei-monitoring-questionnaire
+  title: ILPA DEI Monitoring Questionnaire
+  jurisdiction: multi
+  practice_area: private-funds
+  category: due-diligence-questionnaire
+  source_tier: T1_INDUSTRY_MODEL
+  publisher: Institutional Limited Partners Association (ILPA)
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/due-diligence-questionnaire-and-diversity-metrics-template/
+  document_url: https://ilpa.org/wp-content/uploads/2023/10/ILPA-DEI-Monitoring-Questionnaire.pdf
+  form_number: null
+  edition_or_revision_date: '2023'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY ongoing DEI monitoring questionnaire aligned to ILPA DDQ. Drive: 15WmrFwl-4y-VS-h4By7ScV91BTduoH0P.'
+  last_verified: '2026-09-29'
+- id: ilpa-diversity-metrics-template
+  title: ILPA Diversity Metrics Template
+  jurisdiction: multi
+  practice_area: private-funds
+  category: reporting-template
+  source_tier: T1_INDUSTRY_MODEL
+  publisher: Institutional Limited Partners Association (ILPA)
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/due-diligence-questionnaire-and-diversity-metrics-template/
+  document_url: https://ilpa.org/wp-content/uploads/2021/11/ILPA-Diversity-Metrics-Template.xlsx
+  form_number: null
+  edition_or_revision_date: '2021'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY Excel diversity metrics workbook. Drive: 1GZLU1y2CiyQdC1uzEnsVytOX9ns_cmC3.'
+  last_verified: '2026-09-29'
+- id: ilpa-principles-3-0
+  title: ILPA Principles 3.0
+  jurisdiction: multi
+  practice_area: private-funds
+  category: industry-principles
+  source_tier: T1_INDUSTRY_MODEL
+  publisher: Institutional Limited Partners Association (ILPA)
+  source_page_url: https://ilpa.org/ilpa-principles/
+  document_url: https://ilpa.org/wp-content/uploads/2019/06/ILPA-Principles-3.0_2019.pdf
+  form_number: null
+  edition_or_revision_date: '2019'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY industry principles informing PE fund terms (alignment, governance, transparency). Not an operative LPA. Drive: 14fZXogGjqpI8ReHOCkxwglikyF5nNkGC.'
+  last_verified: '2026-09-29'
+- id: ilpa-capital-call-guidance-2025
+  title: ILPA Capital Call & Distribution Template Guidance (2025)
+  jurisdiction: multi
+  practice_area: private-funds
+  category: capital-call-notice
+  source_tier: T1_INDUSTRY_MODEL
+  publisher: Institutional Limited Partners Association (ILPA)
+  source_page_url: https://ilpa.org/industry-guidance/templates-standards-model-documents/ilpa-templates-hub/ilpa-capital-call-distribution-template/
+  document_url: https://ilpa.org/wp-content/uploads/2025/09/ILPA-Suggested-Guidance-2025-Final.pdf
+  form_number: null
+  edition_or_revision_date: 'September 2025'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY guidance for capital call/distribution notices (Excel hub template may be separate). Drive: 1AdG81k1RaTX6uvMAClmM4MSyNGpBmw5f. Companion 2015 best-practices PDF also on Drive (1H2IT0JzM7aptuQZwswYa3FpIHgPFL-bV).'
+  last_verified: '2026-09-29'
+- id: de-sos-certificate-of-limited-partnership
+  title: Certificate of Limited Partnership (DE SOS blank)
+  jurisdiction: DE
+  practice_area: private-funds
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: Delaware Division of Corporations
+  source_page_url: https://corp.delaware.gov/corpformslp09/
+  document_url: https://corpfiles.delaware.gov/LP_Forms/LP%20Formation.pdf
+  form_number: null
+  edition_or_revision_date: 'Official blank verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY DE SOS Certificate of Limited Partnership blank for fund vehicle formation filing. Drive: PE — buyout + growth / DE-Certificate-of-Limited-Partnership.pdf (1R5kjuY8P2Nb9Qz2KzUT51hq_k-Fo5PC5).'
+  last_verified: '2026-09-29'
+- id: sec-form-adv
+  title: Form ADV (Investment Adviser Registration / Exempt Reporting)
+  jurisdiction: US-federal
+  practice_area: private-funds
+  category: sec-form
+  source_tier: T1_OFFICIAL
+  publisher: U.S. Securities and Exchange Commission
+  source_page_url: https://www.sec.gov/divisions/investment/iard/ia-forms.shtml
+  document_url: https://www.sec.gov/files/formadv.pdf
+  form_number: Form ADV
+  edition_or_revision_date: 'OMB 3235-0049; expires 2027-07-31'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY official SEC blank (Parts/Schedules). Electronic filing via IARD. Useful for PE/HF/VC adviser registration / ERA. Drive: SEC blanks / SEC-Form-ADV.pdf (1d8il__lMcIYaSvJrtnrhxDNe1L_xSFIb).'
+  last_verified: '2026-09-29'
+- id: sec-form-d
+  title: Form D — Notice of Exempt Offering of Securities
+  jurisdiction: US-federal
+  practice_area: private-funds
+  category: sec-form
+  source_tier: T1_OFFICIAL
+  publisher: U.S. Securities and Exchange Commission
+  source_page_url: https://www.sec.gov/resources-for-small-businesses/capital-raising-building-blocks/form-d
+  document_url: https://www.sec.gov/files/FormD.pdf
+  form_number: Form D
+  edition_or_revision_date: 'Official blank verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY official SEC Form D blank for Reg D / §4(a)(5) notices commonly used for private fund offerings. Drive: 193r9YEvXtBjnqGtxKa6lH-5x9-DD6O61.'
+  last_verified: '2026-09-29'
+- id: sec-form-pf
+  title: Form PF — Reporting Form for Investment Advisers to Private Funds
+  jurisdiction: US-federal
+  practice_area: private-funds
+  category: sec-form
+  source_tier: T1_OFFICIAL
+  publisher: U.S. Securities and Exchange Commission
+  source_page_url: https://www.sec.gov/divisions/investment/iard/ia-forms.shtml
+  document_url: https://www.sec.gov/files/formpf.pdf
+  form_number: Form PF
+  edition_or_revision_date: 'Official blank verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY official SEC Form PF blank for private-fund adviser reporting. Drive: 1b3KsByi8XyyXo0nQros_tGFxs4Ptb7Bm.'
+  last_verified: '2026-09-29'
+- id: vc-lab-cornerstone-lpa-v3
+  title: Cornerstone LPA v3.0 (VC Lab / Decile) — venture fund LPA
+  jurisdiction: DE
+  practice_area: private-funds
+  category: fund-lpa
+  source_tier: T2_OPEN_MODEL
+  publisher: VC Lab / Decile Group
+  source_page_url: https://govclab.com/cornerstone-lpa/
+  document_url: https://govclab.com/api/storage/objects/uploads/fb0d21dc-87ab-403d-aa23-7a1f0ce59ef4
+  form_number: Cornerstone v3.0
+  edition_or_revision_date: 'v3.0 (2023/2024 SEC updates; American or European waterfall)'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY lightweight Delaware VC fund LPA; free to use/modify per VC Lab. Integrates subscription-style economics; not a white-shoe PE buyout LPA (use ILPA for that). Drive: VC / Cornerstone-LPA-v3.pdf (1W9rcripg0Z-66IqB9J5ZWLDvS6Ek0t3n).'
+  last_verified: '2026-09-29'
+- id: vc-lab-pact-v3
+  title: PACT — Pledge Agreement for Capital Transaction (VC Lab) v3
+  jurisdiction: multi
+  practice_area: private-funds
+  category: indication-of-interest
+  source_tier: T2_OPEN_MODEL
+  publisher: VC Lab / Founder Institute
+  source_page_url: https://fi.co/insight/the-pact
+  document_url: https://fi-hatchbox-production-uploads.s3.amazonaws.com/drive/VC_Lab_PACT3.pdf
+  form_number: PACT v3
+  edition_or_revision_date: 'PACT3'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY non-binding LP indication-of-interest / hard-circle letter for VC fund raises. Drive: VC-Lab-PACT3.pdf (1vMtU5WXss4FhBhGl1GCWEM9JtQBSy5Bz); earlier VC-Lab-PACT.pdf also landed (1LzWhAFsZAD7kueHhjq-smop8jpKuWFyj).'
+  last_verified: '2026-09-29'
+- id: openvc-orrick-gp-entity-key-terms
+  title: Executive Summary of Key Terms — GP Entity (OpenVC / Orrick)
+  jurisdiction: DE
+  practice_area: private-funds
+  category: gp-management-company
+  source_tier: T2_OPEN_MODEL
+  publisher: OpenVC / Orrick (Dolph Hellman) via David Teten
+  source_page_url: https://www.openvc.app/blog/downloadable-template-gp-entity-agreement-for-new-vc-funds
+  document_url: https://docs.google.com/document/d/1ZcT_XeeFNFDIzH0o7WUf3Fd2bjQj-X9R/edit
+  form_number: null
+  edition_or_revision_date: 'Posted 2025-04-28'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY GP entity key-terms executive summary (carry vesting, key person, dilution, management company hook) — not a full GP LLC Agreement. Drive: OpenVC-Orrick-GP-Entity-Agreement-Key-Terms.docx (1a7UuOg9B4Bj1oHEybKAiqfQz-TNWg6s7).'
+  last_verified: '2026-09-29'
+- id: edgar-tpg-private-equity-opportunities-lpa
+  title: TPG Private Equity Opportunities, L.P. — Amended and Restated LPA (EDGAR)
+  jurisdiction: DE
+  practice_area: private-funds
+  category: fund-lpa
+  source_tier: T2_EDGAR_PRECEDENT
+  publisher: TPG (EDGAR exhibit)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2050260/000205026025000059/exhibit31-arlpa.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2050260/000205026025000059/exhibit31-arlpa.htm
+  form_number: EX-3.1
+  edition_or_revision_date: 'Dated as of June 2, 2025'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'PRECEDENT evergreen/Exchange Act-reporting PE vehicle LPA — useful drafting bones, not classic closed-end buyout LPA and not TEMPLATE-READY. Drive txt: 1kh3u0cbM64DAbumfVkNTcljX5TpHbToF.'
+  last_verified: '2026-09-29'
+- id: edgar-blackstone-brea-viii-associates-lpa
+  title: Blackstone Real Estate Associates VIII L.P. — Amended and Restated LPA (EDGAR)
+  jurisdiction: DE
+  practice_area: private-funds
+  category: gp-management-company
+  source_tier: T2_EDGAR_PRECEDENT
+  publisher: Blackstone (EDGAR exhibit)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1393818/000119312516481948/d129194dex1084.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1393818/000119312516481948/d129194dex1084.htm
+  form_number: EX-10.84
+  edition_or_revision_date: 'Dated as of March 27, 2015'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'PRECEDENT GP/Associates carry-vehicle LPA for BREP VIII — not the main fund LPA. Useful for GP economics bones. Drive txt: 18I0DpWRVbRQpCrvRZqgBQ6BgKmhMHU0b.'
+  last_verified: '2026-09-29'
+- id: edgar-lc-advisors-form-fund-subscription
+  title: Form of Fund Subscription Agreement (LC Advisors / EDGAR)
+  jurisdiction: DE
+  practice_area: private-funds
+  category: subscription-agreement
+  source_tier: T2_EDGAR_PRECEDENT
+  publisher: LC Advisors, LLC (EDGAR exhibit)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1409970/000119312514375401/d766811dex1024.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1409970/000119312514375401/d766811dex1024.htm
+  form_number: EX-10.24
+  edition_or_revision_date: '2014 Form of'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'PRECEDENT private-fund subscription + investor questionnaire form. Useful PE/HF drafting bones. Drive: PE 1tdvndvgFHoiVZ6DmEgwCY2hU4RmysJHR; Hedge copy 1Y_EaV86-9_xFBTFm5lxxtJFo9xhcNsCT.'
+  last_verified: '2026-09-29'
+- id: edgar-altai-ventures-subscription
+  title: Altai Ventures Special Opportunities Fund I, LP — Subscription Agreement (EDGAR)
+  jurisdiction: DE
+  practice_area: private-funds
+  category: subscription-agreement
+  source_tier: T2_EDGAR_PRECEDENT
+  publisher: Altai Ventures (EDGAR exhibit via Accelerant Holdings)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1997350/000095012323011095/filename9.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1997350/000095012323011095/filename9.htm
+  form_number: EX-10.11
+  edition_or_revision_date: 'EDGAR exhibit'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'PRECEDENT VC/special-opportunities fund subscription agreement. Drive: 1PiJRX_f0Ymk7asFglV2RB3ScQ-KR3YQu.'
+  last_verified: '2026-09-29'
+- id: njeda-ssbci-venture-side-letter-sample
+  title: NJEDA SSBCI Venture Side Letter SAMPLE
+  jurisdiction: NJ
+  practice_area: private-funds
+  category: side-letter
+  source_tier: T2_OFFICIAL_SAMPLE
+  publisher: New Jersey Economic Development Authority
+  source_page_url: https://www.njeda.gov/
+  document_url: https://www.njeda.gov/wp-content/uploads/2026/08/3-NJEDA-SSBCI-Venture-Side-Letter-SAMPLE-August-2026.pdf
+  form_number: null
+  edition_or_revision_date: 'August 2026 SAMPLE'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'PRECEDENT/public SAMPLE LP side letter for SSBCI venture sidecar — MFN-style investor protections; program-specific. Drive: 17ohBmwIZoVmrX4VOQcN7zJzMQ9cjmnc1.'
+  last_verified: '2026-09-29'
+- id: edgar-alluvial-fund-form-of-side-letter
+  title: Alluvial Fund, LP — Form of Side Letter (EDGAR)
+  jurisdiction: DE
+  practice_area: private-funds
+  category: side-letter
+  source_tier: T2_EDGAR_PRECEDENT
+  publisher: Alluvial Capital Management / Alluvial Fund, LP (EDGAR)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1096934/000072174816001857/site1229168kex10_2.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1096934/000072174816001857/site1229168kex10_2.htm
+  form_number: EX-10.2
+  edition_or_revision_date: 'December 28, 2016 Form of'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'PRECEDENT private hedge-fund side letter (Alluvial Fund, LP). Redactions present ([***]). Drive: Hedge / Alluvial-Fund-Form-of-Side-Letter.txt (1-laP_vW5jZtoWnR_cmen7y0Go6XYMoA0).'
+  last_verified: '2026-09-29'
