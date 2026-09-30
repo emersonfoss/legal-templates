@@ -73,3 +73,40 @@ Premier **Form of** spin and structured-product exhibits. Mega-cap Apple/MSFT/AM
 | JPM Non-U.S. Distribution Form of Note | Form of Note | [EX-4.B.6](https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4b6.htm) | `1aEH66I2cTEXxjJ8GVNoPALbSw5ceSsc9` |
 | JPM Form of Warrant | Form of Warrant | [EX-4.M.1](https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4m1.htm) | `1GTLMB4WuoX2UmnRpi2jxDNo1SPVrMm1l` |
 | JPM Form of Warrant Indenture | Form of Indenture | [EX-4.A.8](https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4a8.htm) | `1QiiKxBVj7RjV7F6tUK5xzrofpLgoICjM` |
+
+## 2026-09-29 late — wave 3 Form-of (Separation / Supply / new-issuer spin suite)
+
+Premier **Form of** / blank-dated spin exhibits filling Separation/Distribution, Master Separation, new-issuer EMA/TMA, TSA beyond GEHC/J&J, Supply, and IP gaps. Execution Separations (PayPal/Dow/Keysight/GE Vernova) and SPAC/microcap Support/Convertible Indenture hits rejected. No premier blank-quality Form of Support/Voting/Proxy or Convertible Notes Indenture located.
+
+| Document | Type | Document URL | Drive |
+|---|---|---|---|
+| Labcorp/Fortrea Form of Separation and Distribution | Spin Separation | [exhibit21-10x12ba.htm](https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/exhibit21-10x12ba.htm) | `1dkcKVz2gWsqW-aC70UbEy_utMR9eyRQZ` |
+| Labcorp/Fortrea Form of Tax Matters Agreement | Spin TMA | [exhibit101-10x12ba.htm](https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/exhibit101-10x12ba.htm) | `1HUkG0I6Iqpk7f9wqdO2Yaz4KyZXdMBPk` |
+| Labcorp/Fortrea Form of Employee Matters Agreement | Spin EMA | [exhibit102-10x12ba.htm](https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/exhibit102-10x12ba.htm) | `16uZuTlb11tvankZxojgscg8q3gFdByea` |
+| Labcorp/Fortrea Form of Transition Services Agreement | Spin TSA | [exhibit103-10x12ba.htm](https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/exhibit103-10x12ba.htm) | `1TeKLMQ9nzKe1THhPPBmxq8B60u31LBXd` |
+| 3M/Solventum Form of Separation and Distribution | Spin Separation | [exhibit21-form10.htm](https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit21-form10.htm) | `1gdNfAsX0Btr4l5cCZNc-bRa3cNpZvRUZ` |
+| 3M/Solventum Form of Transition Services Agreement | Spin TSA | [exhibit101-form10.htm](https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit101-form10.htm) | `1HMZgbHWXJBoRmEbHt6b8J9epZ82Hktic` |
+| 3M/Solventum Form of Tax Matters Agreement | Spin TMA | [exhibit102-form10.htm](https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit102-form10.htm) | `104F7S7Unomrll-T7kr-eqidhADu512HK` |
+| 3M/Solventum Form of Employee Matters Agreement | Spin EMA | [exhibit103-form10.htm](https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit103-form10.htm) | `1ANpLpXl7YPqmAHFShEiUuGpI5aBaJVAC` |
+| 3M/Solventum Form of IP Cross License | Spin IP | [exhibit108-form10.htm](https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit108-form10.htm) | `1M__QttdZKUWRS34ZhJg3reUNZWN65U3e` |
+| 3M/Solventum Form of Master Supply Agreement | Spin Supply | [exhibit1011-form10.htm](https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit1011-form10.htm) | `156j7pHcsZ_7i4uMpRmznEErS7m3PjKb0` |
+| Fortive/Ralliant Form of Separation and Distribution | Spin Separation | [tm2429554d6_ex2-1.htm](https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/tm2429554d6_ex2-1.htm) | `1OGJ_vRMTWqRMEn3If4VsFqFX5FDJ8DP6` |
+| Fortive/Ralliant Form of Transition Services Agreement | Spin TSA | [tm2429554d6_ex10-1.htm](https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/tm2429554d6_ex10-1.htm) | `1yYguSkcIbhAmA8Y7Np5JCcRnxVKic66z` |
+| Fortive/Ralliant Form of Tax Matters Agreement | Spin TMA | [tm2429554d6_ex10-2.htm](https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/tm2429554d6_ex10-2.htm) | `1hFIGEsoTC3N76MO-iPMnzXL56Lnf9D_I` |
+| Fortive/Ralliant Form of Employee Matters Agreement | Spin EMA | [tm2429554d6_ex10-3.htm](https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/tm2429554d6_ex10-3.htm) | `1rW8TqBDbkCtNGR_hCgRAoamUYkeAc06m` |
+| Honeywell/Resideo Form of Separation and Distribution | Spin Separation | [d601987dex21.htm](https://www.sec.gov/Archives/edgar/data/1740332/000119312518290883/d601987dex21.htm) | `1GhGAm7sxVuYKvWcBuEWuD2Try608q4MJ` |
+| Honeywell/Resideo Form of Tax Matters Agreement | Spin TMA | [d601987dex23.htm](https://www.sec.gov/Archives/edgar/data/1740332/000119312518290883/d601987dex23.htm) | `1vWvIO3bUXI6OJmX_u4_I5CagHaBQD5aH` |
+| Kellogg/WK Kellogg Form of Separation and Distribution | Spin Separation | [d456637dex21.htm](https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/d456637dex21.htm) | `1A8psUjgxdoqTVOZzshcUb-1Obw9NXHv9` |
+| Kellogg/WK Kellogg Form of Supply Agreement | Spin Supply | [d456637dex102.htm](https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/d456637dex102.htm) | `1SROXW4GWaHZaHjYkaNrZby4zFkZyMTOE` |
+| Kellogg/WK Kellogg Form of Tax Matters Agreement | Spin TMA | [d456637dex105.htm](https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/d456637dex105.htm) | `1fRApsqKzENw3rge_elN7gAs7M37rJdWt` |
+| Kellogg/WK Kellogg Form of Transition Services Agreement | Spin TSA | [d456637dex106.htm](https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/d456637dex106.htm) | `1k6qB91_cBjgSbuLIy8dNNdYoz8oQS1H_` |
+| Danaher/Envista Form of Separation Agreement | Spin Separation | [nvst-s1xex101.htm](https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/nvst-s1xex101.htm) | `18G-RHpRmORKLm3qimH-VeKhLk61hKl9Y` |
+| Danaher/Envista Form of Transition Services Agreement | Spin TSA | [nvst-s1xex102.htm](https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/nvst-s1xex102.htm) | `1m3ovhEyWGH7sW8C_riGJuqdtlVERdtRv` |
+| Danaher/Envista Form of Tax Matters Agreement | Spin TMA | [nvst-s1xex103.htm](https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/nvst-s1xex103.htm) | `1maQICQaUgiBX8QPnaPc3Ij27k3eHs3VE` |
+| Danaher/Envista Form of IP Matters Agreement | Spin IP | [nvst-s1xex105.htm](https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/nvst-s1xex105.htm) | `1NUN2FGOLmiNRvCQNfuYlfzDxcMIcXMk9` |
+| Lilly/Elanco Form of Master Separation Agreement | Master Separation | [a2236501zex-10_1.htm](https://www.sec.gov/Archives/edgar/data/1739104/000104746918005844/a2236501zex-10_1.htm) | `1PGxsQbGNDYzV120XH13TX0lRq-HdyN8Z` |
+| Fortune Brands/MasterBrand Form of Separation and Distribution | Spin Separation | [d307794dex21.htm](https://www.sec.gov/Archives/edgar/data/1941365/000119312522290185/d307794dex21.htm) | `1ibc5ga4YWdkvfQcmtiNU9B847bUh6287` |
+| Fortune Brands/MasterBrand Form of Employee Matters Agreement | Spin EMA | [d307794dex102.htm](https://www.sec.gov/Archives/edgar/data/1941365/000119312522290185/d307794dex102.htm) | `1JQokRL6PpU096BTy9hTv8IgIzObxgQSb` |
+| Conagra/Lamb Weston Form of Separation and Distribution | Spin Separation | [d205931dex21.htm](https://www.sec.gov/Archives/edgar/data/1679273/000119312516693702/d205931dex21.htm) | `1v_LgZMmAAqnoX4g2-PZTlOCGIwxCyrwB` |
+| Conagra/Lamb Weston Form of Transition Services Agreement | Spin TSA | [d205931dex103.htm](https://www.sec.gov/Archives/edgar/data/1679273/000119312516693702/d205931dex103.htm) | `1moNvZU2J6Pd1oToms3t4Z_MRIm1_jZv6` |
+| B&W Form of Master Separation Agreement | Master Separation | [d888282dex21.htm](https://www.sec.gov/Archives/edgar/data/1630805/000119312515195380/d888282dex21.htm) | `19aEbEHp7xWPGddl6W4lcsVUZCUMHGTFO` |
