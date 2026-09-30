@@ -50,3 +50,26 @@ Clean **Form of** exhibits only. Execution-version premier documents (Charter 20
 | CBS Operations Form of Guarantee | Indenture endorsement guarantee | [EX-4.4](https://www.sec.gov/Archives/edgar/data/813828/000119312517332895/d456645dex44.htm) | `1A93kyiQddJ0Cak6-MjR8F--BVQi0_34Y` |
 | Denali/Dell Form of A&R Registration Rights Agreement | Sponsor shelf / demand RRA; blank date. Not the IPO IRA set | [EX-10.2](https://www.sec.gov/Archives/edgar/data/1571996/000119312516586396/d73946dex102.htm) | `1pojUUV_nW2DtkVCBEZ3G8BTd932m73uq` |
 | Alphabet Form of Indemnification Agreement | Public-company D&O form; not NVCA | [EX-10.4](https://www.sec.gov/Archives/edgar/data/1652044/000119312515336577/d82837dex104.htm) | `1WQaYtWGsoa4nW5f7MOfLlDN_VoGGtPag` |
+
+## 2026-09-29 evening — wave 2 Form-of (spins + JPM note/warrant)
+
+Premier **Form of** spin and structured-product exhibits. Mega-cap Apple/MSFT/AMZN/META/Disney/Boeing EX-4 debt docs were execution officers' certificates or supplemental indentures and were not mirrored. No premier blank-quality Form of Support, Voting (non-NVCA), Intercreditor, or M&A escrow was located; SPAC/microcap hits rejected. LSTA intercreditor remains member-gated.
+
+| Document | Type | Document URL | Drive |
+|---|---|---|---|
+| J&J/Kenvue Form of Tax Matters Agreement | Spin TMA | [EX-10.2](https://www.sec.gov/Archives/edgar/data/1944048/000162828023012570/exhibit102-sx1a4.htm) | `10e_joydW_ybSWx47S7DtOTTbZFFT9-LX` |
+| J&J/Kenvue Form of Employee Matters Agreement | Spin EMA | [EX-10.3](https://www.sec.gov/Archives/edgar/data/1944048/000162828023002224/exhibit103-sx1a.htm) | `10Ngh-S9nTnX5_T2I0fS6sZ289Qtvzbpu` |
+| Lilly/Elanco Form of Tax Matters Agreement | Spin TMA | [EX-10.3](https://www.sec.gov/Archives/edgar/data/1739104/000104746918005982/a2236595zex-10_3.htm) | `1iH7RHB6rolDx3lOZ1edStRYgWSOKosph` |
+| Lilly/Elanco Form of IP and Technology License | Spin IP license | [EX-10.8](https://www.sec.gov/Archives/edgar/data/1739104/000104746918005844/a2236501zex-10_8.htm) | `11BEm0qD-AQT1F9ptvggPB8FbJ9hZf7SO` |
+| GE/GEHC Form of Tax Matters Agreement | Spin TMA | [EX-10.2](https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/d379971dex102.htm) | `1hReOAY2lifwnG1rV2KnBl_gTgfaNjKI8` |
+| GE/GEHC Form of Employee Matters Agreement | Spin EMA | [EX-10.3](https://www.sec.gov/Archives/edgar/data/1932393/000119312522279103/d379971dex103.htm) | `1bb2WNXC7fqqxMqxpUWbcgve1a5EfnprK` |
+| GE/GEHC Form of Trademark License | Spin IP | [EX-10.4](https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/d379971dex104.htm) | `1RWMS0_J208FUVaUD7YWqkEyOnczgOy2e` |
+| GE/GEHC Form of Stockholder and Registration Rights | Spin SHA/RRA | [EX-10.6](https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/d379971dex106.htm) | `1vmWrNk5My4Ot88UQqcHT3tIjaBiZ6KRZ` |
+| GE/GEHC Form of Transition Services Agreement | Spin TSA | [EX-10.1](https://www.sec.gov/Archives/edgar/data/1932393/000119312522260650/d379971dex101.htm) | `1DdPsyLxqD6Leqlc74YsZzgFvd3Qd8Q2t` |
+| Ashland/Valvoline Form of Tax Matters Agreement | Spin TMA | [EX-10.4](https://www.sec.gov/Archives/edgar/data/1674910/000119312516664822/d176840dex104.htm) | `1i_v9_ja6qQSvZUsvwBNUr0Q6TY8Kke2Q` |
+| IAC/Match Form of Employee Matters Agreement | Spin EMA | [EX-10.2](https://www.sec.gov/Archives/edgar/data/1575189/000104746915008217/a2226380zex-10_2.htm) | `1J0qpHYEf2z7Bh0YY8_GFVzNq-mNf-gP_` |
+| Lockheed/Leidos Form of IP Matters Agreement | Spin IP | [EX-2.3](https://www.sec.gov/Archives/edgar/data/1336920/000119312516633459/d162784dex23.htm) | `1dUs0CdbGhjLWloC9SMwHV9x9NNgpPpKZ` |
+| JPM Form of Note (MTN Series A) | Form of Note | [EX-4.B.5](https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4b5.htm) | `1FvxFgh9p5bTAjEinQ0CMYbSPQangMEiE` |
+| JPM Non-U.S. Distribution Form of Note | Form of Note | [EX-4.B.6](https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4b6.htm) | `1aEH66I2cTEXxjJ8GVNoPALbSw5ceSsc9` |
+| JPM Form of Warrant | Form of Warrant | [EX-4.M.1](https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4m1.htm) | `1GTLMB4WuoX2UmnRpi2jxDNo1SPVrMm1l` |
+| JPM Form of Warrant Indenture | Form of Indenture | [EX-4.A.8](https://www.sec.gov/Archives/edgar/data/19617/000095010316011338/dp63627_ex4a8.htm) | `1QiiKxBVj7RjV7F6tUK5xzrofpLgoICjM` |
