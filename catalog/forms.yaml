@@ -6472,3 +6472,124 @@
   copy_policy: link_only
   quality_notes: 'Official IRS §83(b) election (not a law-firm cover letter). Orrick pass fills Box 2 with "____ shares of Common Stock of [COMPANY NAME], a Delaware corporation" and Box 5 with repurchase-at-cost on termination; [PURCHASER NAME] in Box 1. Blank official PDF is document_url. No separate early-exercise addendum found ungated. Drive PDF: Orrick-83b-Election-Form-15620.pdf (1WifiZ1CTZFxjhHLIp3IG39B71_ydVQzY).'
   last_verified: '2026-09-29'
+
+- id: de-sos-incorporation-stock
+  title: Certificate of Incorporation — Stock Corporation (DE SOS blank)
+  jurisdiction: DE
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: Delaware Division of Corporations
+  source_page_url: https://corp.delaware.gov/newentit09/
+  document_url: https://corpfiles.delaware.gov/Corp_Forms/Incorporation%20-%20Stock.pdf
+  form_number: null
+  edition_or_revision_date: 'Official blank verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY official DE SOS fillable blank for a stock corporation under DGCL §102. Fee note on form (min $109 + stock-based). Not attorney-drafted charter language (no preferred, dual-class, or DGCL §102(b)(7) package beyond the separate directors-liability variant). Drive: Corporate 02 / Formation + bylaws / DE-SOS-Incorporation-Stock.pdf (1ar8GQRgMD5xratNrfd2SMRdKp_kG0fCk).'
+  last_verified: '2026-09-29'
+- id: de-sos-incorporation-stock-directors-liability
+  title: Certificate of Incorporation — Stock Corporation with Directors Liability (DE SOS blank)
+  jurisdiction: DE
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: Delaware Division of Corporations
+  source_page_url: https://corp.delaware.gov/newentit09/
+  document_url: https://corpfiles.delaware.gov/Corp_Forms/Incorporation%20-%20Stock%20-%20Directors%20Liability.pdf
+  form_number: null
+  edition_or_revision_date: 'Official blank verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY DE SOS blank stock COI including directors-liability language permitted by statute (DGCL §102(b)(7) style). Prefer this over plain stock blank when limiting director monetary liability. Drive: DE-SOS-Incorporation-Stock-Directors-Liability.pdf (1Di4befukg5hzIfVaQF2jMaTU6jDMJfb5).'
+  last_verified: '2026-09-29'
+- id: de-sos-incorporation-public-benefit-corporation
+  title: Certificate of Incorporation — Public Benefit Corporation (DE SOS blank)
+  jurisdiction: DE
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: Delaware Division of Corporations
+  source_page_url: https://corp.delaware.gov/newentit09/
+  document_url: https://corpfiles.delaware.gov/Corp_Forms/Incorporation%20-%20Public%20Benefit%20Corporation-.pdf
+  form_number: null
+  edition_or_revision_date: 'Official blank verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY DE SOS PBC blank (DGCL §§102, 362). Drive: DE-SOS-Incorporation-Public-Benefit-Corporation.pdf (1_LmhhV3EpysPrt9d3x8bwshnR1W_LaGp).'
+  last_verified: '2026-09-29'
+- id: de-sos-incorporation-non-stock
+  title: Certificate of Incorporation — Non-Stock Corporation (DE SOS blank)
+  jurisdiction: DE
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: Delaware Division of Corporations
+  source_page_url: https://corp.delaware.gov/newentit09/
+  document_url: https://corpfiles.delaware.gov/Corp_Forms/Incorporation%20-%20Non-Stock.pdf
+  form_number: null
+  edition_or_revision_date: 'Official blank verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY DE SOS non-stock COI blank. Form states not for nonprofit/exempt — use exempt form instead. Drive: DE-SOS-Incorporation-Non-Stock.pdf (1Xo3yYXxIIYuCBe7j10Nk0CKtd_yPDZfV).'
+  last_verified: '2026-09-29'
+- id: de-sos-llc-certificate-of-formation
+  title: Certificate of Formation — Limited Liability Company (DE SOS blank)
+  jurisdiction: DE
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: Delaware Division of Corporations
+  source_page_url: https://corp.delaware.gov/newentit09/
+  document_url: https://corpfiles.delaware.gov/LLC_Forms/LLC%20Formation.pdf
+  form_number: null
+  edition_or_revision_date: 'Official blank verified 2026-09-29'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY DE SOS LLC Certificate of Formation blank (6 Del. C. §18-201). Fee $110 on form; annual tax $400 by June 1 noted. Pair with a short OA (see federal-llc-delaware-simple — CC BY, dated 2015, starting point only). Not WY Reg CF. Drive: DE-SOS-LLC-Certificate-of-Formation.pdf (1gKUSaHP7v-f72ee-F8oHMiLfuOxQFQZt).'
+  last_verified: '2026-09-29'
+- id: de-sos-cover-memo-filing
+  title: Filing Cover Memo (DE SOS)
+  jurisdiction: DE
+  practice_area: corporate-entity-filings
+  category: filing-cover-memo
+  source_tier: T1_OFFICIAL
+  publisher: Delaware Division of Corporations
+  source_page_url: https://corp.delaware.gov/cvrmemo/
+  document_url: https://corpfiles.delaware.gov/Cover_Memo/updatedfilingmemoandinstructionsSept24.pdf
+  form_number: null
+  edition_or_revision_date: 'updatedfilingmemoandinstructionsSept24'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'Official DE SOS filing cover memo + instructions for mail/courier check filings. Not used for online Document Filing Service. Drive: DE-SOS-Cover-Memo-Filing.pdf (1bGizpludWGgNAfaq2ntBvyrUvEGlZRxo).'
+  last_verified: '2026-09-29'
+- id: de-sos-cover-memo-certificate-request
+  title: Certification / Certificate Request Cover Memo (DE SOS)
+  jurisdiction: DE
+  practice_area: corporate-entity-filings
+  category: filing-cover-memo
+  source_tier: T1_OFFICIAL
+  publisher: Delaware Division of Corporations
+  source_page_url: https://corp.delaware.gov/cvrmemo/
+  document_url: https://corpfiles.delaware.gov/Cover_Memo/updatedcertmemoandinstructionsSept24.pdf
+  form_number: null
+  edition_or_revision_date: 'updatedcertmemoandinstructionsSept24'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'Official DE SOS certification memo for mail/courier certificate requests. Drive: DE-SOS-Cover-Memo-Certificate-Request.pdf (1j0Y0UqG6n3pAOfFVK1xKn8mh_8SoPXqG).'
+  last_verified: '2026-09-29'
+- id: ny-dos-1336-f-articles-of-organization-llc
+  title: Articles of Organization (Domestic LLC), LLCL §203
+  jurisdiction: NY
+  practice_area: corporate-entity-filings
+  category: entity-formation
+  source_tier: T1_OFFICIAL
+  publisher: NYS Dept. of State, Div. of Corporations
+  source_page_url: https://dos.ny.gov/articles-organization-domestic-limited-liability-company-0
+  document_url: https://dos.ny.gov/system/files/documents/2023/01/1336-f.pdf
+  form_number: DOS-1336-f
+  edition_or_revision_date: 'Fetched 2026-09-29 from dos.ny.gov system/files/documents/2023/01/1336-f.pdf'
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY NY DOS Articles of Organization for domestic LLC. Not previously in catalog (corp certificates were). Drive: Corporate 02 / Formation + bylaws / NY-DOS-1336-f-Articles-of-Organization-LLC.pdf (1-E4zFDCAGFXDssJjx1LkAFnxwgBhIKdF).'
+  last_verified: '2026-09-29'
