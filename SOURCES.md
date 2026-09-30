@@ -34,6 +34,7 @@ collection with `git submodule update --remote sources/<name>`.
 | `sources/commonpaper-psa` | [CommonPaper/PSA](https://github.com/CommonPaper/PSA) | CC BY 4.0 | Common Paper PSA. |
 | `sources/commonpaper-sla` | [CommonPaper/SLA](https://github.com/CommonPaper/SLA) | CC BY 4.0 | Common Paper SLA. |
 | `sources/commonpaper-software-license-agreement` | [CommonPaper/Software-License-Agreement](https://github.com/CommonPaper/Software-License-Agreement) | CC BY 4.0 | Common Paper Software License Agreement. |
+| `sources/commonpaper-partnership-agreement` | [CommonPaper/Partnership-Agreement](https://github.com/CommonPaper/Partnership-Agreement) | CC BY 4.0 | Common Paper Partnership Agreement (referral / co-marketing / sponsorship). |
 | `sources/commonpaper-pilot-agreement` | [CommonPaper/Pilot-Agreement](https://github.com/CommonPaper/Pilot-Agreement) | CC BY 4.0 | Common Paper Pilot Agreement. |
 | `sources/llc-delaware-simple` | [ParticipatoryOrgs/LLC-Delaware-Simple](https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple) | CC BY 4.0 | Simple Delaware LLC OA / subscription (2015; research starting point). |
 | `sources/legalmattic` | [Automattic/legalmattic](https://github.com/Automattic/legalmattic) | CC BY-SA 4.0 | Automattic / WordPress.com policies (company-docs lane). |

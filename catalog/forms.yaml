@@ -5186,7 +5186,7 @@
   edition_or_revision_date: v2.x line (repo pinned 2026-09-29)
   access: Free under CC0 1.0
   copy_policy: copy_allowed_if_license_verified
-  quality_notes: CC0. Balanced employee IP assignment template. Vendored at sources/beipa-balanced-employee-ip-agreement.
+  quality_notes: CC0. Balanced employee IP assignment template. Vendored at sources/beipa-balanced-employee-ip-agreement. Drive mirror: Partnership pack BEIPA md (1qD3ZWLoJnCsCK4H7sw1ZxqdZdNNVuQCt).
     Change name if substantially modifying beyond bracket fields.
   last_verified: '2026-09-29'
 - id: federal-atticus-cuad
@@ -7116,5 +7116,141 @@
   edition_or_revision_date: Posted alongside 2025 GP-entity series
   access: Free
   copy_policy: link_only
-  quality_notes: TEMPLATE-READY management-company key-terms executive summary (fee economics, employment/platform assets, partner economics) — not a full management-company LLC Agreement. Companion to openvc-orrick-gp-entity-key-terms. Full white-shoe GP/Mgmt OAs remain gated/unpublished.
+  quality_notes: 'TEMPLATE-READY management-company key-terms executive summary (fee economics, employment/platform assets, partner economics) — not a full management-company LLC Agreement. Companion to openvc-orrick-gp-entity-key-terms. Full white-shoe GP/Mgmt OAs remain gated/unpublished. Drive: Corporate 02 / Partnership + IP recordation + site policies / OpenVC ManCo + BEIPA / OpenVC-Orrick-Management-Company-Key-Terms.docx (1_7-53jBhSZAdxWnnkoJRGnlo1HRtvXze).'
+  last_verified: '2026-09-29'
+
+- id: commonpaper-partnership-agreement-v1-1
+  title: Common Paper Partnership Agreement (v1.1)
+  jurisdiction: US
+  practice_area: commercial-contracts
+  category: partnership-referral-comarketing
+  source_tier: T2_OPEN_MODEL
+  publisher: Common Paper
+  source_page_url: https://commonpaper.com/standards/partnership-agreement/
+  document_url: https://commonpaper.com/standards/partnership-agreement/1.1/cover-page-and-standard-terms-docx
+  form_number: Partnership Agreement v1.1
+  edition_or_revision_date: v1.1 (Standard Terms hosted at /1.1)
+  access: Free (CC BY 4.0)
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY attorney-committee commercial partnership model (referral / co-marketing / sponsorship) with trademark license, confidentiality, caps/indemnity, escalation. Cover Page + Standard Terms architecture. Not an equity JV or shareholders agreement. Vendored markdown at sources/commonpaper-partnership-agreement. Drive: Corporate 02 / Partnership + IP / Common Paper Partnership / Common-Paper-Partnership-Agreement-v1.1-full.docx (1iP-ktE4qnccSg3w-Ww05CbAjSgzRP97f); Cover Page (1AHKzVVzZAM2gp7wckVzFcGtlAdgmhuwe).'
+  last_verified: '2026-09-29'
+- id: uspto-pto-1594-trademark-assignment-cover-sheet
+  title: USPTO Form PTO-1594 — Recordation Form Cover Sheet (Trademarks Only)
+  jurisdiction: US-federal
+  practice_area: intellectual-property
+  category: trademark-assignment-recordation
+  source_tier: T1_OFFICIAL
+  publisher: United States Patent and Trademark Office
+  source_page_url: https://www.uspto.gov/trademarks/trademark-assignments-change-search-ownership
+  document_url: https://www.uspto.gov/sites/default/files/documents/Trademarks_PTO1594.pdf
+  form_number: PTO-1594 (Rev. 6-18)
+  edition_or_revision_date: Rev. 6-18
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY official USPTO trademark assignment *recordation cover sheet* blank. Not the assignment agreement body (USPTO does not publish a model assignment). Pair with negotiated TM assignment + goodwill language. Drive: USPTO-PTO-1594-Trademark-Assignment-Cover-Sheet.pdf (172fVqQvxFhKjgdQyH06zw_ArW9K91QDU).'
+  last_verified: '2026-09-29'
+- id: uspto-pto-1595-patent-assignment-cover-sheet
+  title: USPTO Form PTO-1595 — Recordation Form Cover Sheet (Patents Only)
+  jurisdiction: US-federal
+  practice_area: intellectual-property
+  category: patent-assignment-recordation
+  source_tier: T1_OFFICIAL
+  publisher: United States Patent and Trademark Office
+  source_page_url: https://www.uspto.gov/learning-and-resources/transferring-ownership-assignments-faqs
+  document_url: https://www.uspto.gov/sites/default/files/documents/pto1595.pdf
+  form_number: PTO-1595 (Rev. 6-18)
+  edition_or_revision_date: Rev. 6-18 (OMB exp. 11/30/2027)
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY official USPTO patent assignment recordation cover sheet blank. Drive: USPTO-PTO-1595-Patent-Assignment-Cover-Sheet.pdf (1h_N2FayGfHa4g2_gbM32GZH8CGOA8ghI).'
+  last_verified: '2026-09-29'
+- id: edgar-form-of-tsa-jj-kenvue-2023
+  title: Form of Transition Services Agreement — J&J / Kenvue (EX-10.6)
+  jurisdiction: US
+  practice_area: mergers-acquisitions
+  category: transition-services-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Johnson & Johnson / Kenvue (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1944048/000162828023012570/exhibit106-sx1a4.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1944048/000162828023012570/exhibit106-sx1a4.htm
+  form_number: EX-10.6
+  edition_or_revision_date: 2023 (S-1/A spin TSA Form of)
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'PRECEDENT Form-of blank (dated as of [●], 2023) for large-cap consumer spin TSA. Not a negotiated open model; use as drafting bones. Drive txt: 1bbvPsBTRWHvj8V1lqUDeiFOcpXJhukpM under Form-of TSA folder 18hsiLv-EYZHk6wnDKKYmGlTlBBqKXKrY.'
+  last_verified: '2026-09-29'
+- id: edgar-form-of-tsa-bd-2025
+  title: Form of Transition Services Agreement — Becton Dickinson (EX-10.1)
+  jurisdiction: US
+  practice_area: mergers-acquisitions
+  category: transition-services-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Becton, Dickinson and Company (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2082015/000119312525316594/d926249dex101.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2082015/000119312525316594/d926249dex101.htm
+  form_number: EX-10.1
+  edition_or_revision_date: 2025
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'PRECEDENT Form-of TSA blank (as of [•], 2025) with full services / performance / fee architecture. Drive txt: 1BQbOd16hJI7wIrFDOLNQbit6z0NIS4NV.'
+  last_verified: '2026-09-29'
+- id: edgar-form-of-tsa-mcdermott-2010
+  title: Form of Transition Services Agreement — McDermott / B&W (EX-10.3)
+  jurisdiction: US
+  practice_area: mergers-acquisitions
+  category: transition-services-agreement
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: McDermott International / The Babcock & Wilcox Company (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1486957/000119312510132953/dex103.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1486957/000119312510132953/dex103.htm
+  form_number: EX-10.3
+  edition_or_revision_date: 2010
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: 'PRECEDENT older Form-of TSA (provider/receiver architecture + schedules). Prefer J&J/Kenvue or BD for modern drafting bones. Drive txt: 1YdWhmFF9rPoGxOB5N6-mx7XKxBWsLOmc.'
+  last_verified: '2026-09-29'
+- id: site-policy-legalmattic-privacy-tos
+  title: Automattic / WordPress.com Privacy Policy + Terms of Service + Cookie Policy (legalmattic)
+  jurisdiction: US
+  practice_area: privacy-consumer
+  category: website-terms-privacy
+  source_tier: T2_OPEN_MODEL
+  publisher: Automattic (legalmattic)
+  source_page_url: https://github.com/Automattic/legalmattic
+  document_url: https://github.com/Automattic/legalmattic
+  form_number: null
+  edition_or_revision_date: pinned submodule legalmattic
+  access: Free (CC BY-SA 4.0)
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY attorney-grade company-docs lane ToS/privacy (not a fill-in blank form — adapt as drafting model). Drive mirrors under Website ToS + privacy open models (1JO8Hpjb-luqOqcg_e7MdRc790NzNzJof): Privacy 1y5sg1qSLummsz4R4haS6QiusB72si-9G; ToS 1Pk-QTlkxt-7PvdpMrU_s3uhdNMNNJeNi; Cookie 13WBZkrTWm2hMPsZr9SUpohTYs3aE2P2f. Catalog hub federal-automattic-legalmattic already exists.'
+  last_verified: '2026-09-29'
+- id: site-policy-github-tos-privacy
+  title: GitHub Terms of Service + General Privacy Statement
+  jurisdiction: US
+  practice_area: privacy-consumer
+  category: website-terms-privacy
+  source_tier: T2_OPEN_MODEL
+  publisher: GitHub (site-policy)
+  source_page_url: https://github.com/github/site-policy
+  document_url: https://github.com/github/site-policy
+  form_number: null
+  edition_or_revision_date: pinned submodule github-site-policy
+  access: Free (CC0-1.0 per upstream LICENSE)
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY attorney-grade site ToS + privacy drafting models. Drive: github-terms-of-service.md (1UEDRmf8sbcP_gH0cmT-uBQ_pTSoj4mVS); github-general-privacy-statement.md (1b9MRmhEaEXxEbrdgxmhNOwYhZQzaVZ5j).'
+  last_verified: '2026-09-29'
+- id: site-policy-basecamp-terms-privacy
+  title: Basecamp / 37signals Terms + Privacy
+  jurisdiction: US
+  practice_area: privacy-consumer
+  category: website-terms-privacy
+  source_tier: T2_OPEN_MODEL
+  publisher: Basecamp / 37signals
+  source_page_url: https://github.com/basecamp/policies
+  document_url: https://github.com/basecamp/policies
+  form_number: null
+  edition_or_revision_date: pinned submodule basecamp-policies
+  access: Free (CC0 per upstream LICENSE)
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY plain-language SaaS terms + privacy drafting models. Drive: basecamp-terms.md (1-Cq1Ftr7fE3YMuQYMTWLf411XO3UxP3y); basecamp-privacy.md (1Ft9IAhwDu8rUgDIt5LzbgmeW26WC5BBW).'
   last_verified: '2026-09-29'
