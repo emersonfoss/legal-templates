@@ -85,3 +85,6 @@
 [submodule "sources/github-site-policy"]
 	path = sources/github-site-policy
 	url = https://github.com/github/site-policy.git
+[submodule "sources/commonpaper-partnership-agreement"]
+	path = sources/commonpaper-partnership-agreement
+	url = https://github.com/CommonPaper/Partnership-Agreement.git
