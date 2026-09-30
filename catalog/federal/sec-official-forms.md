@@ -37,3 +37,8 @@ EDGAR Form-of exhibits (escrow, paying agent, credit agreement, note guarantee, 
 ## 2026-09-29 evening — wave 2 remaining blanks (+43)
 
 Additional official blanks from `sec.gov/files/` mirrored to the same Drive folder `1aqAw4TUbekvH4X4HAbXhDv9efpTfB0mw`. Running total **79** SEC blank PDFs (36 + 43). Form ADV/PF again not repeated. 404s not mirrored: `formn-1a.pdf`, `form13fhr.pdf`, `formabs15g.pdf`. New rows in `forms.yaml` cover 13F, 13H, 10-D, SF-1/SF-3, 40-F, F-7/F-8/F-10/F-80/F-N/F-X, S-6, N-2/N-3/N-4/N-6/N-14/N-CSR/N-PORT/N-CEN/N-PX/N-MFP/N-8A/N-8B-2/N-54A/N-54C, SH, CRS, SE, 18-K, 1-E/2-E, BD/BDW, ATS/ATS-N, TA-1/TA-2, MA/MA-I, NRSRO, SBSE. File-level Drive IDs are in the pack note.
+
+
+## 2026-09-29 late — wave 3 remaining blanks (+25)
+
+Additional official blanks from `sec.gov/files/` mirrored to Drive folder `1aqAw4TUbekvH4X4HAbXhDv9efpTfB0mw`. Running total **104** SEC blank PDFs (79 + 25). Form ADV/PF/D again not repeated. SBSE-A redirects to the same PDF as SBSE (not duplicated). New rows in `forms.yaml` cover 1-N, 17-H, 18, 24F-2, ABS-EE, ATS-R, CA-1, Custody, MA-W, MSD/MSDW, N-18F-1, N-23C-3, N-27D-1, N-5, N-6F, N-8B-4, N-LIQUID, N-RN, PILOT, R31, SBSE-BD/C/W, TA-W. File-level Drive IDs are in the pack note.

@@ -8754,3 +8754,856 @@
   copy_policy: link_only
   quality_notes: "TEMPLATE-READY Form of Warrant Indenture with blank date. Closest premier Form-of Indenture blank located; notes-base indentures on EDGAR for mega-caps were execution versions. Drive: JPM-Form-of-Warrant-Indenture-2016.htm (1QiiKxBVj7RjV7F6tUK5xzrofpLgoICjM)."
   last_verified: '2026-09-29'
+
+# 2026-09-29 wave3 — remaining SEC blanks + premier spin Form-of
+
+- id: federal-sec-form-1-n
+  title: Form 1-N — notice of registration by a national securities exchange
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: exchange-registration
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form1-n.pdf
+  form_number: '1-N'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-1-N.pdf (1EMPcGLt3Gjp4eVBwK-MTd2z6SIfWK4Vi)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-17-h
+  title: Form 17-H — risk assessment for broker-dealers
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: broker-dealer
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form17-h.pdf
+  form_number: '17-H'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-17-H.pdf (10e7ZWA0rPiB3f1PyH4jmbXPU5k5nRPdp)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-18
+  title: Form 18 — application for registration of securities of a foreign government
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: foreign-government
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form18.pdf
+  form_number: '18'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-18.pdf (1gVdLkiNtbAZH9UlIcPeHjxMsTUGuavUU)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-24f-2
+  title: Form 24F-2 — annual notice of securities sold pursuant to Rule 24f-2
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/form24f-2.pdf
+  form_number: '24F-2'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-24F-2.pdf (1jns8T6-P8vYynOCnXwdDtBGb-9XiH40k)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-abs-ee
+  title: Form ABS-EE — asset-level disclosures for asset-backed securities
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: abs
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formabs-ee.pdf
+  form_number: 'ABS-EE'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-ABS-EE.pdf (1wyTG_3RyqwHy7kaBC3RteFvEefbmMWCf)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-ats-r
+  title: Form ATS-R — quarterly report of alternative trading system activities
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: ats
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formats-r.pdf
+  form_number: 'ATS-R'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-ATS-R.pdf (1gMfDWLT_nXGv4v2nSB8zsmwnF3t_wteu)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-ca-1
+  title: Form CA-1 — application for registration or exemption as a clearing agency
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: clearing-agency
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formca-1.pdf
+  form_number: 'CA-1'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-CA-1.pdf (17CsA-jvp47wbG9gnU8ULG0biAceuWUli)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-custody
+  title: Form Custody — broker-dealer custody information
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: broker-dealer
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formcustody.pdf
+  form_number: 'Custody'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-Custody.pdf (1H-mrUCfwvAIoFYC1JfYl0EiyIyoorsCA)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-ma-w
+  title: Form MA-W — notice of withdrawal from registration as a municipal advisor
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: municipal-advisor
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formma-w.pdf
+  form_number: 'MA-W'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-MA-W.pdf (1UJrf6hhaZU-RrovaVwM1yYrSqnccjTA1)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-msd
+  title: Form MSD — application for registration as a municipal securities dealer
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: municipal-securities
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formmsd.pdf
+  form_number: 'MSD'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-MSD.pdf (1aPwTQRUKNzT3MwB6XwfHUjYvjNHe6D7h)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-msdw
+  title: Form MSDW — notice of withdrawal of registration as a municipal securities dealer
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: municipal-securities
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formmsdw.pdf
+  form_number: 'MSDW'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-MSDW.pdf (16IyOME7xfyuXsI1E9oOAkSgpDnoS4aRX)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-18f-1
+  title: Form N-18F-1 — notification of election pursuant to Rule 18f-1
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-18f-1.pdf
+  form_number: 'N-18F-1'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-18F-1.pdf (1-p3pe-86wV1dP6zrap74QGbeDX9bTVDQ)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-23c-3
+  title: Form N-23C-3 — notification of repurchase offer
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-23c-3.pdf
+  form_number: 'N-23C-3'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-23C-3.pdf (1odi2tjuk0k0hhh0quV9j1g7D-cdQkGzD)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-27d-1
+  title: Form N-27D-1 — accounting of segregated trust account
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-27d-1.pdf
+  form_number: 'N-27D-1'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-27D-1.pdf (13OhIEXWuac1bzgrzZygMBaXSC40xMUVz)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-5
+  title: Form N-5 — registration of small business investment company
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-5.pdf
+  form_number: 'N-5'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-5.pdf (1Y2RP5ZAook967lROc6Ngxec7FGaRL9zj)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-6f
+  title: Form N-6F — notice of intent to elect business development company status
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-6f.pdf
+  form_number: 'N-6F'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-6F.pdf (1ZgVbFlvrzQbgj8SdZ_JqXU0HKbfjbL-f)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-8b-4
+  title: Form N-8B-4 — registration of face-amount certificate companies
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-8b-4.pdf
+  form_number: 'N-8B-4'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-8B-4.pdf (19DmADXNk9_ruyfi8XfV1-cmWna5zGj5X)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-liquid
+  title: Form N-LIQUID — current report for money market funds
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-liquid.pdf
+  form_number: 'N-LIQUID'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-LIQUID.pdf (1DXUzNubaSKvP_kvdlMVJvw8TiqSMv92T)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-n-rn
+  title: Form N-RN — current report for registered investment companies
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: investment-company
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formn-rn.pdf
+  form_number: 'N-RN'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-N-RN.pdf (19tb-R2rN7llRR7U2JhIORdyjxlxLvGlK)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-pilot
+  title: Form PILOT — report of OTC transactions in listed equity securities
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: market-structure
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formpilot.pdf
+  form_number: 'PILOT'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-PILOT.pdf (1bJiwW1oGsHKmvpt3ok7uFxhcdE7hkl78)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-r31
+  title: Form R31 — report of sales of exchange-listed equity securities
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: market-structure
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formr31.pdf
+  form_number: 'R31'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-R31.pdf (1dr3UxB625uVoXZGbWOPaSRa4-uTl8mfE)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-sbse-bd
+  title: Form SBSE-BD — security-based swap dealer / major SBS participant (BD)
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: swap-entity
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formsbse-bd.pdf
+  form_number: 'SBSE-BD'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-SBSE-BD.pdf (12GTpHrhe-YsNvXX1z-CHVzLxmrjHaOMH)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-sbse-c
+  title: Form SBSE-C — security-based swap entity — amendments / correcting
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: swap-entity
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formsbse-c.pdf
+  form_number: 'SBSE-C'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-SBSE-C.pdf (14xXq4K93x6mzYAWCL0rbXttEYSzjWVkg)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-sbse-w
+  title: Form SBSE-W — notice of withdrawal for security-based swap entity
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: swap-entity
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formsbse-w.pdf
+  form_number: 'SBSE-W'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-SBSE-W.pdf (1DyZRIfQapiJe-SIfjAs_qGKkKR1rk9mF)."
+  last_verified: '2026-09-29'
+
+- id: federal-sec-form-ta-w
+  title: Form TA-W — notice of withdrawal from registration as transfer agent
+  jurisdiction: Federal
+  practice_area: securities-ma
+  category: transfer-agent
+  source_tier: T1_OFFICIAL
+  publisher: U.S. SEC
+  source_page_url: https://www.sec.gov/submit-filings/forms-index
+  document_url: https://www.sec.gov/files/formta-w.pdf
+  form_number: 'TA-W'
+  edition_or_revision_date: null
+  access: Free
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY official blank pulled 2026-09-29 wave3 from sec.gov/files (PDF magic checked). Not Form D/ADV/PF. Drive: Corporate 02 / SEC blanks + EDGAR Form-of / SEC official blanks / SEC-Form-TA-W.pdf (1lTKIj6nMBsnGO1TkHYGVZd7FMPIaI73Z)."
+  last_verified: '2026-09-29'
+
+- id: edgar-fortrea-form-of-separation-2023
+  title: Labcorp / Fortrea — Form of Separation and Distribution Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-separation
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Fortrea Holdings / Laboratory Corporation of America (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/0001628280-23-020696-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/exhibit21-10x12ba.htm
+  form_number: EX-2.1
+  edition_or_revision_date: Form of; 10-12B/A filed 2023-06-02
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Labcorp clinical-development spin Separation and Distribution. Header FORM OF. Drive: Fortrea-Form-of-Separation-and-Distribution-Agreement-2023.htm (1dkcKVz2gWsqW-aC70UbEy_utMR9eyRQZ)."
+  last_verified: '2026-09-29'
+- id: edgar-fortrea-form-of-tax-matters-2023
+  title: Labcorp / Fortrea — Form of Tax Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tax-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Fortrea Holdings / Laboratory Corporation of America (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/0001628280-23-020696-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/exhibit101-10x12ba.htm
+  form_number: EX-10.1
+  edition_or_revision_date: Form of; filed 2023-06-02
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY new-issuer spin TMA. Drive: Fortrea-Form-of-Tax-Matters-Agreement-2023.htm (1HUkG0I6Iqpk7f9wqdO2Yaz4KyZXdMBPk)."
+  last_verified: '2026-09-29'
+- id: edgar-fortrea-form-of-employee-matters-2023
+  title: Labcorp / Fortrea — Form of Employee Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-employee-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Fortrea Holdings / Laboratory Corporation of America (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/0001628280-23-020696-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/exhibit102-10x12ba.htm
+  form_number: EX-10.2
+  edition_or_revision_date: Form of; filed 2023-06-02
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY new-issuer spin EMA. Drive: Fortrea-Form-of-Employee-Matters-Agreement-2023.htm (16uZuTlb11tvankZxojgscg8q3gFdByea)."
+  last_verified: '2026-09-29'
+- id: edgar-fortrea-form-of-tsa-2023
+  title: Labcorp / Fortrea — Form of Transition Services Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-transition-services
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Fortrea Holdings / Laboratory Corporation of America (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/0001628280-23-020696-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1965040/000162828023020696/exhibit103-10x12ba.htm
+  form_number: EX-10.3
+  edition_or_revision_date: Form of; filed 2023-06-02
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY TSA beyond GEHC/J&J. Drive: Fortrea-Form-of-Transition-Services-Agreement-2023.htm (1TeKLMQ9nzKe1THhPPBmxq8B60u31LBXd)."
+  last_verified: '2026-09-29'
+- id: edgar-solventum-form-of-separation-2024
+  title: 3M / Solventum — Form of Separation and Distribution Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-separation
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 3M Company / Solventum Corporation (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/0001628280-24-005591-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit21-form10.htm
+  form_number: EX-2.1
+  edition_or_revision_date: Blank-dated as of [●], 2024; Form 10 filed 2024-02-20
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY 3M health-care spin Separation; blank date; Form 10 exhibit list labels Form of. Drive: Solventum-Form-of-Separation-and-Distribution-Agreement-2024.htm (1gdNfAsX0Btr4l5cCZNc-bRa3cNpZvRUZ)."
+  last_verified: '2026-09-29'
+- id: edgar-solventum-form-of-tsa-2024
+  title: 3M / Solventum — Form of Transition Services Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-transition-services
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 3M Company / Solventum Corporation (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/0001628280-24-005591-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit101-form10.htm
+  form_number: EX-10.1
+  edition_or_revision_date: Blank-dated as of [●], 2024
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY blank-dated TSA. Drive: Solventum-Form-of-Transition-Services-Agreement-2024.htm (1HMZgbHWXJBoRmEbHt6b8J9epZ82Hktic)."
+  last_verified: '2026-09-29'
+- id: edgar-solventum-form-of-tax-matters-2024
+  title: 3M / Solventum — Form of Tax Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tax-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 3M Company / Solventum Corporation (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/0001628280-24-005591-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit102-form10.htm
+  form_number: EX-10.2
+  edition_or_revision_date: Blank-dated as of [●], 2024
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY blank-dated TMA. Drive: Solventum-Form-of-Tax-Matters-Agreement-2024.htm (104F7S7Unomrll-T7kr-eqidhADu512HK)."
+  last_verified: '2026-09-29'
+- id: edgar-solventum-form-of-employee-matters-2024
+  title: 3M / Solventum — Form of Employee Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-employee-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 3M Company / Solventum Corporation (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/0001628280-24-005591-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit103-form10.htm
+  form_number: EX-10.3
+  edition_or_revision_date: Blank-dated as of [●], 2024
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY blank-dated EMA. Drive: Solventum-Form-of-Employee-Matters-Agreement-2024.htm (1ANpLpXl7YPqmAHFShEiUuGpI5aBaJVAC)."
+  last_verified: '2026-09-29'
+- id: edgar-solventum-form-of-ip-cross-license-2024
+  title: 3M / Solventum — Form of Intellectual Property Cross License Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-ip-license
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 3M Company / Solventum Corporation (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/0001628280-24-005591-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit108-form10.htm
+  form_number: EX-10.8
+  edition_or_revision_date: FORM OF; blank-dated 2024
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY FORM OF IP Cross License. Drive: Solventum-Form-of-IP-Cross-License-Agreement-2024.htm (1M__QttdZKUWRS34ZhJg3reUNZWN65U3e)."
+  last_verified: '2026-09-29'
+- id: edgar-solventum-form-of-master-supply-2024
+  title: 3M / Solventum — Form of Master Supply Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-supply
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: 3M Company / Solventum Corporation (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/0001628280-24-005591-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1964738/000162828024005591/exhibit1011-form10.htm
+  form_number: EX-10.11
+  edition_or_revision_date: Blank-dated as of [●], 2024
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY blank-dated Master Supply (spin). Drive: Solventum-Form-of-Master-Supply-Agreement-2024.htm (156j7pHcsZ_7i4uMpRmznEErS7m3PjKb0)."
+  last_verified: '2026-09-29'
+- id: edgar-ralliant-form-of-separation-2025
+  title: Fortive / Ralliant — Form of Separation and Distribution Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-separation
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Fortive Corporation / Ralliant Corp (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/0001104659-25-044355-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/tm2429554d6_ex2-1.htm
+  form_number: EX-2.1
+  edition_or_revision_date: FORM OF; 10-12B filed 2025-05-05
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Fortive precision-technologies spin Separation. Drive: Ralliant-Form-of-Separation-and-Distribution-Agreement-2025.htm (1OGJ_vRMTWqRMEn3If4VsFqFX5FDJ8DP6)."
+  last_verified: '2026-09-29'
+- id: edgar-ralliant-form-of-tsa-2025
+  title: Fortive / Ralliant — Form of Transition Services Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-transition-services
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Fortive Corporation / Ralliant Corp (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/0001104659-25-044355-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/tm2429554d6_ex10-1.htm
+  form_number: EX-10.1
+  edition_or_revision_date: FORM OF; filed 2025-05-05
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY FORM OF TSA. Drive: Ralliant-Form-of-Transition-Services-Agreement-2025.htm (1yYguSkcIbhAmA8Y7Np5JCcRnxVKic66z)."
+  last_verified: '2026-09-29'
+- id: edgar-ralliant-form-of-tax-matters-2025
+  title: Fortive / Ralliant — Form of Tax Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tax-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Fortive Corporation / Ralliant Corp (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/0001104659-25-044355-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/tm2429554d6_ex10-2.htm
+  form_number: EX-10.2
+  edition_or_revision_date: FORM OF; filed 2025-05-05
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY FORM OF TMA. Drive: Ralliant-Form-of-Tax-Matters-Agreement-2025.htm (1hFIGEsoTC3N76MO-iPMnzXL56Lnf9D_I)."
+  last_verified: '2026-09-29'
+- id: edgar-ralliant-form-of-employee-matters-2025
+  title: Fortive / Ralliant — Form of Employee Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-employee-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Fortive Corporation / Ralliant Corp (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/0001104659-25-044355-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/2041385/000110465925044355/tm2429554d6_ex10-3.htm
+  form_number: EX-10.3
+  edition_or_revision_date: FORM OF; filed 2025-05-05
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY FORM OF EMA. Drive: Ralliant-Form-of-Employee-Matters-Agreement-2025.htm (1rW8TqBDbkCtNGR_hCgRAoamUYkeAc06m)."
+  last_verified: '2026-09-29'
+- id: edgar-resideo-form-of-separation-2018
+  title: Honeywell / Resideo — Form of Separation and Distribution Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-separation
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Honeywell International / Resideo Technologies (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1740332/000119312518290883/0001193125-18-290883-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1740332/000119312518290883/d601987dex21.htm
+  form_number: EX-2.1
+  edition_or_revision_date: Form of; 10-12B/A filed 2018-10-02
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Honeywell homes spin Separation. Drive: Resideo-Form-of-Separation-and-Distribution-Agreement-2018.htm (1GhGAm7sxVuYKvWcBuEWuD2Try608q4MJ)."
+  last_verified: '2026-09-29'
+- id: edgar-resideo-form-of-tax-matters-2018
+  title: Honeywell / Resideo — Form of Tax Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tax-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Honeywell International / Resideo Technologies (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1740332/000119312518290883/0001193125-18-290883-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1740332/000119312518290883/d601987dex23.htm
+  form_number: EX-2.3
+  edition_or_revision_date: FORM OF; filed 2018-10-02
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY FORM OF TMA. Drive: Resideo-Form-of-Tax-Matters-Agreement-2018.htm (1vWvIO3bUXI6OJmX_u4_I5CagHaBQD5aH)."
+  last_verified: '2026-09-29'
+- id: edgar-wkkellogg-form-of-separation-2023
+  title: Kellogg / WK Kellogg — Form of Separation and Distribution Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-separation
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Kellogg Company / WK Kellogg Co (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/0001193125-23-192363-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/d456637dex21.htm
+  form_number: EX-2.1
+  edition_or_revision_date: FORM OF; Form 10 filed 2023-07-24
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY North American cereal spin Separation. Drive: WKKellogg-Form-of-Separation-and-Distribution-Agreement-2023.htm (1A8psUjgxdoqTVOZzshcUb-1Obw9NXHv9)."
+  last_verified: '2026-09-29'
+- id: edgar-wkkellogg-form-of-supply-2023
+  title: Kellogg / WK Kellogg — Form of Supply Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-supply
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Kellogg Company / WK Kellogg Co (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/0001193125-23-192363-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/d456637dex102.htm
+  form_number: EX-10.2
+  edition_or_revision_date: Blank-dated _______, 2023
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY blank-dated spin Supply Agreement (priority gap). Drive: WKKellogg-Form-of-Supply-Agreement-2023.htm (1SROXW4GWaHZaHjYkaNrZby4zFkZyMTOE)."
+  last_verified: '2026-09-29'
+- id: edgar-wkkellogg-form-of-tax-matters-2023
+  title: Kellogg / WK Kellogg — Form of Tax Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tax-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Kellogg Company / WK Kellogg Co (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/0001193125-23-192363-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/d456637dex105.htm
+  form_number: EX-10.5
+  edition_or_revision_date: Blank-dated as of [•], 2023
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY blank-dated TMA. Drive: WKKellogg-Form-of-Tax-Matters-Agreement-2023.htm (1fRApsqKzENw3rge_elN7gAs7M37rJdWt)."
+  last_verified: '2026-09-29'
+- id: edgar-wkkellogg-form-of-tsa-2023
+  title: Kellogg / WK Kellogg — Form of Transition Services Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-transition-services
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Kellogg Company / WK Kellogg Co (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/0001193125-23-192363-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1959348/000119312523192363/d456637dex106.htm
+  form_number: EX-10.6
+  edition_or_revision_date: Blank-dated as of [ ], 2023
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY blank-dated TSA. Drive: WKKellogg-Form-of-Transition-Services-Agreement-2023.htm (1k6qB91_cBjgSbuLIy8dNNdYoz8oQS1H_)."
+  last_verified: '2026-09-29'
+- id: edgar-envista-form-of-separation-2019
+  title: Danaher / Envista — Form of Separation Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-separation
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Danaher Corporation / Envista Holdings (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/0001757073-19-000010-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/nvst-s1xex101.htm
+  form_number: EX-10.1
+  edition_or_revision_date: FORM OF; S-1 filed 2019-07-22
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY dental spin Separation. Drive: Envista-Form-of-Separation-Agreement-2019.htm (18G-RHpRmORKLm3qimH-VeKhLk61hKl9Y)."
+  last_verified: '2026-09-29'
+- id: edgar-envista-form-of-tsa-2019
+  title: Danaher / Envista — Form of Transition Services Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-transition-services
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Danaher Corporation / Envista Holdings (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/0001757073-19-000010-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/nvst-s1xex102.htm
+  form_number: EX-10.2
+  edition_or_revision_date: FORM OF; filed 2019-07-22
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY FORM OF TSA. Drive: Envista-Form-of-Transition-Services-Agreement-2019.htm (1m3ovhEyWGH7sW8C_riGJuqdtlVERdtRv)."
+  last_verified: '2026-09-29'
+- id: edgar-envista-form-of-tax-matters-2019
+  title: Danaher / Envista — Form of Tax Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-tax-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Danaher Corporation / Envista Holdings (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/0001757073-19-000010-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/nvst-s1xex103.htm
+  form_number: EX-10.3
+  edition_or_revision_date: FORM OF; filed 2019-07-22
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY FORM OF TMA. Drive: Envista-Form-of-Tax-Matters-Agreement-2019.htm (1maQICQaUgiBX8QPnaPc3Ij27k3eHs3VE)."
+  last_verified: '2026-09-29'
+- id: edgar-envista-form-of-ip-matters-2019
+  title: Danaher / Envista — Form of Intellectual Property Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-ip-license
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Danaher Corporation / Envista Holdings (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/0001757073-19-000010-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1757073/000175707319000010/nvst-s1xex105.htm
+  form_number: EX-10.5
+  edition_or_revision_date: FORM OF; filed 2019-07-22
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY FORM OF IP Matters. Drive: Envista-Form-of-IP-Matters-Agreement-2019.htm (1NUN2FGOLmiNRvCQNfuYlfzDxcMIcXMk9)."
+  last_verified: '2026-09-29'
+- id: edgar-elanco-form-of-master-separation-2018
+  title: Eli Lilly / Elanco — Form of Master Separation Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-separation
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Eli Lilly and Company / Elanco Animal Health (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1739104/000104746918005844/0001047469-18-005844-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1739104/000104746918005844/a2236501zex-10_1.htm
+  form_number: EX-10.1
+  edition_or_revision_date: FORM OF; S-1/A filed 2018-08-28
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Master Separation; complements Elanco TMA/IP already mirrored. Drive: Elanco-Form-of-Master-Separation-Agreement-2018.htm (1PGxsQbGNDYzV120XH13TX0lRq-HdyN8Z)."
+  last_verified: '2026-09-29'
+- id: edgar-masterbrand-form-of-separation-2022
+  title: Fortune Brands / MasterBrand — Form of Separation and Distribution Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-separation
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Fortune Brands Home & Security / MasterBrand (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1941365/000119312522290185/0001193125-22-290185-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1941365/000119312522290185/d307794dex21.htm
+  form_number: EX-2.1
+  edition_or_revision_date: FORM OF dated as of [•], 2022
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY cabinets spin Separation. Drive: MasterBrand-Form-of-Separation-and-Distribution-Agreement-2022.htm (1ibc5ga4YWdkvfQcmtiNU9B847bUh6287)."
+  last_verified: '2026-09-29'
+- id: edgar-masterbrand-form-of-employee-matters-2022
+  title: Fortune Brands / MasterBrand — Form of Employee Matters Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-employee-matters
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Fortune Brands Home & Security / MasterBrand (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1941365/000119312522290185/0001193125-22-290185-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1941365/000119312522290185/d307794dex102.htm
+  form_number: EX-10.2
+  edition_or_revision_date: FORM OF; filed 2022-11-22
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY FORM OF EMA. Drive: MasterBrand-Form-of-Employee-Matters-Agreement-2022.htm (1JQokRL6PpU096BTy9hTv8IgIzObxgQSb)."
+  last_verified: '2026-09-29'
+- id: edgar-lambweston-form-of-separation-2016
+  title: Conagra / Lamb Weston — Form of Separation and Distribution Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-separation
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Conagra Brands / Lamb Weston Holdings (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1679273/000119312516693702/0001193125-16-693702-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1679273/000119312516693702/d205931dex21.htm
+  form_number: EX-2.1
+  edition_or_revision_date: FORM OF; 10-12B/A filed 2016-08-26
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY potato spin Separation. Drive: LambWeston-Form-of-Separation-and-Distribution-Agreement-2016.htm (1v_LgZMmAAqnoX4g2-PZTlOCGIwxCyrwB)."
+  last_verified: '2026-09-29'
+- id: edgar-lambweston-form-of-tsa-2016
+  title: Conagra / Lamb Weston — Form of Transition Services Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-transition-services
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: Conagra Brands / Lamb Weston Holdings (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1679273/000119312516693702/0001193125-16-693702-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1679273/000119312516693702/d205931dex103.htm
+  form_number: EX-10.3
+  edition_or_revision_date: FORM OF; filed 2016-08-26
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY FORM OF TSA. Drive: LambWeston-Form-of-Transition-Services-Agreement-2016.htm (1moNvZU2J6Pd1oToms3t4Z_MRIm1_jZv6)."
+  last_verified: '2026-09-29'
+- id: edgar-bw-form-of-master-separation-2015
+  title: Babcock & Wilcox — Form of Master Separation Agreement
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: spin-separation
+  source_tier: T2_MARKET_STANDARD_PUBLIC
+  publisher: The Babcock & Wilcox Company / Babcock & Wilcox Enterprises (SEC EDGAR Form of)
+  source_page_url: https://www.sec.gov/Archives/edgar/data/1630805/000119312515195380/0001193125-15-195380-index.htm
+  document_url: https://www.sec.gov/Archives/edgar/data/1630805/000119312515195380/d888282dex21.htm
+  form_number: EX-2.1
+  edition_or_revision_date: FORM OF; 10-12B/A filed 2015-05-21
+  access: Free (EDGAR)
+  copy_policy: link_only
+  quality_notes: "TEMPLATE-READY Master Separation; companion to B&W Form of Credit Agreement already mirrored. Drive: BW-Form-of-Master-Separation-Agreement-2015.htm (19aEbEHp7xWPGddl6W4lcsVUZCUMHGTFO)."
+  last_verified: '2026-09-29'
