@@ -6998,3 +6998,123 @@
   copy_policy: link_only
   quality_notes: 'PRECEDENT private hedge-fund side letter (Alluvial Fund, LP). Redactions present ([***]). Drive: Hedge / Alluvial-Fund-Form-of-Side-Letter.txt (1-laP_vW5jZtoWnR_cmen7y0Go6XYMoA0).'
   last_verified: '2026-09-29'
+- id: iaca-ucc-forms-hub-2023
+  title: IACA National UCC Model Forms Hub (07/01/2023)
+  jurisdiction: US-federal
+  practice_area: credit-financing
+  category: ucc-collateral-filing-forms
+  source_tier: T1_OFFICIAL
+  publisher: International Association of Commercial Administrators (IACA)
+  source_page_url: https://www.iaca.org/secured-transactions/forms/
+  document_url: https://www.iaca.org/secured-transactions/forms/
+  form_number: UCC1 / UCC3 / UCC5 / UCC11 suite
+  edition_or_revision_date: 07/01/2023
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY national model UCC filing blanks used by most U.S. filing offices. Core PDFs: UCC1 https://www.iaca.org/wp-content/uploads/public/UCC1_07012023.pdf ; UCC3 https://www.iaca.org/wp-content/uploads/public/UCC3_07012023.pdf ; plus UCC1Ad/AP, UCC3Ad/AP, UCC5, UCC11. Drive folder Debt financing — UCC + SBA (1YucMi5ywztFhKDsRe1j1acufvC0p-dK4). Public-record/model-form status is not an affirmative form-reuse license.'
+  last_verified: '2026-09-29'
+- id: iaca-ucc1-financing-statement-2023
+  title: UCC1 Financing Statement (IACA national model)
+  jurisdiction: US-federal
+  practice_area: credit-financing
+  category: ucc-collateral-filing-forms
+  source_tier: T1_OFFICIAL
+  publisher: International Association of Commercial Administrators (IACA)
+  source_page_url: https://www.iaca.org/secured-transactions/forms/
+  document_url: https://www.iaca.org/wp-content/uploads/public/UCC1_07012023.pdf
+  form_number: UCC1
+  edition_or_revision_date: 07/01/2023
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY national model UCC-1 financing statement blank (2 pages). Drive: IACA-UCC1-Financing-Statement-2023-07-01.pdf (1dTETG9JDRStjod4IOWGJ8KEdFZcObhOJ).'
+  last_verified: '2026-09-29'
+- id: iaca-ucc3-financing-statement-amendment-2023
+  title: UCC3 Financing Statement Amendment (IACA national model)
+  jurisdiction: US-federal
+  practice_area: credit-financing
+  category: ucc-collateral-filing-forms
+  source_tier: T1_OFFICIAL
+  publisher: International Association of Commercial Administrators (IACA)
+  source_page_url: https://www.iaca.org/secured-transactions/forms/
+  document_url: https://www.iaca.org/wp-content/uploads/public/UCC3_07012023.pdf
+  form_number: UCC3
+  edition_or_revision_date: 07/01/2023
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY national model UCC-3 amendment blank. Drive: IACA-UCC3-Financing-Statement-Amendment-2023-07-01.pdf (17RJP6NrzzCRCqhEd7WeMB_HcghIySKfY).'
+  last_verified: '2026-09-29'
+- id: sba-form-147-standard-loan-note
+  title: SBA Form 147 — Standard Loan Note
+  jurisdiction: US-federal
+  practice_area: credit-financing
+  category: promissory-note
+  source_tier: T1_OFFICIAL
+  publisher: U.S. Small Business Administration
+  source_page_url: https://www.sba.gov/document/sba-form-sba-standard-loan-note-form-147
+  document_url: https://legacy.sba.gov/sites/default/files/2020-08/040720note-508.pdf
+  form_number: SBA Form 147
+  edition_or_revision_date: November 1, 2020
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY official SBA 7(a) promissory note blank (6 pages) — institutional government note with payment, default, collateral, and SBA rights clauses. Program-specific (SBA loans); useful drafting bones for secured SME notes. Drive: SBA-Form-147-Standard-Loan-Note.pdf (1YTp2H-SQSFJCN-RJP2gsN2vbES8eiF22).'
+  last_verified: '2026-09-29'
+- id: sba-form-1059-security-agreement
+  title: SBA Form 1059 — Security Agreement
+  jurisdiction: US-federal
+  practice_area: credit-financing
+  category: security-agreement
+  source_tier: T1_OFFICIAL
+  publisher: U.S. Small Business Administration
+  source_page_url: https://www.sba.gov/document/sba-form-1059-security-agreement
+  document_url: https://legacy.sba.gov/sites/default/files/2017-11/tools_sbf_finasst1059_0.pdf
+  form_number: SBA Form 1059
+  edition_or_revision_date: February 2004 (posted; page last updated Nov 30, 2017)
+  access: Free
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY official SBA UCC Article 9 security agreement blank granting security interest in personal property collateral securing the SBA note. Program-specific; pairs with Form 147. Drive: SBA-Form-1059-Security-Agreement.pdf (1DuiFQAPM_X7o6k7CADeqETfOiU1V7QF7).'
+  last_verified: '2026-09-29'
+- id: sale-simple-agreement-for-liquidity-exit
+  title: SALE — Simple Agreement for Liquidity Exit (private company secondary)
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: secondary-stock-transfer
+  source_tier: T2_OPEN_MODEL
+  publisher: Evan J. Lonergan (CC0 open-source; not Michael Best work product)
+  source_page_url: https://simpleagreementforliquidity.com/
+  document_url: https://github.com/evanjlonergan/SALE/raw/main/SALE.docx
+  form_number: SALE v1.0
+  edition_or_revision_date: March 2026 v1.0
+  access: Free (CC0 1.0)
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY CC0 standardized secondary transfer instrument combining purchase agreement, ROFR waiver, and deemed joinder for Delaware corporation private stock (~16k chars). Repo: https://github.com/evanjlonergan/SALE . Drive: SALE-Simple-Agreement-for-Liquidity-Exit.docx (1sbN5X0VpPYcG6WtKwJfEd3h1ROUa2OP4) under Secondary — SALE private stock (1-wMMUbwOTQqE6VqdZPhTFqcQR7YD1d6P). Not white-shoe firm-branded; open-source attorney form — use as drafting start, not market-standard substitute for bespoke SPAs.'
+  last_verified: '2026-09-29'
+- id: sale-board-resolution-secondary-liquidity-policy
+  title: SALE Board Resolution — Secondary Liquidity Policy
+  jurisdiction: DE
+  practice_area: securities-ma
+  category: secondary-stock-transfer
+  source_tier: T2_OPEN_MODEL
+  publisher: Evan J. Lonergan (CC0 open-source; not Michael Best work product)
+  source_page_url: https://simpleagreementforliquidity.com/
+  document_url: https://github.com/evanjlonergan/SALE/raw/main/Board_Resolution_Secondary_Liquidity_Policy.docx
+  form_number: null
+  edition_or_revision_date: March 2026 v1.0
+  access: Free (CC0 1.0)
+  copy_policy: link_only
+  quality_notes: 'TEMPLATE-READY CC0 unanimous written consent establishing a Secondary Liquidity Program authorizing SALE transfers within pricing/volume guardrails. Drive: SALE-Board-Resolution-Secondary-Liquidity-Policy.docx (1LtS-OllPgDYodD-m_V6dscssvyeI-aUC).'
+  last_verified: '2026-09-29'
+- id: openvc-orrick-management-company-key-terms
+  title: Executive Summary of Key Terms — Management Company (OpenVC / Orrick)
+  jurisdiction: DE
+  practice_area: private-funds
+  category: gp-management-company
+  source_tier: T2_OPEN_MODEL
+  publisher: OpenVC / Orrick (Dolph Hellman) via David Teten
+  source_page_url: https://www.openvc.app/blog/downloadable-template-management-company-agreement-for-new-vc-funds
+  document_url: https://docs.google.com/document/d/1LOyumM3jnlLGlpA4Tjbn85iYZY69Dm9z/edit
+  form_number: null
+  edition_or_revision_date: Posted alongside 2025 GP-entity series
+  access: Free
+  copy_policy: link_only
+  quality_notes: TEMPLATE-READY management-company key-terms executive summary (fee economics, employment/platform assets, partner economics) — not a full management-company LLC Agreement. Companion to openvc-orrick-gp-entity-key-terms. Full white-shoe GP/Mgmt OAs remain gated/unpublished.
+  last_verified: '2026-09-29'
